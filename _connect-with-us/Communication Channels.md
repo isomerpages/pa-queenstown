@@ -3,7 +3,10 @@ title: Communication Channels
 permalink: /communication-channels/
 description: ""
 ---
-![](/images/CONNECT%20WITH%20US/connect-with-other-qts.png)
+![](/images/CONNECT%20WITH%20US/connect-with-us.png)
+
+<h1 style="text-align:center;![]()color:#102A80;">Connect with other QTs</h1>
+<p style="text-align:center;font-size:20px;color:#102A80;">Join the channels below and connect with others in Queenstown!</p>
 
 <br>
 
@@ -11,31 +14,22 @@ description: ""
 <tbody><tr>
   <td>
 		<a href="https://www.facebook.com">
-						<img src="/images/CONNECT%20WITH%20US/facebook-button.png">
+						<img style="width:100px;height:144px" src="/images/CONNECT%20WITH%20US/facebook-button.png">
 		</a>
-	</td>
-	<td>
-		<p></p>
 	</td>
   <td>
 		<a href="https://www.instagram.com">
-						<img src="/images/CONNECT%20WITH%20US/instagram-button.png">
+						<img style="width:100px;height:144px" src="/images/CONNECT%20WITH%20US/instagram-button.png">
 		</a>
-	</td>
-	<td>
-		<p></p>
 	</td>
   <td>
 		<a href="https://www.telegram.com">
-						<img src="/images/CONNECT%20WITH%20US/telegram-button.png">
+						<img style="width:100px;height:144px" src="/images/CONNECT%20WITH%20US/telegram-button.png">
 		</a>
-	</td>
-	<td>
-		<p></p>
 	</td>
   <td>
 		<a href="https://www.whatsapp.com">
-						<img src="/images/CONNECT%20WITH%20US/whatsapp-button.png">
+						<img style="width:100px;height:144px" src="/images/CONNECT%20WITH%20US/whatsapp-button.png">
 		</a>
 	</td>
 </tr>	
