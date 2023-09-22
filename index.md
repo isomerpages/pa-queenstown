@@ -27,7 +27,7 @@ sections:
       button: READ MORE
       alt: Image alt text
       url: /mr-eric-chua-message
-      image: /images/ABOUT QT/mr-eric-profile.png
+      image: /images/home-adviser.png
   - infopic:
       title: Hawker Fest
       description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
