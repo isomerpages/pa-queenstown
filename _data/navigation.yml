@@ -1,15 +1,8 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
+  - title: ABOUT QT
+    url: /about-qt
+  - title: HAWKERFEST
     url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: CONNECT WITH US
+    url: /contact-us/
