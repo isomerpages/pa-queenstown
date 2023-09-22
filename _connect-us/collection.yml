@@ -1,4 +1,5 @@
 collections:
   connect-us:
     output: true
-    order: []
+    order:
+      - Contact Us.md
