@@ -1,0 +1,4 @@
+collections:
+  connect-us:
+    output: true
+    order: []
