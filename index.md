@@ -21,11 +21,12 @@ sections:
           description: ""
           url: ""
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: A Message from our Adviser
+      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      button: READ MORE
       alt: Image alt text
+      url: /mr-eric-chua-message
   - infopic:
       title: A Message from our Adviser
       description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
