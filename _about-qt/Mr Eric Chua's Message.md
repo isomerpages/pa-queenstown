@@ -11,7 +11,7 @@ description: ""
 	<td>
 	<br>
 	</td>
-  <td style="width:70%">
+  <td style="width:65%">
 		<p style="font-size:40px;font-weight:600;line-height:40px;color:#102A80;margin-bottom:-6px">
 			A Message from our Adviser
 		</p>
