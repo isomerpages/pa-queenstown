@@ -1,7 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
   - title: ABOUT QT
-    url: /about-qt
+    collection: about-qt
   - title: HAWKERFEST
     url: /example-page/
   - title: CONNECT WITH US
