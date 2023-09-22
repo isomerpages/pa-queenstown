@@ -7,4 +7,4 @@ links:
   - title: CONTACT US
     url: /contact-us/
   - title: CONNECT WITH US
-    url: /connect-with-us
+    collection: connect-us
