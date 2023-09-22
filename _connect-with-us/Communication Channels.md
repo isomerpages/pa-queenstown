@@ -5,8 +5,8 @@ description: ""
 ---
 ![](/images/CONNECT%20WITH%20US/connect-with-us.png)
 
-<h1 style="text-align:center;![]()color:#102A80;">Connect with other QTs</h1>
-<p style="text-align:center;font-size:20px;color:#102A80;">Join the channels below and connect with others in Queenstown!</p>
+<h1 style="text-align:center;color:#102A80;margin-top:-8px">Connect with other QTs</h1>
+<p style="text-align:center;font-size:20px;color:#102A80;margin-top:16px">Join the channels below and connect with others in Queenstown!</p>
 
 <br>
 
