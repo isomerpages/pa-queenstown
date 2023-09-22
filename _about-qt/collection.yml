@@ -1,4 +1,5 @@
 collections:
   about-qt:
     output: true
-    order: []
+    order:
+      - Mr Eric Chua's Message.md
