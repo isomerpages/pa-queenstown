@@ -35,4 +35,5 @@ sections:
       button: READ MORE
       url: /hawker-fest
       alt: Image alt text
+      image: /images/home-hawker-fest.png
 ---
