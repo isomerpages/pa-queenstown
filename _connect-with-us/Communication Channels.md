@@ -6,7 +6,6 @@ description: ""
 ![](/images/CONNECT%20WITH%20US/connect-with-other-qts.png)
 
 <br>
-<br>
 
 <table>
 <tbody><tr>
