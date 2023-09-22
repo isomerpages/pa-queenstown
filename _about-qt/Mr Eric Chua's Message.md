@@ -12,10 +12,10 @@ description: ""
 	<br>
 	</td>
   <td style="width:70%">
-		<p style="font-size:40px;font-weight:600;line-height:40px;color:#102A80">
+		<p style="font-size:40px;font-weight:600;line-height:40px;color:#102A80;margin-bottom:-6px">
 			A Message from our Adviser
 		</p>
-		<p style="font-size:20px;line-height:32px;font-weight:400;color:#102A80">
+		<p style="font-size:20px;line-height:32px;font-weight:400;color:#102A80;margin-bottom:-6px">
 			"A true community is not just about being geographically close to someone or part of the same social web network. It's about feeling connected and responsible for what happens. Humanity is our ultimate community, and everyone plays a crucial role!"
 		</p>
 		<p style="font-size:28px;font-weight:600;line-height:32px;color:#102A80">
