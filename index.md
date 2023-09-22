@@ -10,16 +10,6 @@ sections:
       background: /images/home_header.png
       button: Contact Us
       url: /contact-us/
-      key_highlights:
-        - title: ""
-          description: ""
-          url: ""
-        - title: ""
-          description: ""
-          url: ""
-        - title: ""
-          description: ""
-          url: ""
   - infopic:
       title: A Message from our Adviser
       description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
