@@ -28,10 +28,10 @@ sections:
       alt: Image alt text
       url: /mr-eric-chua-message
   - infopic:
-      title: A Message from our Adviser
+      title: Hawker Fest
       description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
         eiusmod tempor incididunt ut labore et dolore magna aliqua.
       button: READ MORE
-      url: /mr-eric-chua-message
+      url: /hawker-fest
       alt: Image alt text
 ---
