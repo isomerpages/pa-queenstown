@@ -26,8 +26,11 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
+  - infopic:
+      title: A Message from our Adviser
+      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      button: READ MORE
+      url: /mr-eric-chua-message
+      alt: Image alt text
 ---
