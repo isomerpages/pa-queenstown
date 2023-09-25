@@ -41,22 +41,22 @@ description: ""
 </div>
 
 <div style="background-color:red" class="row"> 
-	<div style="background-color:green" class="col-md-3 col-xs-5">
+	<div style="background-color:green" class="col-md-3 col-xs-2">
         <a href="https://www.facebook.com">
 						<img src="/images/CONNECT%20WITH%20US/facebook-button.png" style="width:100px;height:144px">
 		</a>
 	</div>
-	<div class="col-md-3 col-xs-5">
+	<div class="col-md-3 col-xs-2">
         <a href="https://www.facebook.com">
 						<img src="/images/CONNECT%20WITH%20US/facebook-button.png" style="width:100px;height:144px">
 		</a>
 	</div>
-	<div class="col-md-3 col-xs-5">
+	<div class="col-md-3 col-xs-2">
         <a href="https://www.facebook.com">
 						<img src="/images/CONNECT%20WITH%20US/facebook-button.png" style="width:100px;height:144px">
 		</a>
   </div>
-  <div class="col-md-3 col-xs-5">
+  <div class="col-md-3 col-xs-2">
         <a href="https://www.facebook.com">
 						<img src="/images/CONNECT%20WITH%20US/facebook-button.png" style="width:100px;height:144px">
 		</a>
