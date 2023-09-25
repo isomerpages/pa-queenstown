@@ -17,44 +17,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	<div class="col-6">
 		<img src="/images/HAWKERFEST/HAWKERFEST%202023/qt-greatest-hits.png" style="max-width:414px; max-height:382px">		
 	</div>
-	<div style="width:32px">
+	<div style="width:32px; height:352px">
 	</div>
 	<div class="col-6">
 		<img src="/images/HAWKERFEST/HAWKERFEST%202023/qt-greatest-hits.png" style="max-width:414px; max-height:382px">		
 	</div>
-</div>
-
-<div style="height:24px">
 </div>
 	
 <div class="row">
 	<div class="col-5">
 		<img src="/images/HAWKERFEST/HAWKERFEST%202023/qt-greatest-hits.png" style="max-width:414px; max-height:382px">		
 	</div>
-	<div style="width:32px">
+	<div style="width:32px; height:352px">
 	</div>
 	<div class="col-5">
 		<img src="/images/HAWKERFEST/HAWKERFEST%202023/qt-greatest-hits.png" style="max-width:414px; max-height:382px">		
 	</div>
 </div>
-
-<table>
-<tbody>
-	<tr>
-		<td style="border:0">		
-			<img src="/images/HAWKERFEST/HAWKERFEST%202023/qt-greatest-hits.png" style="max-width:414px; max-height:382px">		
-		</td>
-		<td style="border:0">
-				<img src="/images/HAWKERFEST/HAWKERFEST%202023/qt-greatest-hits.png" style="max-width:414px; max-height:382px">
-			</td>
-		</tr>	
-	<tr>
-		<td style="border:0">		
-			<img src="/images/HAWKERFEST/HAWKERFEST%202023/qt-greatest-hits.png" style="max-width:414px; max-height:382px">		
-		</td>
-		<td style="border:0">
-				<img src="/images/HAWKERFEST/HAWKERFEST%202023/qt-greatest-hits.png" style="max-width:414px; max-height:382px">
-			</td>
-		</tr>	
-	</tbody>
-</table>
