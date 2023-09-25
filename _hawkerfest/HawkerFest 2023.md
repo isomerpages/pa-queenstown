@@ -9,8 +9,34 @@ description: ""
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 </p>
 
-<img src="/images/HAWKERFEST/HAWKERFEST%202023/open-ceremony.png" style="padding-left:13%;padding-right:13%">
+<img src="/images/HAWKERFEST/HAWKERFEST%202023/open-ceremony.png" style="padding-left:24px;padding-right:24px">
 
+<br>
+
+<div class="row">
+	<div class="col-6">
+		<img src="/images/HAWKERFEST/HAWKERFEST%202023/qt-greatest-hits.png" style="max-width:414px; max-height:382px">		
+	</div>
+	<div style="width:32px">
+	</div>
+	<div class="col-6">
+		<img src="/images/HAWKERFEST/HAWKERFEST%202023/qt-greatest-hits.png" style="max-width:414px; max-height:382px">		
+	</div>
+</div>
+
+<div style="height:24px">
+</div>
+	
+<div class="row">
+	<div class="col-5">
+		<img src="/images/HAWKERFEST/HAWKERFEST%202023/qt-greatest-hits.png" style="max-width:414px; max-height:382px">		
+	</div>
+	<div style="width:32px">
+	</div>
+	<div class="col-5">
+		<img src="/images/HAWKERFEST/HAWKERFEST%202023/qt-greatest-hits.png" style="max-width:414px; max-height:382px">		
+	</div>
+</div>
 
 <table>
 <tbody>
