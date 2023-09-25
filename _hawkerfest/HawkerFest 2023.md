@@ -20,17 +20,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	<div style="width:32px">
 	</div>
 	<div class="col-6">
-		<img src="/images/HAWKERFEST/HAWKERFEST%202023/qt-greatest-hits.png" style="max-width:414px; max-height:382px; margin-bottom:16px">		
+		<img src="/images/HAWKERFEST/HAWKERFEST%202023/qt-hawker-heritage-trail.png" style="max-width:414px; max-height:382px; margin-bottom:16px">		
 	</div>
 </div>
 	
 <div style="padding-top:16px" class="row">
 	<div class="col-5">
-		<img src="/images/HAWKERFEST/HAWKERFEST%202023/qt-greatest-hits.png" style="max-width:414px; max-height:382px; margin-bottom:16px">		
+		<img src="/images/HAWKERFEST/HAWKERFEST%202023/qt-hawker-cafe-remix.png" style="max-width:414px; max-height:382px; margin-bottom:16px">		
 	</div>
 	<div style="width:32px">
 	</div>
 	<div class="col-5">
-		<img src="/images/HAWKERFEST/HAWKERFEST%202023/qt-greatest-hits.png" style="max-width:414px; max-height:382px; margin-bottom:16px">		
+		<img src="/images/HAWKERFEST/HAWKERFEST%202023/the-great-qt-hawker-fest.png" style="max-width:414px; max-height:382px; margin-bottom:16px">		
 	</div>
 </div>
