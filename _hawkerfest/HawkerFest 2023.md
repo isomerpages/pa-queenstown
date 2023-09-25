@@ -30,7 +30,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	</div>
 </div>
 
-<div style="margin-top:-48px" class="row">
+<div class="row">
 	<div style="position: relative;width:414px; height:382px;margin-left:8px;margin-right:8px" class="col-6">
 		<img src="/images/HAWKERFEST/HAWKERFEST%202023/card-lavendar.png" style="max-width:414px; max-height:382px; margin-bottom:16px; position:absolute;">		
 		<div style="padding-left:24px;padding-top:48px;padding-right:24px;position:absolute">
