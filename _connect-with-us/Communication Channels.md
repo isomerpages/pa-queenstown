@@ -12,46 +12,23 @@ description: ""
 <tbody><tr>
   <td>
 		<a href="https://www.facebook.com">
-						<img src="/images/CONNECT%20WITH%20US/facebook-button.png" style="width:100px;height:144px">
+						<img src="/images/CONNECT%20WITH%20US/facebook-button.png" style="max-width:100px;max-height:144px">
 		</a>
 	</td>
   <td>
 		<a href="https://www.instagram.com">
-						<img src="/images/CONNECT%20WITH%20US/instagram-button.png" style="width:100px;height:144px">
+						<img src="/images/CONNECT%20WITH%20US/instagram-button.png" style="max-width:100px;max-height:144px">
 		</a>
 	</td>
   <td>
 		<a href="https://www.telegram.com">
-						<img src="/images/CONNECT%20WITH%20US/telegram-button.png" style="width:100px;height:144px">
+						<img src="/images/CONNECT%20WITH%20US/telegram-button.png" style="max-width:100px;max-height:144px">
 		</a>
 	</td>
   <td>
 		<a href="https://www.whatsapp.com">
-						<img src="/images/CONNECT%20WITH%20US/whatsapp-button.png" style="width:100px;height:144px">
+						<img src="/images/CONNECT%20WITH%20US/whatsapp-button.png" style="max-width:100px;max-height:144px">
 		</a>
 	</td>
 </tr>	
 </tbody></table>
-
-<div class="row">  
-	<div style="background-color:red;" class="col-xs-9 col-md-7">
-		<a href="https://www.telegram.com">
-						<img src="/images/CONNECT%20WITH%20US/telegram-button.png" style="width:100px;height:144px">
-		</a>
-	</div>  
-	<div style="background-color:lavender;" class="col-xs-3 col-md-5">
-		<a href="https://www.telegram.com">
-						<img src="/images/CONNECT%20WITH%20US/telegram-button.png" style="width:100px;height:144px">
-		</a>
-	</div>
-		<div style="background-color:lavender;" class="col-xs-3 col-md-5">
-		<a href="https://www.telegram.com">
-						<img src="/images/CONNECT%20WITH%20US/telegram-button.png" style="width:100px;height:144px">
-		</a>
-	</div>
-		<div style="background-color:lavender;" class="col-xs-3 col-md-5">
-		<a href="https://www.telegram.com">
-						<img src="/images/CONNECT%20WITH%20US/telegram-button.png" style="width:100px;height:144px">
-		</a>
-	</div>
-</div>
