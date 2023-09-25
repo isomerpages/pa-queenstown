@@ -40,7 +40,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 				<p style="color:#102A80;font-weight:400;font-size:17px;margin-top:0px">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 		</div>
 	</div>
-	<div style="width:32px">
 	</div>
 		<div style="position: relative;width:414px; height:382px;" class="col-6">
 		<img src="/images/HAWKERFEST/HAWKERFEST%202023/card-blue.png" style="max-width:414px; max-height:382px; margin-bottom:16px; position:absolute;">		
@@ -49,7 +48,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 				<p style="color:white;font-weight:400;font-size:17px;margin-top:0px">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 		</div>
 	</div>
-</div>
+
 
 <br>
 
@@ -57,12 +56,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	<div class="col-6">
 		<img src="/images/HAWKERFEST/HAWKERFEST%202023/qt-greatest-hits.png" style="max-width:414px; max-height:382px; margin-bottom:16px">		
 	</div>
-	<div style="width:32px">
 	</div>
 	<div class="col-6">
 		<img src="/images/HAWKERFEST/HAWKERFEST%202023/qt-hawker-heritage-trail.png" style="max-width:414px; max-height:382px; margin-bottom:16px">		
 	</div>
-</div>
+
 	
 <div style="padding-top:16px" class="row">
 	<div class="col-5">
