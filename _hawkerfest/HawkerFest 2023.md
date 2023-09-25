@@ -14,19 +14,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <table>
 <tbody>
-	<tr style="border:0">
-		<td>		
+	<tr>
+		<td style="border:0">		
 			<img src="/images/HAWKERFEST/HAWKERFEST%202023/qt-greatest-hits.png" style="max-width:414px; max-height:382px">		
 		</td>
-		<td>
+		<td style="border:0">
 				<img src="/images/HAWKERFEST/HAWKERFEST%202023/qt-greatest-hits.png" style="max-width:414px; max-height:382px">
 			</td>
 		</tr>	
-	<tr style="border:0">
-		<td>		
+	<tr>
+		<td style="border:0">		
 			<img src="/images/HAWKERFEST/HAWKERFEST%202023/qt-greatest-hits.png" style="max-width:414px; max-height:382px">		
 		</td>
-		<td>
+		<td style="border:0">
 				<img src="/images/HAWKERFEST/HAWKERFEST%202023/qt-greatest-hits.png" style="max-width:414px; max-height:382px">
 			</td>
 		</tr>	
