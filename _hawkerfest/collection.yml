@@ -1,4 +1,5 @@
 collections:
   hawkerfest:
     output: true
-    order: []
+    order:
+      - HawkerFest 2023.md
