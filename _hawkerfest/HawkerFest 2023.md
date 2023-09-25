@@ -24,7 +24,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	</div>
 </div>
 	
-<div class="row">
+<div style="padding-top:16px" class="row">
 	<div class="col-5">
 		<img src="/images/HAWKERFEST/HAWKERFEST%202023/qt-greatest-hits.png" style="max-width:414px; max-height:382px; margin-bottom:16px">		
 	</div>
