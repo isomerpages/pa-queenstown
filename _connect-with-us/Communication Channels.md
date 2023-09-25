@@ -33,6 +33,12 @@ description: ""
 </tr>	
 </tbody></table>
 
+<div class="row">  
+	<div style="background-color:red;" class="col-xs-9 col-md-7">.col-xs-9 .col-md-7
+	</div>  
+	<div style="background-color:lavender;" class="col-xs-3 col-md-5">.col-xs-3 .col-md-5
+	</div>  
+</div>
 
 <div class="row"> 
 	<div class="col-md-3 col-xs-6">
