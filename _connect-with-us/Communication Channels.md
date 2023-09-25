@@ -12,46 +12,47 @@ description: ""
 <tbody><tr>
   <td>
 		<a href="https://www.facebook.com">
-						<img style="width:100px;height:144px" src="/images/CONNECT%20WITH%20US/facebook-button.png">
+						<img src="/images/CONNECT%20WITH%20US/facebook-button.png" style="width:100px;height:144px">
 		</a>
 	</td>
   <td>
 		<a href="https://www.instagram.com">
-						<img style="width:100px;height:144px" src="/images/CONNECT%20WITH%20US/instagram-button.png">
+						<img src="/images/CONNECT%20WITH%20US/instagram-button.png" style="width:100px;height:144px">
 		</a>
 	</td>
   <td>
 		<a href="https://www.telegram.com">
-						<img style="width:100px;height:144px" src="/images/CONNECT%20WITH%20US/telegram-button.png">
+						<img src="/images/CONNECT%20WITH%20US/telegram-button.png" style="width:100px;height:144px">
 		</a>
 	</td>
   <td>
 		<a href="https://www.whatsapp.com">
-						<img style="width:100px;height:144px" src="/images/CONNECT%20WITH%20US/whatsapp-button.png">
+						<img src="/images/CONNECT%20WITH%20US/whatsapp-button.png" style="width:100px;height:144px">
 		</a>
 	</td>
 </tr>	
 </tbody></table>
 
+
 <div class="row"> 
 	<div class="col-md-3 col-xs-6">
         <a href="https://www.facebook.com">
-						<img style="width:100px;height:144px" src="/images/CONNECT%20WITH%20US/facebook-button.png">
+						<img src="/images/CONNECT%20WITH%20US/facebook-button.png" style="width:100px;height:144px">
 		</a>
 	</div>
 	<div class="col-md-3 col-xs-6">
         <a href="https://www.facebook.com">
-						<img style="width:100px;height:144px" src="/images/CONNECT%20WITH%20US/facebook-button.png">
+						<img src="/images/CONNECT%20WITH%20US/facebook-button.png" style="width:100px;height:144px">
 		</a>
 	</div>
 	<div class="col-md-3 col-xs-6">
         <a href="https://www.facebook.com">
-						<img style="width:100px;height:144px" src="/images/CONNECT%20WITH%20US/facebook-button.png">
+						<img src="/images/CONNECT%20WITH%20US/facebook-button.png" style="width:100px;height:144px">
 		</a>
   </div>
   <div class="col-md-3 col-xs-6">
         <a href="https://www.facebook.com">
-						<img style="width:100px;height:144px" src="/images/CONNECT%20WITH%20US/facebook-button.png">
+						<img src="/images/CONNECT%20WITH%20US/facebook-button.png" style="width:100px;height:144px">
 		</a>
 	</div>
 </div>
