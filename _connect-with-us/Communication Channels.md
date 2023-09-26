@@ -73,10 +73,21 @@ description: ""
 	
 .social-media-container-mobile {
 	visibility: hidden;
+	margin-top: -120px;
+	
+	@media only screen and (max-width: 320px) {
+		visibility: visible;
+		margin-top: -80px;
+	}
+	
+	@media only screen and (max-width: 425px) {
+		visibility: visible;
+		margin-top: -100px;
+	}
 	
 	@media only screen and (max-width: 768px) {
 		visibility: visible;
-		padding-top: -24px;
+		margin-top: -120px;
 	}
 }
 	
