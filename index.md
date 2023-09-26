@@ -21,7 +21,7 @@ sections:
       description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
         eiusmod tempor incididunt ut labore et dolore magna aliqua.
       button: READ MORE
-      url: /hawker-fest
+      url: /hawkerfest/hawkerfest-2023/
       alt: Image alt text
       image: /images/home-hawker-fest.png
 ---
