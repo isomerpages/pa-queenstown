@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: QUEENSTOWN
+title: Queenstown Community
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
