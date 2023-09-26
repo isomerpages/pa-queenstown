@@ -36,8 +36,8 @@ description: ""
 </div>
 
 <div class="social-media-container-mobile">
-	<table style="border-spacing: 0 15px">
-	<tbody><tr>
+	<table>
+	<tbody><tr style="padding-bottom: 24px">
 		<td style="border:0">
 			<a href="https://www.facebook.com">
 							<img src="/images/CONNECT%20WITH%20US/facebook-button.png" class="social-media-button">
@@ -49,7 +49,7 @@ description: ""
 			</a>
 		</td>
 	</tr>
-	<tr class="social-media-row">
+	<tr style="padding-bottom: 24px">
 		<td>
 			<a href="https://www.telegram.com">
 							<img src="/images/CONNECT%20WITH%20US/telegram-button.png" class="social-media-button">
@@ -63,7 +63,7 @@ description: ""
 	</tr>	
 	</tbody></table>
 </div>
-<p>123</p>
+<p>123456</p>
 
 <style>
 .social-media-button {
