@@ -12,17 +12,17 @@ description: ""
 <tbody><tr>
   <td>
 		<a href="https://www.facebook.com">
-						<img src="/images/CONNECT%20WITH%20US/facebook-button.png" style="max-width:100px;max-height:144px">
+						<img src="/images/CONNECT%20WITH%20US/facebook-button.png" class="social-media-container">
 		</a>
 	</td>
   <td>
 		<a href="https://www.instagram.com">
-						<img src="/images/CONNECT%20WITH%20US/instagram-button.png" style="max-width:100px;max-height:144px">
+						<img src="/images/CONNECT%20WITH%20US/instagram-button.png" class="social-media-container">
 		</a>
 	</td>
   <td>
 		<a href="https://www.telegram.com">
-						<img src="/images/CONNECT%20WITH%20US/telegram-button.png" style="max-width:100px;max-height:144px">
+						<img src="/images/CONNECT%20WITH%20US/telegram-button.png" class="social-media-container">
 		</a>
 	</td>
   <td>
@@ -33,9 +33,37 @@ description: ""
 </tr>	
 </tbody></table>
 
+<div class="row">
+      <div class="col-md-3 col-xs-6">
+        <a href="https://www.whatsapp.com">
+						<img src="/images/CONNECT%20WITH%20US/whatsapp-button.png" class="social-media-container">
+		</a>
+      </div>
+      <div class="col-md-3 col-xs-6">
+        <a href="https://www.whatsapp.com">
+						<img src="/images/CONNECT%20WITH%20US/whatsapp-button.png" class="social-media-container">
+		</a>
+      </div>
+      <div class="col-md-3 col-xs-6">
+        <a href="https://www.whatsapp.com">
+						<img src="/images/CONNECT%20WITH%20US/whatsapp-button.png" class="social-media-container">
+		</a>
+      </div>
+      <div class="col-md-3 col-xs-6">
+        <a href="https://www.whatsapp.com">
+						<img src="/images/CONNECT%20WITH%20US/whatsapp-button.png" class="social-media-container">
+		</a>
+      </div>
+</div>
+		
 <style>
-.social-media-container: {
+.social-media-container {
 	max-width:100px;
 	max-height:144px;
+	
+	@media (max-width: 768px) {
+		
+	}
+
 }
 </style>
