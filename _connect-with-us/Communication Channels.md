@@ -34,7 +34,7 @@ description: ""
 </tbody></table>
 
 <style>
-social-media-container: {
+.social-media-container: {
 	max-width:100px;
 	max-height:144px;
 }
