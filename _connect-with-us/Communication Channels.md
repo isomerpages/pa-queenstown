@@ -60,6 +60,8 @@ description: ""
 </tr>	
 </tbody></table>
 		
+<p>qweqwe</p>
+		
 <style>
 .social-media-button {
 	max-width:100px;
@@ -67,16 +69,16 @@ description: ""
 }
 	
 .social-media-container-mobile {
+	visibility: hidden
 	@media (max-width: 768) {
 		visibility: visible
 	}
-	visibility: hidden
 }
 	
 .social-media-container-website {
+	visibility: hidden
 	@media (min-width: 769) {
 		visibility: visible
 	}
-	visibility: hidden
 }
 </style>
