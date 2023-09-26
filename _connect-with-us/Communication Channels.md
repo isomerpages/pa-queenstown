@@ -36,7 +36,7 @@ description: ""
 </div>
 
 <div class="social-media-container-mobile">
-	<table>
+	<table style="border-spacing: 0 15px">
 	<tbody><tr>
 		<td style="border:0">
 			<a href="https://www.facebook.com">
@@ -63,17 +63,12 @@ description: ""
 	</tr>	
 	</tbody></table>
 </div>
-		
+<p>123</p>
+
 <style>
 .social-media-button {
 	max-width:100px;
 	max-height:144px;
-}
-	
-.social-media-row {
-	@media only screen and (max-width: 768px) {
-		padding-top: 24px;
-	}
 }
 	
 .social-media-container-mobile {
