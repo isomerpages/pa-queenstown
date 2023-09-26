@@ -32,3 +32,9 @@ description: ""
 	</td>
 </tr>	
 </tbody></table>
+
+<style>
+social-media-container: {
+		max-width:100px
+}
+</style>
