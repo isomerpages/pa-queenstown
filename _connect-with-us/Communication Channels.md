@@ -35,12 +35,12 @@ description: ""
 
 <table class="social-media-container-mobile">
 <tbody><tr>
-  <td>
+  <td style="border:0">
 		<a href="https://www.facebook.com">
 						<img src="/images/CONNECT%20WITH%20US/facebook-button.png" class="social-media-button">
 		</a>
 	</td>
-  <td>
+  <td style="border:0">
 		<a href="https://www.instagram.com">
 						<img src="/images/CONNECT%20WITH%20US/instagram-button.png" class="social-media-button">
 		</a>
