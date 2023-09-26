@@ -12,22 +12,22 @@ description: ""
 <tbody><tr>
   <td>
 		<a href="https://www.facebook.com">
-						<img src="/images/CONNECT%20WITH%20US/facebook-button.png" class="social-media-container">
+						<img src="/images/CONNECT%20WITH%20US/facebook-button.png" class="social-media-button">
 		</a>
 	</td>
   <td>
 		<a href="https://www.instagram.com">
-						<img src="/images/CONNECT%20WITH%20US/instagram-button.png" class="social-media-container">
+						<img src="/images/CONNECT%20WITH%20US/instagram-button.png" class="social-media-button">
 		</a>
 	</td>
   <td>
 		<a href="https://www.telegram.com">
-						<img src="/images/CONNECT%20WITH%20US/telegram-button.png" class="social-media-container">
+						<img src="/images/CONNECT%20WITH%20US/telegram-button.png" class="social-media-button">
 		</a>
 	</td>
   <td>
 		<a href="https://www.whatsapp.com">
-						<img src="/images/CONNECT%20WITH%20US/whatsapp-button.png" class="social-media-container">
+						<img src="/images/CONNECT%20WITH%20US/whatsapp-button.png" class="social-media-button">
 		</a>
 	</td>
 </tr>	
@@ -37,24 +37,24 @@ description: ""
 <tbody><tr>
   <td>
 		<a href="https://www.facebook.com">
-						<img src="/images/CONNECT%20WITH%20US/facebook-button.png" class="social-media-container">
+						<img src="/images/CONNECT%20WITH%20US/facebook-button.png" class="social-media-button">
 		</a>
 	</td>
   <td>
 		<a href="https://www.instagram.com">
-						<img src="/images/CONNECT%20WITH%20US/instagram-button.png" class="social-media-container">
+						<img src="/images/CONNECT%20WITH%20US/instagram-button.png" class="social-media-button">
 		</a>
 	</td>
 </tr>
 	<tr>
   <td>
 		<a href="https://www.telegram.com">
-						<img src="/images/CONNECT%20WITH%20US/telegram-button.png" class="social-media-container">
+						<img src="/images/CONNECT%20WITH%20US/telegram-button.png" class="social-media-button">
 		</a>
 	</td>
   <td>
 		<a href="https://www.whatsapp.com">
-						<img src="/images/CONNECT%20WITH%20US/whatsapp-button.png" class="social-media-container">
+						<img src="/images/CONNECT%20WITH%20US/whatsapp-button.png" class="social-media-button">
 		</a>
 	</td>
 </tr>	
