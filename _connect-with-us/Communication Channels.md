@@ -72,7 +72,7 @@ description: ""
 	
 .social-media-row {
 	@media only screen and (max-width: 768px) {
-		padding-bottom: 24px;
+		padding-top: 24px;
 	}
 }
 	
