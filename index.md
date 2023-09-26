@@ -8,7 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/home_header.png
-      button: Contact Us
       url: /contact-us/
   - infopic:
       title: A Message from our Adviser
