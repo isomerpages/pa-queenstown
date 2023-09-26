@@ -60,7 +60,7 @@ description: ""
 </tr>	
 </tbody></table>
 		
-<p>qweqwe</p>
+<p>2222</p>
 		
 <style>
 .social-media-button {
@@ -71,7 +71,7 @@ description: ""
 .social-media-container-mobile {
 	visibility: hidden;
 	
-	@media (max-width: 768) {
+	@media only screen and (max-width: 768px) {
 		visibility: visible;
 		padding-top: -24px;
 	}
@@ -80,7 +80,7 @@ description: ""
 .social-media-container-website {
 	visibility: hidden;
 	
-	@media (min-width: 769) {
+	@media only screen and (min-width: 769px) {
 		visibility: visible;
 	}
 }
