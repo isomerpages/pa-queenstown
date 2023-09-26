@@ -38,12 +38,12 @@ description: ""
 <div class="social-media-container-mobile">
 	<table>
 	<tbody><tr>
-		<td style="border:0">
+		<td style="border:0;padding-top:10px;">
 			<a href="https://www.facebook.com">
 							<img src="/images/CONNECT%20WITH%20US/facebook-button.png" class="social-media-button">
 			</a>
 		</td>
-		<td style="border:0">
+		<td style="border:0;padding-top:10px;">
 			<a href="https://www.instagram.com">
 							<img src="/images/CONNECT%20WITH%20US/instagram-button.png" class="social-media-button">
 			</a>
@@ -63,7 +63,6 @@ description: ""
 	</tr>	
 	</tbody></table>
 </div>
-<p>12</p>
 
 <style>
 .social-media-button {
