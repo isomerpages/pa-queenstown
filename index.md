@@ -14,7 +14,7 @@ sections:
         eiusmod tempor incididunt ut labore et dolore magna aliqua.
       button: READ MORE
       alt: Image alt text
-      url: /mr-eric-chua-message
+      url: /about-qt/mr-eric-chua-message/
       image: /images/home-adviser.png
   - infopic:
       title: Hawker Fest
