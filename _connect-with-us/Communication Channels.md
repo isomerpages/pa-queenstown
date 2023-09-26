@@ -63,7 +63,6 @@ description: ""
 	</tr>	
 	</tbody></table>
 </div>
-<p>check123456</p>
 		
 <style>
 .social-media-button {
