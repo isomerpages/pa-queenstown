@@ -50,12 +50,12 @@ description: ""
 		</td>
 	</tr>
 	<tr>
-		<td class="td-mobile">
+		<td style="padding-top:40px">
 			<a href="https://www.telegram.com">
 							<img src="/images/CONNECT%20WITH%20US/telegram-button.png" class="social-media-button">
 			</a>
 		</td>
-		<td class="td-mobile">
+		<td style="padding-top:40px">
 			<a href="https://www.whatsapp.com">
 							<img src="/images/CONNECT%20WITH%20US/whatsapp-button.png" class="social-media-button">
 			</a>
@@ -63,7 +63,7 @@ description: ""
 	</tr>	
 	</tbody></table>
 </div>
-<p>12345678</p>
+<p>1</p>
 
 <style>
 .social-media-button {
