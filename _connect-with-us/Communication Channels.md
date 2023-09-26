@@ -77,7 +77,7 @@ description: ""
 	
 	@media only screen and (max-width: 320px) {
 		visibility: visible;
-		margin-top: -60px;
+		margin-top: -30px;
 	}
 	
 	@media only screen and (max-width: 425px) {
