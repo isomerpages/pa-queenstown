@@ -3,7 +3,7 @@ url: https://www.queenstown.pa.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#356aff"
-  secondary-color: "#356aff"
+  secondary-color: "#102a80"
   media-colors:
     - title: media-color-one
       color: "#49759a"
