@@ -1,9 +1,9 @@
 title: Title
-url: ""
+url: https://www.queenstown.pa.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#356aff"
+  secondary-color: "#102a80"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -53,3 +53,7 @@ staging: https://staging.d2k14e3dkp8goc.amplifyapp.com
 prod: https://master.d2k14e3dkp8goc.amplifyapp.com
 facebook-pixel: ""
 resources_name: test
+shareicon: /images/isomer-logo.svg
+is_government: false
+google_analytics_ga4: ""
+linkedin-insights: ""
