@@ -63,12 +63,16 @@ description: ""
 	</tr>	
 	</tbody></table>
 </div>
-<p>check12</p>
+<p>check12345</p>
 		
 <style>
 .social-media-button {
 	max-width:100px;
 	max-height:144px;
+	
+	@media only screen and (max-width: 768px) {
+		padding-bottom: 24px;
+	}
 }
 	
 .social-media-container-mobile {
@@ -87,7 +91,7 @@ description: ""
 	
 	@media only screen and (max-width: 320px) {
 		visibility: visible;
-		margin-top: -50px;
+		margin-top: -60px;
 	}
 }
 	
