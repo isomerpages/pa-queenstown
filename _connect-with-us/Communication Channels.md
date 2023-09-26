@@ -37,7 +37,7 @@ description: ""
 
 <div class="social-media-container-mobile">
 	<table>
-	<tbody><tr style="padding-bottom: 24px">
+	<tbody><tr>
 		<td style="border:0">
 			<a href="https://www.facebook.com">
 							<img src="/images/CONNECT%20WITH%20US/facebook-button.png" class="social-media-button">
@@ -50,12 +50,12 @@ description: ""
 		</td>
 	</tr>
 	<tr>
-		<td style="padding-top:40px">
+		<td style="padding-top:80px">
 			<a href="https://www.telegram.com">
 							<img src="/images/CONNECT%20WITH%20US/telegram-button.png" class="social-media-button">
 			</a>
 		</td>
-		<td style="padding-top:40px">
+		<td style="padding-top:80px">
 			<a href="https://www.whatsapp.com">
 							<img src="/images/CONNECT%20WITH%20US/whatsapp-button.png" class="social-media-button">
 			</a>
@@ -69,10 +69,6 @@ description: ""
 .social-media-button {
 	max-width:100px;
 	max-height:144px;
-}
-	
-.td-mobile {
-		padding-top: 40px;
 }
 	
 .social-media-container-mobile {
