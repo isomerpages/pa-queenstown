@@ -49,13 +49,13 @@ description: ""
 			</a>
 		</td>
 	</tr>
-	<tr style="padding-bottom: 24px">
-		<td>
+	<tr>
+		<td class="td-mobile">
 			<a href="https://www.telegram.com">
 							<img src="/images/CONNECT%20WITH%20US/telegram-button.png" class="social-media-button">
 			</a>
 		</td>
-		<td>
+		<td class="td-mobile">
 			<a href="https://www.whatsapp.com">
 							<img src="/images/CONNECT%20WITH%20US/whatsapp-button.png" class="social-media-button">
 			</a>
@@ -63,12 +63,16 @@ description: ""
 	</tr>	
 	</tbody></table>
 </div>
-<p>123456</p>
+<p>12345678</p>
 
 <style>
 .social-media-button {
 	max-width:100px;
 	max-height:144px;
+}
+	
+.td-mobile {
+		padding-top: 40px;
 }
 	
 .social-media-container-mobile {
