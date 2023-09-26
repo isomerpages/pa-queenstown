@@ -27,7 +27,7 @@ description: ""
 	</td>
   <td>
 		<a href="https://www.whatsapp.com">
-						<img src="/images/CONNECT%20WITH%20US/whatsapp-button.png" style="max-width:100px;max-height:144px">
+						<img src="/images/CONNECT%20WITH%20US/whatsapp-button.png" class="social-media-container">
 		</a>
 	</td>
 </tr>	
@@ -35,6 +35,7 @@ description: ""
 
 <style>
 social-media-container: {
-		max-width:100px
+	max-width:100px;
+	max-height:144px;
 }
 </style>
