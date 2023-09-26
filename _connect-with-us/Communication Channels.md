@@ -49,7 +49,7 @@ description: ""
 			</a>
 		</td>
 	</tr>
-		<tr>
+	<tr class="social-media-row">
 		<td>
 			<a href="https://www.telegram.com">
 							<img src="/images/CONNECT%20WITH%20US/telegram-button.png" class="social-media-button">
@@ -63,13 +63,15 @@ description: ""
 	</tr>	
 	</tbody></table>
 </div>
-<p>check12345</p>
+<p>check123456</p>
 		
 <style>
 .social-media-button {
 	max-width:100px;
 	max-height:144px;
+}
 	
+.social-media-row {
 	@media only screen and (max-width: 768px) {
 		padding-bottom: 24px;
 	}
