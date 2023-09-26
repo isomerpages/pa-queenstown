@@ -69,16 +69,19 @@ description: ""
 }
 	
 .social-media-container-mobile {
-	visibility: hidden
+	visibility: hidden;
+	
 	@media (max-width: 768) {
-		visibility: visible
+		visibility: visible;
+		padding-top: -24px;
 	}
 }
 	
 .social-media-container-website {
-	visibility: hidden
+	visibility: hidden;
+	
 	@media (min-width: 769) {
-		visibility: visible
+		visibility: visible;
 	}
 }
 </style>
