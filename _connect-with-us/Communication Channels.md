@@ -63,7 +63,7 @@ description: ""
 	</tr>	
 	</tbody></table>
 </div>
-<p>22111122</p>
+<p>qweqwe</p>
 		
 <style>
 .social-media-button {
@@ -77,7 +77,7 @@ description: ""
 	
 	@media only screen and (max-width: 320px) {
 		visibility: visible;
-		margin-top: -80px;
+		margin-top: -60px;
 	}
 	
 	@media only screen and (max-width: 425px) {
@@ -87,7 +87,7 @@ description: ""
 	
 	@media only screen and (max-width: 768px) {
 		visibility: visible;
-		margin-top: -120px;
+		margin-top: -130px;
 	}
 }
 	
