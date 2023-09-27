@@ -12,22 +12,22 @@ description: ""
 	<table>
 	<tbody><tr>
 		<td>
-			<a href="https://www.facebook.com">
+			<a href="https://www.facebook.com/queenstowncc">
 							<img src="/images/CONNECT%20WITH%20US/facebook-button.png" class="social-media-button">
 			</a>
 		</td>
 		<td>
-			<a href="https://www.instagram.com">
+			<a href="https://www.instagram.comqueenstownsg">
 							<img src="/images/CONNECT%20WITH%20US/instagram-button.png" class="social-media-button">
 			</a>
 		</td>
 		<td>
-			<a href="https://www.telegram.com">
+			<a href="https://t.me/queenstownsg">
 							<img src="/images/CONNECT%20WITH%20US/telegram-button.png" class="social-media-button">
 			</a>
 		</td>
 		<td>
-			<a href="https://www.whatsapp.com">
+			<a href="https://www.whatsapp.com/channel/0029Va4jWx9AjPXJ6xYI0K0r">
 							<img src="/images/CONNECT%20WITH%20US/whatsapp-button.png" class="social-media-button">
 			</a>
 		</td>
