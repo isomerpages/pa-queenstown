@@ -2,7 +2,7 @@
 layout: homepage
 title: Queenstown Community
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/shareicon.png
 permalink: /
 notification: ""
 sections:
