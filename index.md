@@ -17,7 +17,7 @@ sections:
       url: /about-qt/mr-eric-chua-message/
       image: /images/home-adviser.png
   - infopic:
-      title: Hawker Fest
+      title: HawkerFest
       description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
         eiusmod tempor incididunt ut labore et dolore magna aliqua.
       button: READ MORE
