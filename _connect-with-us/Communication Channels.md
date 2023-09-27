@@ -17,7 +17,7 @@ description: ""
 			</a>
 		</td>
 		<td>
-			<a href="https://www.instagram.comqueenstownsg">
+			<a href="https://www.instagram.com/queenstownsg">
 							<img src="/images/CONNECT%20WITH%20US/instagram-button.png" class="social-media-button">
 			</a>
 		</td>
@@ -44,7 +44,7 @@ description: ""
 			</a>
 		</td>
 		<td style="border:0;padding-top:10px;">
-			<a href="https://www.instagram.comqueenstownsg">
+			<a href="https://www.instagram.com/queenstownsg">
 							<img src="/images/CONNECT%20WITH%20US/instagram-button.png" class="social-media-button">
 			</a>
 		</td>
