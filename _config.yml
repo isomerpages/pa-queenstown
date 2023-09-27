@@ -1,6 +1,6 @@
 title: Queenstown Community
 url: https://www.queenstown.pa.gov.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon.png
 colors:
   primary-color: "#356aff"
   secondary-color: "#102a80"
@@ -53,7 +53,7 @@ staging: https://staging.d2k14e3dkp8goc.amplifyapp.com
 prod: https://master.d2k14e3dkp8goc.amplifyapp.com
 facebook-pixel: ""
 resources_name: test
-shareicon: /images/isomer-logo.svg
+shareicon: /images/shareicon.png
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
