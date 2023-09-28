@@ -40,7 +40,7 @@ description: ""
 		</tr>
 			<tr>
 		<td>
-			<p style="line-height: 1.35" class="header add-margin-bottom">
+			<p style="" class="header add-margin-bottom">
 				A Message from our Adviser
 			</p>
 			<p class="body add-margin-bottom">
@@ -74,6 +74,7 @@ description: ""
 		
 		@media only screen and (max-width: 768px) {
 			text-align: center;
+			line-height: 1.35;
 		}
 	}
 	
