@@ -17,7 +17,7 @@ description: ""
 			</a>
 		</td>
 		<td>
-			<a href="https://www.instagram.com/queenstownsg">
+			<a rel="noopener noreferrer" target="blank" href="https://www.instagram.com/queenstownsg">
 							<img src="/images/CONNECT%20WITH%20US/instagram-button.png" class="social-media-button">
 			</a>
 		</td>
