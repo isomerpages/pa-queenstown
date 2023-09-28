@@ -3,27 +3,82 @@ title: Mr Eric Chua's Message
 permalink: /about-qt/mr-eric-chua-message/
 description: ""
 ---
-<table style="width:100%">
-<tbody><tr>
-  <td>
-		<img style="object-fit:cover" src="/images/ABOUT%20QT/mr-eric-profile.png">
-	</td>
-	<td>
-	<br>
-	</td>
-  <td style="width:65%">
-		<p style="font-size:40px;font-weight:600;line-height:40px;color:#102A80;margin-bottom:-6px">
-			A Message from our Adviser
-		</p>
-		<p style="font-size:20px;line-height:32px;font-weight:400;color:#102A80;margin-bottom:-6px">
-			"A true community is not just about being geographically close to someone or part of the same social web network. It's about feeling connected and responsible for what happens. Humanity is our ultimate community, and everyone plays a crucial role!"
-		</p>
-		<p style="font-size:28px;font-weight:600;line-height:32px;color:#102A80">
-			Mr Eric Chua
-		</p>
-		<p style="font-size:16px;font-weight:600;line-height:24px;color:#102A80;margin-top:-18px">
-			Adviser to Tanjong Pagar GRC<br>Grassroots Organisations (Queenstown)
-		</p>
-	</td>
-</tr>	
-</tbody></table>
+
+<div class="container-website">
+	<table style="width:100%">
+		<tbody><tr>
+		<td>
+			<img style="object-fit:cover" src="/images/ABOUT%20QT/mr-eric-profile.png">
+		</td>
+		<td>
+		<br>
+		</td>
+		<td style="width:65%">
+			<p class="header margin-bottom">
+				A Message from our Adviser
+			</p>
+			<p class="body margin-bottom">
+				"A true community is not just about being geographically close to someone or part of the same social web network. It's about feeling connected and responsible for what happens. Humanity is our ultimate community, and everyone plays a crucial role!"
+			</p>
+			<p class="caption">
+				Mr Eric Chua
+			</p>
+			<p style="caption-body">
+				Adviser to Tanjong Pagar GRC<br>Grassroots Organisations (Queenstown)
+			</p>
+		</td>
+	</tr>	
+	</tbody></table>
+</div>
+
+
+<style>	
+	.margin-bottom {
+		margin-bottom: -6px
+	}
+	
+	.header {
+		font-size: 40px;
+		font-weight: 600;
+		line-height: 2;
+		color: #102A80;
+	}
+	
+	.body {
+		font-size: 20px;
+		line-height: 32px;
+		font-weight: 400;
+		color: #102A80;
+	}
+	
+	.caption {
+		font-size:28px;
+		font-weight:600;
+		line-height:32px;
+		color:#102A80
+	}
+	
+	.caption-body {
+		font-size:16px;
+		font-weight:600;
+		line-height:24px;
+		color:#102A80;
+		margin-top:-18px;
+	}
+	
+	.container-website {
+		visibility: hidden;
+	
+		@media only screen and (min-width: 769px) {
+			visibility: visible;
+		}
+	}
+	
+	.container-mobile {
+		visibility: hidden;
+
+		@media only screen and (max-width: 768px) {
+			visibility: visible;
+		}
+	}
+</style>
