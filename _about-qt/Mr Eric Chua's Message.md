@@ -49,7 +49,7 @@ description: ""
 			<p class="caption">
 				Mr Eric Chua
 			</p>
-			<p class="caption-body">
+			<p style="margin-top:-18px;" class="caption-body">
 				Adviser to Tanjong Pagar GRC<br>Grassroots Organisations (Queenstown)
 			</p>
 		</td>
@@ -91,7 +91,7 @@ description: ""
 		font-size:28px;
 		font-weight:600;
 		line-height:32px;
-		color:#102A80
+		color:#102A80;
 	
 		@media only screen and (max-width: 768px) {
 			text-align: center;
@@ -103,7 +103,6 @@ description: ""
 		font-weight:600;
 		line-height:24px;
 		color:#102A80;
-		margin-top:-18px;
 	
 		@media only screen and (max-width: 768px) {
 			text-align: center;
