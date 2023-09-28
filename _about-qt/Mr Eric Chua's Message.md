@@ -30,10 +30,41 @@ description: ""
 	</tbody></table>
 </div>
 
+<div class="container-mobile">
+	<table style="width:100%">
+		<tbody>
+			<tr>
+				<td style="border: 0">
+					<img style="object-fit:cover; width:70%" src="/images/ABOUT%20QT/mr-eric-profile.png">
+				</td>
+		</tr>
+			<tr>
+		<td>
+			<p class="header margin-bottom">
+				A Message from our Adviser
+			</p>
+			<p class="body margin-bottom">
+				"A true community is not just about being geographically close to someone or part of the same social web network. It's about feeling connected and responsible for what happens. Humanity is our ultimate community, and everyone plays a crucial role!"
+			</p>
+			<p class="caption">
+				Mr Eric Chua
+			</p>
+			<p class="caption-body">
+				Adviser to Tanjong Pagar GRC<br>Grassroots Organisations (Queenstown)
+			</p>
+		</td>
+	</tr>	
+	</tbody></table>
+</div>
+
 
 <style>	
 	.margin-bottom {
-		margin-bottom: -6px
+		margin-bottom: -6px;
+	}
+	
+	.text-centered {
+		text-align: center;
 	}
 	
 	.header {
@@ -41,6 +72,10 @@ description: ""
 		font-weight: 600;
 		line-height: 2;
 		color: #102A80;
+		
+		@media only screen and (max-width: 768px) {
+			text-align: center;
+		}
 	}
 	
 	.body {
@@ -48,6 +83,10 @@ description: ""
 		line-height: 32px;
 		font-weight: 400;
 		color: #102A80;
+	
+		@media only screen and (max-width: 768px) {
+			text-align: center;
+		}
 	}
 	
 	.caption {
@@ -55,6 +94,10 @@ description: ""
 		font-weight:600;
 		line-height:32px;
 		color:#102A80
+	
+		@media only screen and (max-width: 768px) {
+			text-align: center;
+		}
 	}
 	
 	.caption-body {
@@ -63,6 +106,10 @@ description: ""
 		line-height:24px;
 		color:#102A80;
 		margin-top:-18px;
+	
+		@media only screen and (max-width: 768px) {
+			text-align: center;
+		}
 	}
 	
 	.container-website {
@@ -74,7 +121,7 @@ description: ""
 	}
 	
 	.container-mobile {
-		visibility: hidden;
+		visibility: visible; 
 
 		@media only screen and (max-width: 768px) {
 			visibility: visible;
