@@ -49,7 +49,7 @@ description: ""
 			<p class="caption">
 				Mr Eric Chua
 			</p>
-			<p style="margin-top:-18px; line-height:;" class="caption-body">
+			<p style="margin-top:-32px; line-height: 22px;" class="caption-body">
 				Adviser to Tanjong Pagar GRC<br>Grassroots Organisations (Queenstown)
 			</p>
 		</td>
