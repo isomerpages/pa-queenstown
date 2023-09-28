@@ -112,17 +112,21 @@ description: ""
 	
 	.container-website {
 		visibility: hidden;
+		display: none;
 	
 		@media only screen and (min-width: 769px) {
 			visibility: visible;
+    	display: block;
 		}
 	}
 	
 	.container-mobile {
 		visibility: hidden; 
+			display: none;
 
 		@media only screen and (max-width: 768px) {
 			visibility: visible;
+			display: block;
 		}
 	}
 </style>
