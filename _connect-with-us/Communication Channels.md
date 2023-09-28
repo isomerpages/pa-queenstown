@@ -92,6 +92,7 @@ description: ""
 	
 .social-media-container-website {
 	visibility: hidden;
+	padding-top: 16px;
 	
 	@media only screen and (min-width: 769px) {
 		visibility: visible;
