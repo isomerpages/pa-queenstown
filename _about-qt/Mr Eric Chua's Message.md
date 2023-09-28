@@ -3,7 +3,6 @@ title: Mr Eric Chua's Message
 permalink: /about-qt/mr-eric-chua-message/
 description: ""
 ---
-
 <div class="container-website">
 	<table style="width:100%">
 		<tbody><tr>
@@ -23,7 +22,7 @@ description: ""
 			<p class="caption">
 				Mr Eric Chua
 			</p>
-			<p style="caption-body">
+			<p class="caption-body">
 				Adviser to Tanjong Pagar GRC<br>Grassroots Organisations (Queenstown)
 			</p>
 		</td>
