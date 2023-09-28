@@ -40,7 +40,7 @@ description: ""
 		</tr>
 			<tr>
 		<td>
-			<p class="header add-margin-bottom">
+			<p style="line-height: 1.5" class="header add-margin-bottom">
 				A Message from our Adviser
 			</p>
 			<p class="body add-margin-bottom">
