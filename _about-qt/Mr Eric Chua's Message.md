@@ -16,13 +16,13 @@ description: ""
 			<p style="margin-bottom: -6px; line-height: 1.1;" class="header margin-bottom">
 				A Message from our Adviser
 			</p>
-			<p style="line-height: 1.6" class="body margin-bottom">
+			<p style="line-height: 1.6;" class="body margin-bottom">
 				"A true community is not just about being geographically close to someone or part of the same social web network. It's about feeling connected and responsible for what happens. Humanity is our ultimate community, and everyone plays a crucial role!"
 			</p>
 			<p style="margin-bottom: -16px;" class="caption">
 				Mr Eric Chua
 			</p>
-			<p class="caption-body">
+			<p style="line-height: 1.5;" class="caption-body">
 				Adviser to Tanjong Pagar GRC<br>Grassroots Organisations (Queenstown)
 			</p>
 		</td>
@@ -49,7 +49,7 @@ description: ""
 			<p class="caption">
 				Mr Eric Chua
 			</p>
-			<p style="margin-top:-18px;" class="caption-body">
+			<p style="margin-top:-18px; line-height:;" class="caption-body">
 				Adviser to Tanjong Pagar GRC<br>Grassroots Organisations (Queenstown)
 			</p>
 		</td>
@@ -101,7 +101,6 @@ description: ""
 	.caption-body {
 		font-size:16px;
 		font-weight:600;
-		line-height:24px;
 		color:#102A80;
 	
 		@media only screen and (max-width: 768px) {
