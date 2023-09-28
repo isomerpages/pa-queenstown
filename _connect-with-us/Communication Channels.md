@@ -12,7 +12,7 @@ description: ""
 	<table>
 	<tbody><tr>
 		<td>
-			<a rel="noopener noreferrer" target="_blank" href="https://www.facebook.com/queenstowncc">
+			<a rel="noopener noreferrer" target="blank" href="https://www.facebook.com/queenstowncc">
 							<img src="/images/CONNECT%20WITH%20US/facebook-button.png" class="social-media-button">
 			</a>
 		</td>
@@ -22,12 +22,12 @@ description: ""
 			</a>
 		</td>
 		<td>
-			<a href="https://t.me/queenstownsg">
+			<a rel="noopener noreferrer" target="blank" href="https://t.me/queenstownsg">
 							<img src="/images/CONNECT%20WITH%20US/telegram-button.png" class="social-media-button">
 			</a>
 		</td>
 		<td>
-			<a href="https://www.whatsapp.com/channel/0029Va4jWx9AjPXJ6xYI0K0r">
+			<a rel="noopener noreferrer" target="blank" href="https://www.whatsapp.com/channel/0029Va4jWx9AjPXJ6xYI0K0r">
 							<img src="/images/CONNECT%20WITH%20US/whatsapp-button.png" class="social-media-button">
 			</a>
 		</td>
@@ -39,24 +39,24 @@ description: ""
 	<table>
 	<tbody><tr>
 		<td style="border:0;padding-top:10px;">
-			<a href="https://www.facebook.com/queenstowncc">
+			<a rel="noopener noreferrer" target="blank" href="https://www.facebook.com/queenstowncc">
 							<img src="/images/CONNECT%20WITH%20US/facebook-button.png" class="social-media-button">
 			</a>
 		</td>
 		<td style="border:0;padding-top:10px;">
-			<a href="https://www.instagram.com/queenstownsg">
+			<a rel="noopener noreferrer" target="blank" href="https://www.instagram.com/queenstownsg">
 							<img src="/images/CONNECT%20WITH%20US/instagram-button.png" class="social-media-button">
 			</a>
 		</td>
 	</tr>
 	<tr>
 		<td style="padding-top:80px">
-			<a href="https://t.me/queenstownsg">
+			<a rel="noopener noreferrer" target="blank" href="https://t.me/queenstownsg">
 							<img src="/images/CONNECT%20WITH%20US/telegram-button.png" class="social-media-button">
 			</a>
 		</td>
 		<td style="padding-top:80px">
-			<a href="https://www.whatsapp.com/channel/0029Va4jWx9AjPXJ6xYI0K0r">
+			<a rel="noopener noreferrer" target="blank" href="https://www.whatsapp.com/channel/0029Va4jWx9AjPXJ6xYI0K0r">
 							<img src="/images/CONNECT%20WITH%20US/whatsapp-button.png" class="social-media-button">
 			</a>
 		</td>
