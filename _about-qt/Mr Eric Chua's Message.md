@@ -13,13 +13,13 @@ description: ""
 		<br>
 		</td>
 		<td style="width:65%">
-			<p style="margin-bottom: -6px; line-height: 1.1;" class="header margin-bottom">
+			<p style="margin-bottom: -6px; line-height: 1.1;" class="header add-margin-bottom">
 				A Message from our Adviser
 			</p>
 			<p style="line-height: 1.6;" class="body margin-bottom">
 				"A true community is not just about being geographically close to someone or part of the same social web network. It's about feeling connected and responsible for what happens. Humanity is our ultimate community, and everyone plays a crucial role!"
 			</p>
-			<p style="margin-bottom: -16px;" class="caption">
+			<p style="margin-bottom: -28px;" class="caption">
 				Mr Eric Chua
 			</p>
 			<p style="line-height: 1.5;" class="caption-body">
@@ -40,10 +40,10 @@ description: ""
 		</tr>
 			<tr>
 		<td>
-			<p class="header margin-bottom">
+			<p class="header add-margin-bottom">
 				A Message from our Adviser
 			</p>
-			<p class="body margin-bottom">
+			<p class="body add-margin-bottom">
 				"A true community is not just about being geographically close to someone or part of the same social web network. It's about feeling connected and responsible for what happens. Humanity is our ultimate community, and everyone plays a crucial role!"
 			</p>
 			<p class="caption">
@@ -59,7 +59,7 @@ description: ""
 
 
 <style>	
-	.margin-bottom {
+	.add-margin-bottom {
 		margin-bottom: -6px;
 	}
 	
@@ -90,7 +90,6 @@ description: ""
 	.caption {
 		font-size:28px;
 		font-weight:600;
-		line-height:32px;
 		color:#102A80;
 	
 		@media only screen and (max-width: 768px) {
