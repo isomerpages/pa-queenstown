@@ -84,6 +84,7 @@ description: ""
 	
 		@media only screen and (max-width: 768px) {
 			text-align: center;
+			padding-bottom: 18px;
 		}
 	}
 	
