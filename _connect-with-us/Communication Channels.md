@@ -12,7 +12,7 @@ description: ""
 	<table>
 	<tbody><tr>
 		<td>
-			<a target="_blank" href="https://www.facebook.com/queenstowncc">
+			<a rel="noopener noreferrer" target="_blank" href="https://www.facebook.com/queenstowncc">
 							<img src="/images/CONNECT%20WITH%20US/facebook-button.png" class="social-media-button">
 			</a>
 		</td>
