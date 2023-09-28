@@ -40,7 +40,7 @@ description: ""
 		</tr>
 			<tr>
 		<td>
-			<p style="line-height: 1.5" class="header add-margin-bottom">
+			<p style="line-height: 1.35" class="header add-margin-bottom">
 				A Message from our Adviser
 			</p>
 			<p class="body add-margin-bottom">
@@ -49,7 +49,7 @@ description: ""
 			<p class="caption">
 				Mr Eric Chua
 			</p>
-			<p style="margin-top:-26px; line-height: 22px;" class="caption-body">
+			<p style="margin-top:-26px; line-height: 25px;" class="caption-body">
 				Adviser to Tanjong Pagar GRC<br>Grassroots Organisations (Queenstown)
 			</p>
 		</td>
