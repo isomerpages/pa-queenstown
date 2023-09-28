@@ -121,7 +121,7 @@ description: ""
 	}
 	
 	.container-mobile {
-		visibility: visible; 
+		visibility: hidden; 
 
 		@media only screen and (max-width: 768px) {
 			visibility: visible;
