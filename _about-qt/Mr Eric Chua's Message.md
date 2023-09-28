@@ -13,13 +13,13 @@ description: ""
 		<br>
 		</td>
 		<td style="width:65%">
-			<p class="header margin-bottom">
+			<p style="margin-bottom: -6px; line-height: 1.1;" class="header margin-bottom">
 				A Message from our Adviser
 			</p>
-			<p class="body margin-bottom">
+			<p style="line-height: 1.6" class="body margin-bottom">
 				"A true community is not just about being geographically close to someone or part of the same social web network. It's about feeling connected and responsible for what happens. Humanity is our ultimate community, and everyone plays a crucial role!"
 			</p>
-			<p class="caption">
+			<p style="margin-bottom: -16px;" class="caption">
 				Mr Eric Chua
 			</p>
 			<p class="caption-body">
@@ -70,7 +70,6 @@ description: ""
 	.header {
 		font-size: 40px;
 		font-weight: 600;
-		line-height: 2;
 		color: #102A80;
 		
 		@media only screen and (max-width: 768px) {
@@ -80,7 +79,6 @@ description: ""
 	
 	.body {
 		font-size: 20px;
-		line-height: 32px;
 		font-weight: 400;
 		color: #102A80;
 	
