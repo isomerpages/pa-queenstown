@@ -73,29 +73,35 @@ description: ""
 .social-media-container-mobile {
 	visibility: hidden;
 	margin-top: -100px;
+	display: none;
 	
 	@media only screen and (max-width: 768px) {
 		visibility: visible;
+		display: block;
 		margin-top: -130px;
 	}
 	
 	@media only screen and (max-width: 425px) {
 		visibility: visible;
+		display: block;	
 		margin-top: -100px;
 	}
 	
 	@media only screen and (max-width: 320px) {
 		visibility: visible;
+		display: block;	
 		margin-top: -60px;
 	}
 }
 	
 .social-media-container-website {
 	visibility: hidden;
+	display: none;
 	padding-top: 16px;
 	
 	@media only screen and (min-width: 769px) {
 		visibility: visible;
+		display: block;	
 	}
 }
 </style>
