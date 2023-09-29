@@ -9,7 +9,9 @@ description: ""
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 </p>
 
-<img src="/images/HAWKERFEST/HAWKERFEST%202023/open-ceremony.png">
+<img src="/images/HAWKERFEST/HAWKERFEST%202023/open-ceremony.png" class="sub-banner-website">
+
+<img src="/images/HAWKERFEST/HAWKERFEST%202023/open-ceremony.png" class="sub-banner-mobile">
 
 <br>
 
@@ -30,3 +32,26 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 		<img src="/images/HAWKERFEST/HAWKERFEST%202023/the-great-qt-hawker-feast.png" style="margin-bottom:16px;padding-left:16px;padding-right:16px">
 	</div>
 </div>
+
+<style>
+	
+.sub-banner-website {
+		visibility: hidden;
+		display: none;
+	
+	@media only screen and (min-width: 769px) {
+		visibility: visible;
+		display: block;
+	}
+}
+	
+.sub-banner-mobile {
+		visibility: hidden;
+		display: none;
+	
+		@media only screen and (max-width: 768px) {
+		visibility: visible;
+		display: block;
+}
+
+</style>
