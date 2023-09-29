@@ -9,9 +9,13 @@ description: ""
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 </p>
 
-<img src="/images/HAWKERFEST/HAWKERFEST%202023/open-ceremony.png" class="sub-banner-website">
+<div class="sub-banner-website">
+<img src="/images/HAWKERFEST/HAWKERFEST%202023/open-ceremony.png">
+</div>
 
-<img src="/images/HAWKERFEST/HAWKERFEST%202023/open-ceremony-mobile.png" class="sub-banner-mobile">
+<div class="sub-banner-mobile">
+<img src="/images/HAWKERFEST/HAWKERFEST%202023/open-ceremony-mobile.png">
+</div>
 
 <br>
 
