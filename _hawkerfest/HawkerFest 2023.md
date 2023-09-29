@@ -11,7 +11,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <img src="/images/HAWKERFEST/HAWKERFEST%202023/open-ceremony.png" class="sub-banner-website">
 
-<img src="/images/HAWKERFEST/HAWKERFEST%202023/open-ceremony.png" class="sub-banner-mobile">
+<img src="/images/HAWKERFEST/HAWKERFEST%202023/open-ceremony-mobile.png" class="sub-banner-mobile">
 
 <br>
 
