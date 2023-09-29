@@ -11,13 +11,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <div class="sub-banner-website">
 <img src="/images/HAWKERFEST/HAWKERFEST%202023/open-ceremony.png">
+	<br>
 </div>
 
 <div class="sub-banner-mobile">
 <img src="/images/HAWKERFEST/HAWKERFEST%202023/open-ceremony-mobile.png">
 </div>
-
-<br>
 
 <div class="row">
 	<div class="col-6">
