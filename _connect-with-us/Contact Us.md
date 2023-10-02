@@ -84,7 +84,7 @@ description: ""
 		<table>
 			<tbody>
 				<tr>
-					<td style="width:50px; padding:0; margin:0; padding-top:4px; border: 0">
+					<td style="width:50px; padding:0; margin:0; padding-top:4px; border: 0;'">
 						<img src="/images/CONNECT%20WITH%20US/icon-tel.png" class="icon">
 					</td>
 					<td style="border: 0">
@@ -94,7 +94,7 @@ description: ""
 					</td>
 				</tr>
 				<tr>
-					<td style="width:32px; padding:0; margin:0; padding-top:4px; border: 0">
+					<td style="width:32px; padding:0; margin:0; padding-top:4px; border: 0;">
 						<img src="/images/CONNECT%20WITH%20US/icon-email.png" class="icon">
 					</td>
 					<td style="border: 0">
@@ -115,7 +115,7 @@ description: ""
 		<table>
 			<tbody>
 				<tr>
-					<td style="width:50px; padding:0; margin:0; padding-top:4px; border: 0">
+					<td style="width:50px; padding:0; margin:0; padding-top:4px; border: 0;">
 						<img src="/images/CONNECT%20WITH%20US/icon-tel.png" class="icon">
 					</td>
 					<td style="border: 0">
@@ -125,7 +125,7 @@ description: ""
 					</td>
 				</tr>
 				<tr>
-					<td style="width:32px; padding:0; margin:0; padding-top:4px; border: 0">
+					<td style="width:32px; padding:0; margin:0; padding-top:4px; border: 0;">
 						<img src="/images/CONNECT%20WITH%20US/icon-email.png" class="icon">
 					</td>
 					<td style="border: 0">
@@ -183,6 +183,7 @@ description: ""
 }
 	
 .icon {
+	min-width: 32px;
 	width: 32px;
 	height: 40px;
 	object-fit: contain;
