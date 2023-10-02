@@ -92,6 +92,7 @@ description: ""
 	width: 32px; 
 	padding: 0; 
 	margin: 0;
+	padding-top: 5px;
 }
 	
 .icon {
@@ -113,6 +114,5 @@ description: ""
 .contact-detail-p {
 	font-size: 20px;
 	color: #102A80;
-	margin-top: -4px;
 }
 </style>
