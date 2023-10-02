@@ -75,6 +75,74 @@ description: ""
 	</table>
 </div>
 
+<div class="container-mobile">
+	<img style="object-fit:cover" src="/images/CONNECT%20WITH%20US/lets-get-in-touch.png"><table>
+		<tbody>
+			<tr>
+				
+			</tr>
+				<tr><td style="border: 0;">
+					<p style="line-height: 1.2;" class="header">
+						Queenstown Community Center
+					</p>
+					<div class="contact-container">	
+						<table>
+							<tbody><tr>
+								<td style="width:32px; padding:0; margin:0; padding-top:4px">
+									<img src="/images/CONNECT%20WITH%20US/icon-tel.png" class="icon">
+								</td>
+								<td>
+									<p class="contact-detail contact-detail-p">
+										64741681
+									</p>
+								</td>
+							</tr>
+							<tr>
+								<td style="width:32px; padding:0; margin:0; padding-top:4px">
+									<img src="/images/CONNECT%20WITH%20US/icon-email.png" class="icon">
+								</td>
+								<td>
+									<p class="contact-detail contact-detail-p">
+										PA_QUEENSTOWNCC@pa.gov.sg
+									</p>
+								</td>
+							
+						</tr></tbody></table>
+					</div>
+		<br>
+					<p style="line-height: 1.2;" class="header">
+						Leng Kee Community Club
+					</p>
+					<div class="contact-container">	
+						<table>
+							<tbody><tr>
+								<td style="width:32px; padding:0; margin:0; padding-top:4px">
+									<img src="/images/CONNECT%20WITH%20US/icon-tel.png" class="icon">
+								</td>
+								<td>
+									<p class="contact-detail contact-detail-p">
+										64735007
+									</p>
+								</td>
+							</tr>
+							<tr>
+								<td style="width:32px; padding:0; margin:0; padding-top:4px">
+									<img src="/images/CONNECT%20WITH%20US/icon-email.png" class="icon">
+								</td>
+								<td>
+									<p class="contact-detail contact-detail-p">
+										PA_LENGKEECC@pa.gov.sg
+									</p>
+								</td>
+							</tr>
+						</tbody></table>
+					</div>
+				</td>
+		</tr>	
+		</tbody>
+	</table>
+</div>
+
 
 <style>
 .container-website {
@@ -88,8 +156,8 @@ description: ""
 }
 
 .container-mobile {
-	visibility: hidden; 
-		display: none;
+	visibility: hidden;
+	display: none;
 
 	@media only screen and (max-width: 768px) {
 		visibility: visible;
@@ -134,5 +202,8 @@ description: ""
 .contact-detail-p {
 	font-size: 20px;
 	color: #102A80;
+	@media only screen and (max-width: 768px) {
+			font-size: 16px;
+	}
 }
 </style>
