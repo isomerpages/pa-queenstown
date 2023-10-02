@@ -89,35 +89,6 @@ description: ""
 					</td>
 					<td style="border: 0">
 						<p class="contact-detail contact-detail-p">
-							64741681
-						</p>
-					</td>
-				</tr>
-				<tr>
-					<td style="width:32px; padding:0; margin:0; padding-top:4px; border: 0">
-						<img src="/images/CONNECT%20WITH%20US/icon-email.png" class="icon">
-					</td>
-					<td style="border: 0">
-						<p class="contact-detail contact-detail-p">
-							PA_QUEENSTOWNCC@pa.gov.sg
-						</p>
-					</td>
-				</tr>
-				</tbody>
-			</table>
-	</div>
-	<p style="line-height: 1.2;" class="header">
-			Lee Kee Community Club
-	</p>
-	<div class="contact-container">	
-		<table>
-			<tbody>
-				<tr>
-					<td style="width:50px; padding:0; margin:0; padding-top:4px; border: 0">
-						<img src="/images/CONNECT%20WITH%20US/icon-tel.png" class="icon">
-					</td>
-					<td style="border: 0">
-						<p class="contact-detail contact-detail-p">
 							64735007
 						</p>
 					</td>
