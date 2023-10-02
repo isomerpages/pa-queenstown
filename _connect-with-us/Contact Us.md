@@ -127,7 +127,7 @@ description: ""
 	
 .header {
 	font-size: 32px;
-	font-weight: 500;
+	font-weight: 520;
 	color: #102A80;
 }
 	
