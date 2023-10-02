@@ -106,7 +106,8 @@ description: ""
 				</tbody>
 			</table>
 	</div>
-	<br>
+	<div style="height: 20px;">
+	</div>
 	<p style="line-height: 1.2;" class="header">
 			Lee Kee Community Club
 	</p>
