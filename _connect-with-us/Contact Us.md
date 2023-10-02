@@ -13,14 +13,14 @@ description: ""
 				<td>
 					<br>
 				</td>
-				<td style="width:50%">
+				<td style="width:55%">
 					<p style="line-height: 1.2;" class="header">
 						Queenstown Community Center
 					</p>
 					<div class="contact-container">	
 						<table>
 							<tbody><tr>
-								<td style="width:32px; padding:0; margin:0;">
+								<td style="width:32px; padding:0; margin:0; padding-top:4px">
 									<img src="/images/CONNECT%20WITH%20US/icon-tel.png" class="icon">
 								</td>
 								<td>
@@ -30,7 +30,7 @@ description: ""
 								</td>
 							</tr>
 							<tr>
-								<td style="width:32px; padding:0; margin:0;">
+								<td style="width:32px; padding:0; margin:0; padding-top:4px">
 									<img src="/images/CONNECT%20WITH%20US/icon-email.png" class="icon">
 								</td>
 								<td>
@@ -48,7 +48,7 @@ description: ""
 					<div class="contact-container">	
 						<table>
 							<tbody><tr>
-								<td style="width:32px; padding:0; margin:0;">
+								<td style="width:32px; padding:0; margin:0; padding-top:4px">
 									<img src="/images/CONNECT%20WITH%20US/icon-tel.png" class="icon">
 								</td>
 								<td>
@@ -58,7 +58,7 @@ description: ""
 								</td>
 							</tr>
 							<tr>
-								<td style="width:32px; padding:0; margin:0;">
+								<td style="width:32px; padding:0; margin:0; padding-top:4px">
 									<img src="/images/CONNECT%20WITH%20US/icon-email.png" class="icon">
 								</td>
 								<td>
