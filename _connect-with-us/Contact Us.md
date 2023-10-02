@@ -206,6 +206,10 @@ description: ""
 .contact-detail-p {
 	font-size: 20px;
 	color: #102A80;
+
+	@media only screen and (max-width: 320) {
+			font-size: 13.5px;
+	}
 	
 	@media only screen and (max-width: 768px) {
 			font-size: 15px;
