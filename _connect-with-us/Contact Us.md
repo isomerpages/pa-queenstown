@@ -3,7 +3,6 @@ title: Contact Us
 permalink: /contact-us/
 description: ""
 ---
-
 <div class="">
 	<table style="width:100%">
 		<tbody>
@@ -107,12 +106,13 @@ description: ""
 	
 .header {
 	font-size: 32px;
-	font-weight: 600;
+	font-weight: 500;
 	color: #102A80;
 }
 	
 .contact-detail-p {
 	font-size: 20px;
 	color: #102A80;
+	margin-top: -4px;
 }
 </style>
