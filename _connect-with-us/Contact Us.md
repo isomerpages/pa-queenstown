@@ -3,7 +3,7 @@ title: Contact Us
 permalink: /contact-us/
 description: ""
 ---
-<div class="">
+<div class="container-website">
 	<table style="width:100%">
 		<tbody>
 			<tr>
@@ -77,6 +77,26 @@ description: ""
 
 
 <style>
+.container-website {
+	visibility: hidden;
+	display: none;
+
+	@media only screen and (min-width: 769px) {
+		visibility: visible;
+		display: block;
+	}
+}
+
+.container-mobile {
+	visibility: hidden; 
+		display: none;
+
+	@media only screen and (max-width: 768px) {
+		visibility: visible;
+		display: block;
+	}
+}
+	
 .float-child {
 	float: left;
 	flex-wrap: wrap;
