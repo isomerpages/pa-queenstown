@@ -89,7 +89,7 @@ description: ""
 					</td>
 					<td style="border: 0">
 						<p class="contact-detail contact-detail-p">
-							64735007
+							64741681
 						</p>
 					</td>
 				</tr>
@@ -99,7 +99,7 @@ description: ""
 					</td>
 					<td style="border: 0">
 						<p class="contact-detail contact-detail-p">
-							PA_LENGKEECC@pa.gov.sg
+							PA_QUEENSTOWNCC@pa.gov.sg
 						</p>
 					</td>
 				</tr>
@@ -151,8 +151,8 @@ description: ""
 }
 
 .container-mobile {
-		visibility: visible;
-		display: block;
+	visibility: hidden;
+	display: none;
 
 	@media only screen and (max-width: 768px) {
 		visibility: visible;
@@ -194,13 +194,18 @@ description: ""
 	
 .header {
 	font-size: 32px;
-	font-weight: 600;
+	font-weight: 500;
 	color: #102A80;
+	
+	@media only screen and (max-width: 768px) {
+		font-size: 24px;
+	}
 }
 	
 .contact-detail-p {
 	font-size: 20px;
 	color: #102A80;
+	
 	@media only screen and (max-width: 768px) {
 			font-size: 16px;
 	}
