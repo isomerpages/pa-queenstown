@@ -14,13 +14,13 @@ description: ""
 	</p>
 </div>
 
-<div class="sub-banner-website">
+<div style="padding-bottom: 24px" class="sub-banner-website">
 <img src="/images/HAWKERFEST/HAWKERFEST%202023/open-ceremony.png">
 	<br>
 </div>
 
 <div class="sub-banner-mobile">
-<img src="/images/HAWKERFEST/HAWKERFEST%202023/open-ceremony-mobile.png" style="padding-bottom: 32px">
+<img src="/images/HAWKERFEST/HAWKERFEST%202023/open-ceremony-mobile.png" style="padding-bottom: 40px; padding-top: 24px">
 </div>
 
 <div class="row">
@@ -33,7 +33,7 @@ description: ""
 </div>
 
 <div class="sub-banner-website">
-	<div style="padding-top:16px" class="row">
+	<div style="margin-top:16px" class="row">
 		<div class="col-6">
 			<img src="/images/HAWKERFEST/HAWKERFEST%202023/qt-hawker-heritage-trail.png" style="margin-bottom:16px;padding-left:16px;padding-right:16px">
 		</div>
