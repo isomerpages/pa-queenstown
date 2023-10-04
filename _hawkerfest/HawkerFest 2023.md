@@ -20,7 +20,7 @@ description: ""
 </div>
 
 <div class="sub-banner-mobile">
-<img src="/images/HAWKERFEST/HAWKERFEST%202023/open-ceremony-mobile.png" style="padding-bottom: 40px; padding-top: 24px">
+<img src="/images/HAWKERFEST/HAWKERFEST%202023/open-ceremony-mobile.png" style="padding-bottom: 40px; padding-top: 10px">
 </div>
 
 <div class="row">
