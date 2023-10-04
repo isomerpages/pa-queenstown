@@ -5,9 +5,14 @@ description: ""
 ---
 ![](/images/HAWKERFEST/HAWKERFEST%202023/banner.png)
 
-<p style="color:#102A80;font-size:20px">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-</p>
+<div>
+	<p class="description-text">
+	Experience Singapore's rich culinary scene at the inaugural Queenstown HawkerFest! 
+	</p>
+	<p class="description-text">
+	From 19 November to 17 December 2023, join us to discover heartfelt stories behind our childhood comfort foods, savour reinvented classics, and learn more about our hawkers behind each scrumptious dish!
+	</p>
+</div>
 
 <div class="sub-banner-website">
 <img src="/images/HAWKERFEST/HAWKERFEST%202023/open-ceremony.png">
@@ -37,7 +42,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </div>
 
 <style>
-	
 .sub-banner-website {
 		visibility: hidden;
 		display: none;
@@ -56,5 +60,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 		visibility: visible;
 		display: block;
 }
-
+	
+.description-text {
+	color: #102A80;
+	font-size: 20px;
+}
 </style>
