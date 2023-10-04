@@ -9,7 +9,7 @@ description: ""
 	<p class="body">
 	Experience Singapore's rich culinary scene at the inaugural Queenstown HawkerFest! 
 	</p>
-	<p style="line-height: 1.5" class="body">
+	<p style="line-height: 1.5; padding-bottom: 16px" class="body">
 	From 19 November to 17 December 2023, join us to discover heartfelt stories behind our childhood comfort foods, savour reinvented classics, and learn more about our hawkers behind each scrumptious dish!
 	</p>
 </div>
