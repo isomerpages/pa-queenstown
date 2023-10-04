@@ -28,7 +28,7 @@ description: ""
 		<img src="/images/HAWKERFEST/HAWKERFEST%202023/qt-greatest-hits.png" style="margin-bottom:16px;padding-left:16px;padding-right:16px">
 	</div>
 	<div class="col-6">
-		<img src="/images/HAWKERFEST/HAWKERFEST%202023/qt-hawker-cafe-remix-trail.png" style="margin-bottom:16px;padding-left:16px;padding-right:16px">
+		<img src="/images/HAWKERFEST/HAWKERFEST%202023/qt-hawker-cafe-remix.png" style="margin-bottom:16px;padding-left:16px;padding-right:16px">
 	</div>
 </div>
 
