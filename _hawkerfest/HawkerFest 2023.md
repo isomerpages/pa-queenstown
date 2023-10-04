@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/HAWKERFEST/HAWKERFEST%202023/banner.png)
 
-<div>
+<div class="description-container">
 	<p class="body">
 	Experience Singapore's rich culinary scene at the inaugural Queenstown HawkerFest! 
 	</p>
@@ -60,6 +60,13 @@ description: ""
 	font-weight: 400;
 	color: #102A80;
 	padding-bottom: 6px;
+}
+
+.description-container {
+	@media only screen and (min-width: 769px) {
+		padding-top: 16px;
+		padding-bottom: 16px;
+	}
 }
 	
 .sub-banner-website {
