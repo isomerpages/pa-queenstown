@@ -46,7 +46,7 @@ description: ""
 	font-size: 20px;
 	font-weight: 400;
 	color: #102A80;
-	padding-bottom: 18px;
+	padding-bottom: 6px;
 }
 	
 .sub-banner-website {
