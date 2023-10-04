@@ -18,8 +18,8 @@ sections:
       image: /images/home-adviser.png
   - infopic:
       title: HawkerFest
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      description: Embark on a culinary adventure and celebrate the best of
+        Queenstown's hawker culture and heritage!
       button: READ MORE
       url: /hawkerfest/hawkerfest-2023/
       alt: Image alt text
