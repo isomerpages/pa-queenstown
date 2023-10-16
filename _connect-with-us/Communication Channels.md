@@ -12,12 +12,12 @@ description: ""
 	<table>
 	<tbody><tr>
 		<td>
-			<a href="https://staging.d2k14e3dkp8goc.amplifyapp.com/about-qt/mr-eric-chua-message?test000" target="blank" rel="noopener noreferrer">
+			<a href="https://staging.d2k14e3dkp8goc.amplifyapp.com/about-qt/mr-eric-chua-message?test=000" target="blank" rel="noopener noreferrer">
 							<img class="social-media-button" src="/images/CONNECT%20WITH%20US/facebook-button.png">
 			</a>
 		</td>
 		<td>
-			<a href="https://staging.d2k14e3dkp8goc.amplifyapp.com/about-qt/mr-eric-chua-message?test123" target="blank" rel="noopener noreferrer">
+			<a href="https://staging.d2k14e3dkp8goc.amplifyapp.com/about-qt/mr-eric-chua-message?test=123" target="blank" rel="noopener noreferrer">
 							<img class="social-media-button" src="/images/CONNECT%20WITH%20US/instagram-button.png">
 			</a>
 		</td>
