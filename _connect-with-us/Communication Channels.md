@@ -12,7 +12,7 @@ description: ""
 	<table>
 	<tbody><tr>
 		<td>
-			<a href="https://staging.d2k14e3dkp8goc.amplifyapp.com/about-qt/mr-eric-chua-message?test=000" target="blank" rel="noopener noreferrer">
+			<a href="https://staging.d2k14e3dkp8goc.amplifyapp.com/about-qt/mr-eric-chua-message" target="blank" rel="noopener noreferrer">
 							<img class="social-media-button" src="/images/CONNECT%20WITH%20US/facebook-button.png">
 			</a>
 		</td>
@@ -22,12 +22,12 @@ description: ""
 			</a>
 		</td>
 		<td>
-			<a href="https://t.me/queenstownsg" target="blank" rel="noopener noreferrer">
+			<a href="https://staging.d2k14e3dkp8goc.amplifyapp.com/hawkerfest/hawkerfest-2023/" target="blank" rel="noopener noreferrer">
 							<img class="social-media-button" src="/images/CONNECT%20WITH%20US/telegram-button.png">
 			</a>
 		</td>
 		<td>
-			<a href="https://www.whatsapp.com/channel/0029Va4jWx9AjPXJ6xYI0K0r" target="blank" rel="noopener noreferrer">
+			<a href="https://www.bing.com/search?q=test" target="blank" rel="noopener noreferrer">
 							<img class="social-media-button" src="/images/CONNECT%20WITH%20US/whatsapp-button.png">
 			</a>
 		</td>
