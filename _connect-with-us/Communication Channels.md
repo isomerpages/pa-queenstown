@@ -12,7 +12,7 @@ description: ""
 	<table>
 	<tbody><tr>
 		<td>
-			<a href="https://staging.d2k14e3dkp8goc.amplifyapp.com/about-qt/mr-eric-chua-message/test?key=abc" target="blank" rel="noopener noreferrer">
+			<a href="https://bit.ly/3twAM3M" target="blank" rel="noopener noreferrer">
 							<img class="social-media-button" src="/images/CONNECT%20WITH%20US/facebook-button.png">
 			</a>
 		</td>
