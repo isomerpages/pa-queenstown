@@ -9,19 +9,18 @@ sections:
   - hero:
       background: /images/home_header.png
   - infopic:
-      title: A Message from our Adviser
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua.
-      button: READ MORE
-      alt: Image alt text
-      url: /about-qt/mr-eric-chua-message/
-      image: /images/home-adviser.png
-  - infopic:
-      title: HawkerFest
+      title: Hawker Fest
       description: Embark on a culinary adventure and celebrate the best of
         Queenstown's hawker culture and heritage!
       button: READ MORE
       url: /hawkerfest/hawkerfest-2023/
       alt: Image alt text
-      image: /images/home-hawker-fest.png
+      image: /images/HAWKERFEST/HAWKERFEST 2023/hawkerfest_banner.png
+  - infopic:
+      title: Connect with Us!
+      id: infopic
+      button: READ MORE
+      url: contact-us/
+      image: /images/home_connect_with_us.png
+      alt: Image alt text
 ---
