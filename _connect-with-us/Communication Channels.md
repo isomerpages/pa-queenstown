@@ -12,23 +12,23 @@ description: ""
 	<table>
 	<tbody><tr>
 		<td>
-			<a rel="noopener noreferrer" target="blank" href="https://www.facebook.com/queenstowncc">
-							<img src="/images/CONNECT%20WITH%20US/facebook-button.png" class="social-media-button">
+			<a href="https://www.facebook.com/queenstowncc" target="blank" rel="noopener noreferrer">
+							<img class="social-media-button" src="/images/CONNECT%20WITH%20US/facebook-button.png">
 			</a>
 		</td>
 		<td>
-			<a rel="noopener noreferrer" target="blank" href="https://www.instagram.com/queenstownsg">
-							<img src="/images/CONNECT%20WITH%20US/instagram-button.png" class="social-media-button">
+			<a href="https://www.instagram.com/queenstownsg" target="blank" rel="noopener noreferrer">
+							<img class="social-media-button" src="/images/CONNECT%20WITH%20US/instagram-button.png">
 			</a>
 		</td>
 		<td>
-			<a rel="noopener noreferrer" target="blank" href="https://t.me/queenstownsg">
-							<img src="/images/CONNECT%20WITH%20US/telegram-button.png" class="social-media-button">
+			<a href="https://t.me/queenstownsg" target="blank" rel="noopener noreferrer">
+							<img class="social-media-button" src="/images/CONNECT%20WITH%20US/telegram-button.png">
 			</a>
 		</td>
 		<td>
-			<a rel="noopener noreferrer" target="blank" href="https://www.whatsapp.com/channel/0029Va4jWx9AjPXJ6xYI0K0r">
-							<img src="/images/CONNECT%20WITH%20US/whatsapp-button.png" class="social-media-button">
+			<a href="https://www.whatsapp.com/channel/0029Va4jWx9AjPXJ6xYI0K0r" target="blank" rel="noopener noreferrer">
+							<img class="social-media-button" src="/images/CONNECT%20WITH%20US/whatsapp-button.png">
 			</a>
 		</td>
 	</tr>	
@@ -39,29 +39,33 @@ description: ""
 	<table>
 	<tbody><tr>
 		<td style="border:0;padding-top:10px;">
-			<a rel="noopener noreferrer" target="blank" href="https://www.facebook.com/queenstowncc">
-							<img src="/images/CONNECT%20WITH%20US/facebook-button.png" class="social-media-button">
+			<a href="https://www.facebook.com/queenstowncc" target="blank" rel="noopener noreferrer">
+							<img class="social-media-button" src="/images/CONNECT%20WITH%20US/facebook-button.png">
 			</a>
 		</td>
 		<td style="border:0;padding-top:10px;">
-			<a rel="noopener noreferrer" target="blank" href="https://www.instagram.com/queenstownsg">
-							<img src="/images/CONNECT%20WITH%20US/instagram-button.png" class="social-media-button">
+			<a href="https://www.instagram.com/queenstownsg" target="blank" rel="noopener noreferrer">
+							<img class="social-media-button" src="/images/CONNECT%20WITH%20US/instagram-button.png">
 			</a>
 		</td>
 	</tr>
 	<tr>
 		<td style="padding-top:80px">
-			<a rel="noopener noreferrer" target="blank" href="https://t.me/queenstownsg">
-							<img src="/images/CONNECT%20WITH%20US/telegram-button.png" class="social-media-button">
+			<a href="https://t.me/queenstownsg" target="blank" rel="noopener noreferrer">
+							<img class="social-media-button" src="/images/CONNECT%20WITH%20US/telegram-button.png">
 			</a>
 		</td>
 		<td style="padding-top:80px">
-			<a rel="noopener noreferrer" target="blank" href="https://www.whatsapp.com/channel/0029Va4jWx9AjPXJ6xYI0K0r">
-							<img src="/images/CONNECT%20WITH%20US/whatsapp-button.png" class="social-media-button">
+			<a href="https://www.whatsapp.com/channel/0029Va4jWx9AjPXJ6xYI0K0r" target="blank" rel="noopener noreferrer">
+							<img class="social-media-button" src="/images/CONNECT%20WITH%20US/whatsapp-button.png">
 			</a>
 		</td>
 	</tr>	
 	</tbody></table>
+</div>
+
+<div>
+	<p>Testing</p>
 </div>
 
 <style>
