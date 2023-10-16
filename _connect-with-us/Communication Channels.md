@@ -64,10 +64,6 @@ description: ""
 	</tbody></table>
 </div>
 
-<div>
-	<p>Testing</p>
-</div>
-
 <style>
 .social-media-button {
 	max-width:100px;
