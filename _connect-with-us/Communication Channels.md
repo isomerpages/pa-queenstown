@@ -12,22 +12,22 @@ description: ""
 	<table>
 	<tbody><tr>
 		<td>
-			<a href="https://bit.ly/3twAM3M" target="blank" rel="noopener noreferrer">
+			<a href="https://www.facebook.com/queenstowncc" target="blank" rel="noopener noreferrer">
 							<img class="social-media-button" src="/images/CONNECT%20WITH%20US/facebook-button.png">
 			</a>
 		</td>
 		<td>
-			<a href="https://staging.d2k14e3dkp8goc.amplifyapp.com/about-qt/mr-eric-chua-message?test=123" target="blank" rel="noopener noreferrer">
+			<a href="https://www.instagram.com/queenstownsg" target="blank" rel="noopener noreferrer">
 							<img class="social-media-button" src="/images/CONNECT%20WITH%20US/instagram-button.png">
 			</a>
 		</td>
 		<td>
-			<a href="https://staging.d2k14e3dkp8goc.amplifyapp.com/hawkerfest/hawkerfest-2023/?test=123" target="blank" rel="noopener noreferrer">
+			<a href="https://t.me/queenstownsg" target="blank" rel="noopener noreferrer">
 							<img class="social-media-button" src="/images/CONNECT%20WITH%20US/telegram-button.png">
 			</a>
 		</td>
 		<td>
-			<a href="https://www.bing.com/search?q=test" target="blank" rel="noopener noreferrer">
+			<a href="https://www.whatsapp.com/channel/0029Va4jWx9AjPXJ6xYI0K0r" target="blank" rel="noopener noreferrer">
 							<img class="social-media-button" src="/images/CONNECT%20WITH%20US/whatsapp-button.png">
 			</a>
 		</td>
