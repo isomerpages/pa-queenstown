@@ -19,7 +19,7 @@ sections:
   - infopic:
       title: Connect with Us!
       id: infopic
-      button: READ MORE
+      button: JOIN US NOW
       url: contact-us/
       image: /images/home_connect_with_us.png
       alt: Image alt text
