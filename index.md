@@ -12,7 +12,7 @@ sections:
       title: Hawker Fest
       description: Embark on a culinary adventure and celebrate the best of
         Queenstown's hawker culture and heritage!
-      button: READ MORE
+      button: JOIN US HERE
       url: /hawkerfest/hawkerfest-2023/
       alt: Image alt text
       image: /images/HAWKERFEST/HAWKERFEST 2023/hawkerfest_banner.png
