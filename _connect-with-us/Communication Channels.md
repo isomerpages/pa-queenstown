@@ -77,13 +77,13 @@ description: ""
 	@media only screen and (max-width: 768px) {
 		visibility: visible;
 		display: block;
-		margin-top: -130px;
+		margin-top: -10px;
 	}
 	
 	@media only screen and (max-width: 425px) {
 		visibility: visible;
 		display: block;	
-		margin-top: -100px;
+		margin-top: -10px;
 	}
 	
 	@media only screen and (max-width: 320px) {
