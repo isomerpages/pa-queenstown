@@ -10,6 +10,15 @@ description: ""
 				<td>
 					<img style="object-fit:cover;" src="/images/CONNECT%20WITH%20US/lets-get-in-touch.png">
 				</td>
+				<td>
+					<br>
+				</td>
+								<td>
+					<br>
+				</td>
+								<td>
+					<br>
+				</td>
 				<td style="width:55%">
 					<p style="line-height: 1.2;" class="header">
 						Queenstown Community Center
