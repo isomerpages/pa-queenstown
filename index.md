@@ -21,6 +21,6 @@ sections:
       id: infopic
       button: JOIN US NOW
       url: contact-us/
-      image: /images/home_connect_with_us.png
+      image: /images/home-connect-with-us.png
       alt: Image alt text
 ---
