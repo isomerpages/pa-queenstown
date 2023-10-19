@@ -21,7 +21,7 @@ description: ""
 				</td>
 				<td style="width:55%">
 					<p style="line-height: 1.2;" class="header">
-						Queenstown Community Center1
+						Queenstown Community Center
 					</p>
 					<div class="contact-container">	
 						<table>
