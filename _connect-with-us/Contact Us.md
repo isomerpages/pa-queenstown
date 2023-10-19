@@ -8,10 +8,7 @@ description: ""
 		<tbody>
 			<tr>
 				<td>
-					<img style="object-fit:cover" src="/images/CONNECT%20WITH%20US/lets-get-in-touch.png">
-				</td>
-				<td>
-					<br>
+					<img style="object-fit:cover;" src="/images/CONNECT%20WITH%20US/lets-get-in-touch.png">
 				</td>
 				<td style="width:55%">
 					<p style="line-height: 1.2;" class="header">
@@ -173,6 +170,10 @@ description: ""
 .contact-container {
 	display: block;
 	margin-top: -16px;
+}
+	
+.content table td, .content table th {
+	vertical-align: middle;
 }
 	
 .icon-td {
