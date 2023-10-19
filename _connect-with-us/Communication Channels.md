@@ -4,7 +4,7 @@ permalink: /communication-channels/
 description: ""
 ---
 <h1 style="text-align:center;color:#102A80;margin-top:-8px">Connect with other QTs</h1>
-<p style="text-align:center;font-size:20px;color:#102A80;margin-top:16px">Join the channels below and connect with others in Queenstown1!</p>
+<p style="text-align:center;font-size:20px;color:#102A80;margin-top:16px">Join the channels below and connect with others in Queenstown12!</p>
 
 <div class="social-media-container-website">
 	<table>
@@ -71,7 +71,7 @@ description: ""
 	
 .social-media-container-mobile {
 	visibility: hidden;
-	margin-top: -70px;
+	margin-top: 0px;
 	display: none;
 	
 	@media only screen and (max-width: 768px) {
