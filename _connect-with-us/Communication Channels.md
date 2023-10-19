@@ -34,7 +34,8 @@ description: ""
 </div>
 
 <div class="social-media-container-mobile">
-	<table>
+	<br>
+	<table style="padding-top:24px">
 	<tbody><tr>
 		<td style="border:0;padding-top:0px;">
 			<a href="https://www.facebook.com/queenstowncc" target="blank" rel="noopener noreferrer">
