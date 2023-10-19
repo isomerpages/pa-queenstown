@@ -37,7 +37,7 @@ description: ""
 	<br>
 	<table>
 	<tbody><tr>
-		<td style="border:0;padding-top:0px;">
+		<td style="border:0;padding-top:10px;">
 			<a href="https://www.facebook.com/queenstowncc" target="blank" rel="noopener noreferrer">
 							<img class="social-media-button" src="/images/CONNECT%20WITH%20US/facebook-button.png">
 			</a>
