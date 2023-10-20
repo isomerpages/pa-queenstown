@@ -3,130 +3,19 @@ title: Mr Eric Chua's Message
 permalink: /about-qt/mr-eric-chua-message/
 description: ""
 ---
-<div class="container-mobile">
-	<table style="width:100%">
-		<tbody>
-			<tr>
-				<td style="border: 0">
-					<img style="object-fit:cover; width:70%" src="/images/ABOUT%20QT/mr-eric-profile.png">
-				</td>
-			</tr>
-			<tr>
-				<td>
-					<p style="line-height: 1.35" class="header add-margin-bottom">
-						A Message from our Adviser
-					</p>
-					<p class="body add-margin-bottom">
-						"A true community is not just about being geographically close to someone or part of the same social web network. It's about feeling connected and responsible for what happens. Humanity is our ultimate community, and everyone plays a crucial role!"
-					</p>
-					<p class="caption">
-						Mr Eric Chua
-					</p>
-					<p style="margin-top:-26px; line-height: 25px;" class="caption-body">
-						Adviser to Tanjong Pagar GRC<br>Grassroots Organisations (Queenstown)
-					</p>
-				</td>
-		</tr>	
-	</tbody>
-	</table>
-</div>
+![](/images/ABOUT%20QT/banner.png)
 
-<div class="container-website">
-	<table style="width:100%">
-		<tbody>
-			<tr>
-				<td>
-					<img style="object-fit:cover" src="/images/ABOUT%20QT/mr-eric-profile.png">
-				</td>
-				<td>
-					<br>
-				</td>
-				<td style="width:65%">
-					<p style="margin-bottom: -6px; line-height: 1.1;" class="header add-margin-bottom">
-						A Message from our Adviser
-					</p>
-					<p style="line-height: 1.6;" class="body margin-bottom">
-						"A true community is not just about being geographically close to someone or part of the same social web network. It's about feeling connected and responsible for what happens. Humanity is our ultimate community, and everyone plays a crucial role!"
-					</p>
-					<p style="margin-bottom: -28px;" class="caption">
-						Mr Eric Chua
-					</p>
-					<p style="line-height: 1.5;" class="caption-body">
-						Adviser to Tanjong Pagar GRC<br>Grassroots Organisations (Queenstown)
-					</p>
-				</td>
-		</tr>	
-		</tbody>
-	</table>
+<div style="padding-top:24px; padding-left: 8px; padding-right: 8px">
+	<p class="description">Queenstown is named after Queen Elizabeth II to commemorate her coronation in 1953.  
+  
+In a place packed with rich history and heritage, QT is a place of many firsts. 1st satellite new town in Singapore, 1st full-time Branch Library built by NLB, Singapore’s 1st technical school.  
+  
+Today, Queenstown is a thriving community home to people from all walks of life, coming from different backgrounds. A myriad of historical landmarks, its rich history, heritage and diveristy, makes Queenstown such a unique and special place. And we hope to create many more memorable firsts with our QTs!</p>
 </div>
 
 <style>	
-	.add-margin-bottom {
-		margin-bottom: -6px;
-	}
-	
-	.text-centered {
-		text-align: center;
-	}
-	
-	.header {
-		font-size: 40px;
-		font-weight: 600;
+	.description {
+		font-size: 20;
 		color: #102A80;
-		
-		@media only screen and (max-width: 768px) {
-			text-align: center;
-		}
-	}
-	
-	.body {
-		font-size: 20px;
-		font-weight: 400;
-		color: #102A80;
-	
-		@media only screen and (max-width: 768px) {
-			text-align: center;
-			padding-bottom: 18px;
-		}
-	}
-	
-	.caption {
-		font-size:28px;
-		font-weight:600;
-		color:#102A80;
-	
-		@media only screen and (max-width: 768px) {
-			text-align: center;
-		}
-	}
-	
-	.caption-body {
-		font-size:16px;
-		font-weight:600;
-		color:#102A80;
-	
-		@media only screen and (max-width: 768px) {
-			text-align: center;
-		}
-	}
-	
-	.container-website {
-		visibility: hidden;
-		display: none;
-	
-		@media only screen and (min-width: 769px) {
-			visibility: visible;
-    	display: block;
-		}
-	}
-	
-	.container-mobile {
-		visibility: hidden; 
-			display: none;
-
-		@media only screen and (max-width: 768px) {
-			visibility: visible;
-			display: block;
-		}
 	}
 </style>
