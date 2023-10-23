@@ -3,9 +3,9 @@ title: Mr Eric Chua's Message
 permalink: /about-qt/mr-eric-chua-message/
 description: ""
 ---
-![](/images/ABOUT%20QT/banner.png)
+![](/images/ABOUT%20QT/about-qt-banner.png)
 
-<div style="padding-top:24px; padding-left: 8px; padding-right: 8px">
+<div style="padding-top:24px; padding-left: 16px; padding-right: 16px">
 	<p class="description">Queenstown is named after Queen Elizabeth II to commemorate her coronation in 1953.  
   
 In a place packed with rich history and heritage, QT is a place of many firsts. 1st satellite new town in Singapore, 1st full-time Branch Library built by NLB, Singapore’s 1st technical school.  
