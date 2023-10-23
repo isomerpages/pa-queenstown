@@ -15,7 +15,7 @@ sections:
       button: JOIN US HERE
       url: /hawkerfest/hawkerfest-2023/
       alt: Image alt text
-      image: /images/HAWKERFEST/HAWKERFEST 2023/hawkerfest_banner.png
+      image: /images/HAWKERFEST/HAWKERFEST 2023/hawkerfest-banner.jpg
   - infopic:
       title: Connect with Us!
       id: infopic
