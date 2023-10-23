@@ -2,4 +2,4 @@ collections:
   about-qt:
     output: true
     order:
-      - Mr Eric Chua's Message.md
+      - About QT.md
