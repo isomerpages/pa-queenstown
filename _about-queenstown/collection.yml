@@ -2,4 +2,4 @@ collections:
   about-queenstown:
     output: true
     order:
-      - About QT.md
+      - About Queenstown.md
