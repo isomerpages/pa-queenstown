@@ -1,5 +1,5 @@
 collections:
-  about-qt:
+  about-queenstown:
     output: true
     order:
       - About QT.md
