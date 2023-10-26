@@ -1,15 +1,8 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/nav_icon 2.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: ABOUT QUEENSTOWN
+    url: /about-queenstown
+  - title: HAWKERFEST
+    url: /hawkerfest/hawkerfest-2023
+  - title: CONNECT WITH US
+    collection: connect-with-us
