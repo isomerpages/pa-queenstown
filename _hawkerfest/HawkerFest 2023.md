@@ -21,7 +21,7 @@ variant: markdown
 </div>
 
 <div class="sub-banner-mobile">
-<img src="/images/HAWKERFEST/HAWKERFEST%202023/open-ceremony-mobile-v2.png" style="padding-bottom: 40px; padding-top: 10px">
+<img src="/images/HAWKERFEST/HAWKERFEST%202023/open_ceremony_mobile_v2.png" style="padding-bottom: 40px; padding-top: 10px">
 </div>
 
 <div class="row">
