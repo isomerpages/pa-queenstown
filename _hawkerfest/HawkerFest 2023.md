@@ -29,17 +29,17 @@ variant: markdown
 		<img src="/images/HAWKERFEST/HAWKERFEST%202023/qt-greatest-hits.png" style="margin-bottom:16px;padding-left:16px;padding-right:16px">
 	</div>
 	<div class="col-6">
-		<img src="/images/HAWKERFEST/HAWKERFEST%202023/qt-hawker-cafe-remix-v2.png" style="margin-bottom:16px;padding-left:16px;padding-right:16px">
+		<img src="/images/HAWKERFEST/HAWKERFEST%202023/qt_hawker_cafe_remix_v2.png" style="margin-bottom:16px;padding-left:16px;padding-right:16px">
 	</div>
 </div>
 
 <div class="sub-banner-website">
 	<div style="margin-top:16px" class="row">
 		<div class="col-6">
-			<img src="/images/HAWKERFEST/HAWKERFEST%202023/qt-hawker-heritage-trail-v2.png" style="margin-bottom:16px;padding-left:16px;padding-right:16px">
+			<img src="/images/HAWKERFEST/HAWKERFEST%202023/qr_hawker_heritage_trail_v2.png" style="margin-bottom:16px;padding-left:16px;padding-right:16px">
 		</div>
 		<div class="col-6">
-			<img src="/images/HAWKERFEST/HAWKERFEST%202023/the-great-qt-hawker-feast-v2.png" style="margin-bottom:16px;padding-left:16px;padding-right:16px">
+			<img src="/images/HAWKERFEST/HAWKERFEST%202023/the_great_qt_hawker_feast_v2.png" style="margin-bottom:16px;padding-left:16px;padding-right:16px">
 		</div>
 	</div>
 </div>
@@ -47,10 +47,10 @@ variant: markdown
 <div class="sub-banner-mobile">
 	<div style="padding-top:16px" class="row">
 		<div class="col-6">
-			<img src="/images/HAWKERFEST/HAWKERFEST%202023/the-great-qt-hawker-feast-v2.png" style="margin-bottom:16px;padding-left:16px;padding-right:16px">
+			<img src="/images/HAWKERFEST/HAWKERFEST%202023/the_great_qt_hawker_feast_v2.png" style="margin-bottom:16px;padding-left:16px;padding-right:16px">
 		</div>
 		<div class="col-6">
-			<img src="/images/HAWKERFEST/HAWKERFEST%202023/qt-hawker-heritage-trail-v2.png" style="margin-bottom:16px;padding-left:16px;padding-right:16px">
+			<img src="/images/HAWKERFEST/HAWKERFEST%202023/qr_hawker_heritage_trail_v2.png" style="margin-bottom:16px;padding-left:16px;padding-right:16px">
 		</div>
 	</div>
 </div>
