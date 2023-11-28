@@ -2,6 +2,7 @@
 title: HawkerFest 2023
 permalink: /hawkerfest/hawkerfest-2023/
 description: ""
+variant: markdown
 ---
 ![](/images/HAWKERFEST/HAWKERFEST%202023/hawkerfest-banner.jpg)
 
@@ -15,12 +16,12 @@ description: ""
 </div>
 
 <div style="padding-bottom: 24px" class="sub-banner-website">
-<img src="/images/HAWKERFEST/HAWKERFEST%202023/open-ceremony.png">
+<img src="/images/HAWKERFEST/HAWKERFEST%202023/open-ceremony-v2.png">
 	<br>
 </div>
 
 <div class="sub-banner-mobile">
-<img src="/images/HAWKERFEST/HAWKERFEST%202023/open-ceremony-mobile.png" style="padding-bottom: 40px; padding-top: 10px">
+<img src="/images/HAWKERFEST/HAWKERFEST%202023/open-ceremony-mobile-v2.png" style="padding-bottom: 40px; padding-top: 10px">
 </div>
 
 <div class="row">
