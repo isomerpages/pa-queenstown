@@ -2,9 +2,9 @@ logo: /images/nav_icon 2.png
 links:
   - title: ABOUT QUEENSTOWN
     url: /about-queenstown
+  - title: QT History
+    collection: qt-history
   - title: HAWKERFEST
     url: /hawkerfest/hawkerfest-2023
   - title: CONNECT WITH US
     collection: connect-with-us
-  - title: QT History
-    collection: qt-history
