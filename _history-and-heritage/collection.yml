@@ -2,6 +2,7 @@ collections:
   history-and-heritage:
     output: true
     order:
+      - Information on Facilities/.keep
       - More Areas to Explore.md
       - Discover Your Own Queenstown/.keep
       - Discover Your Own Queenstown/Trail 1.md
