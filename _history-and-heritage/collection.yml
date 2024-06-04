@@ -2,6 +2,7 @@ collections:
   history-and-heritage:
     output: true
     order:
+      - Information on Facilities/CC and RN.md
       - Information on Facilities/Schools.md
       - Information on Facilities/Hawker Centres.md
       - Information on Facilities/.keep
