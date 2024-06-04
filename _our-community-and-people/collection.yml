@@ -2,6 +2,7 @@ collections:
   our-community-and-people:
     output: true
     order:
+      - Mr Eric Chua's Message (in all languages).md
       - Humans of QT (Individuals).md
       - Other Focus/Sustainability.md
       - Other Focus/Inter Faith Matters.md
