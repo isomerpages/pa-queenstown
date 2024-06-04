@@ -4,13 +4,13 @@ links:
     url: /about-queenstown
   - title: QT History
     collection: qt-history
-  - title: HAWKERFEST
-    url: /hawkerfest/hawkerfest-2023
-  - title: CONNECT WITH US
-    collection: connect-with-us
   - title: Estate Matters
     collection: estate-matters
   - title: Mr Eric Chua's Message
     url: /Mr-20Eric-Chua's-Messages
   - title: Events
     collection: events
+  - title: HAWKERFEST
+    url: /hawkerfest/hawkerfest-2023
+  - title: CONNECT WITH US
+    collection: connect-with-us
