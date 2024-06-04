@@ -2,6 +2,7 @@ collections:
   our-community-and-people:
     output: true
     order:
+      - Groups/Seniors.md
       - Groups/Youth.md
       - Groups/Welfare.md
       - Groups/Resilience.md
