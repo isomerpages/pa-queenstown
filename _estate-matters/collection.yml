@@ -2,4 +2,5 @@ collections:
   estate-matters:
     output: true
     order:
+      - Repair Information Funnelling.md
       - Day to Day Matters.md
