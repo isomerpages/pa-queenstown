@@ -2,5 +2,6 @@ collections:
   events:
     output: true
     order:
+      - Upcoming Activities.md
       - Events Calendar.md
       - Past Events.md
