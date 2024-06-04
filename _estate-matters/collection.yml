@@ -2,7 +2,7 @@ collections:
   estate-matters:
     output: true
     order:
-      - Projects.md
-      - Improvement Works.md
-      - Repair Information Funnelling.md
       - Day to Day Matters.md
+      - Repair Information Funnelling.md
+      - Improvement Works.md
+      - Projects.md
