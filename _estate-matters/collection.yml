@@ -1,4 +1,5 @@
 collections:
   estate-matters:
     output: true
-    order: []
+    order:
+      - Day to Day Matters.md
