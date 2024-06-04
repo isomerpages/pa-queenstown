@@ -2,5 +2,6 @@ collections:
   our-community-and-people:
     output: true
     order:
+      - Groups/Minority.md
       - Groups/.keep
       - Other Focus.md
