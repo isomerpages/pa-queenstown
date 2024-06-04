@@ -2,4 +2,5 @@ collections:
   history-and-heritage:
     output: true
     order:
+      - Discover Your Own Queenstown/Trail 1.md
       - Discover Your Own Queenstown/.keep
