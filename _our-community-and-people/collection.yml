@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - About Queenstown.md
-      - Mr Eric Chua's Messages/Indian.md
-      - Mr Eric Chua's Messages/Malay.md
-      - Mr Eric Chua's Messages/Chinese.md
-      - Mr Eric Chua's Messages/English.md
       - Mr Eric Chua's Messages/.keep
+      - Mr Eric Chua's Messages/English.md
+      - Mr Eric Chua's Messages/Chinese.md
+      - Mr Eric Chua's Messages/Malay.md
+      - Mr Eric Chua's Messages/Indian.md
       - Humans of QT (Individuals).md
       - Groups/.keep
       - Groups/Our Seniors.md
