@@ -1,16 +1,14 @@
 logo: /images/nav_icon 2.png
 links:
-  - title: ABOUT QUEENSTOWN
-    url: /about-queenstown
-  - title: QT History
+  - title: History & Heritage
     collection: history-and-heritage
   - title: Estate Matters
     collection: estate-matters
-  - title: Mr Eric Chua's Message
+  - title: Our Community & People
     collection: our-community-and-people
   - title: Events
     collection: events
-  - title: HAWKERFEST
-    url: /hawkerfest/hawkerfest-2023
+  - title: Resources
+    collection: resources
   - title: CONNECT WITH US
     collection: connect-with-us
