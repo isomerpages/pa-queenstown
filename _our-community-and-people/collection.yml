@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - About Queenstown.md
+      - Mr Eric Chua's Messages/Indian.md
       - Mr Eric Chua's Messages/Malay.md
       - Mr Eric Chua's Messages/Chinese.md
       - Mr Eric Chua's Messages/English.md
