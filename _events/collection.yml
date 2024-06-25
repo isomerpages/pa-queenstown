@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - "Upcoming Events Listings/Event #2.md"
       - "Upcoming Events Listings/Event #1.md"
       - Upcoming Events Listings/.keep
       - Upcoming Activities.md
