@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - About Queenstown.md
+      - Mr Eric Chua's Messages/English.md
       - Mr Eric Chua's Messages/.keep
       - Humans of QT (Individuals).md
       - Groups/.keep
