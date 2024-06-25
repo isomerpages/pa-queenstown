@@ -2,14 +2,14 @@ collections:
   history-and-heritage:
     output: true
     order:
-      - Information on Facilities/CC and RN.md
-      - Information on Facilities/Schools.md
-      - Information on Facilities/Hawker Centres.md
-      - Information on Facilities/.keep
-      - More Areas to Explore.md
       - Discover Your Own Queenstown/.keep
       - Discover Your Own Queenstown/Trail 1.md
       - Discover Your Own Queenstown/Trail 2.md
       - Discover Your Own Queenstown/Trail 3.md
       - Discover Your Own Queenstown/Trail 4.md
       - Discover Your Own Queenstown/Trail 5.md
+      - More Areas to Explore.md
+      - Information on Facilities/.keep
+      - Information on Facilities/CC and RN.md
+      - Information on Facilities/Schools.md
+      - Information on Facilities/Hawker Centres.md
