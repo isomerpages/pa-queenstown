@@ -2,6 +2,6 @@ collections:
   connect-with-us:
     output: true
     order:
-      - Volunteer with Us.md
       - Contact Us.md
+      - Volunteer with Us.md
       - Communication Channels.md
