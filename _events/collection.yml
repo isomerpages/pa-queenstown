@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Upcoming Events Listings/.keep
-      - Upcoming Events Listing.md
       - Upcoming Activities.md
       - Events Calendar.md
       - Past Events/.keep
