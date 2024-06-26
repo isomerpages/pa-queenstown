@@ -2,8 +2,8 @@ collections:
   estate-matters:
     output: true
     order:
-      - Market Cleaning Schedule.md
       - Day to Day Matters.md
+      - Market Cleaning Schedule.md
       - Repair Information Funnelling.md
       - Improvement Works.md
       - Projects.md
