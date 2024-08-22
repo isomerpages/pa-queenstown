@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.d2k14e3dkp8goc.amplifyapp.com
 prod: https://master.d2k14e3dkp8goc.amplifyapp.com
 facebook-pixel: "1677423322755264"
-resources_name: test
+resources_name: resource
 shareicon: /images/shareicon.png
 is_government: false
 google_analytics_ga4: G-TCGSHDX9WT
