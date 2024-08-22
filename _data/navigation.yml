@@ -8,5 +8,7 @@ links:
     collection: our-community-and-people
   - title: Events
     collection: events
+  - title: Resources
+    resource_room: true
   - title: CONNECT WITH US
     collection: connect-with-us
