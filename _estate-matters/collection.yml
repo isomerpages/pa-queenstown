@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Day to Day Matters.md
-      - Market Cleaning Schedule.md
       - Improvement Works.md
       - Projects.md
