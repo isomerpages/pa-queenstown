@@ -20,6 +20,15 @@ description: ""
 </a>
 </div>
 <p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/qtpostndrdialogue2024" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Post National Day Rally Dialogue</div><div class="isomer-card-description">31 August 2024 | 12.30pm | Leng Kee CC #03-01/02</div><div class="isomer-card-link">Sign Up Now!</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a>
+</div>
 <p></p>
 <p></p>
 <p></p>
