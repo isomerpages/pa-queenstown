@@ -6,6 +6,9 @@ description: ""
 third_nav_title: Information on Facilities
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Queenstown_Hawkerfest_Map_V01_01.jpg">
+</div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://maps.app.goo.gl/j5Z5QzDPXVBMgzEg7" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ABC Brickworks Market &amp; Food Centre" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ABC Brickworks Market &amp; Food Centre</div><div class="isomer-card-description">6 Jalan Bukit Merah, Singapore 150006</div><div class="isomer-card-link">View On Map</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://maps.app.goo.gl/jtUnWiK85v5KkR559" class="isomer-card">
 <div class="isomer-card-image">
