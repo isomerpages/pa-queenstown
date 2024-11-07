@@ -5,4 +5,185 @@ variant: tiptap
 description: ""
 third_nav_title: Groups
 ---
+<p>To enhance the well-being of vulnerable populations by developing and
+implementing programmes that provide social support, financial aid, and
+access to essential services.</p>
+<p>List of Programs:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Program</p>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Food From The Heart (FFTH)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Since 2022, Queenstown Division has operated a community shop that functions
+as a mini-mart for selected low-income families, assessed by the Division
+and approved by FFTH on a case-by-case basis. This initiative has been
+ongoing for two years. Beneficiaries, not limited to blue CHAS card holders,
+can choose 12 food items each month, including fresh local produce, staples,
+canned food, oil, biscuits, and condiments. The shop, located at Blk 55,
+supports over 300 residents and follows a shop-for-free concept. Queenstown
+CCC assists FFTH by organizing local food donation drives to encourage
+residents to help the less fortunate. The initiative is available to households
+with a per capita income of less than $690.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Community Fridge @ Stirling View</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Since its launch on 30 September 2018, the Community Fridges initiative
+has been active for over five years and is nearing its sixth year. Initially,
+the initiative experienced a strong response from residents, reflecting
+robust community engagement and widespread adoption. Residents eagerly
+utilized the fridges, consistently contributing and accessing food items,
+which significantly improved local food accessibility and community cohesion.
+The initiative is promoted through various channels, including social media
+platforms, local RC engagements, and collaborations with community partners,
+with posters and signage prominently displayed at Community Fridge locations
+to inform and encourage resident participation.</p>
+<p>&nbsp;</p>
+<p>The Community Fridge at Stirling View, in partnership with Fridge Restock
+Community SG, provides residents with access to "ugly" produce and near-expiry
+food. This initiative educates the community that "ugly" produce is still
+edible and nutritious, encouraging residents to pay it forward and develop
+sustainable habits by donating their excess fresh fruits and vegetables,
+thereby reducing community wastage. It also supports needy residents by
+offering free access to fresh produce, reducing their daily expenses and
+fostering a more sustainable and caring community. So far, about 200 residents
+have benefited from the initiative.</p>
+<p>&nbsp;</p>
+<p>To further strengthen the initiative, RCs and community leaders are exploring
+partnerships with local businesses and organisations to secure consistent
+food supplies and resources. Additionally, educational workshops on food
+sustainability and proper usage of the Community Fridges are being organised.
+Through these combined efforts, the Community Fridges initiative aims to
+rejuvenate community participation and continue fostering a spirit of sharing
+and support among residents.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>好人好事 Hao Ren Hao Shi Mobile Charity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The 好人好事 Hao Ren Hao Shi Mobile Charity initiative, in collaboration with
+好人好事, offers low-income families access to 20 food items per month. Launched
+in July 2023, this mobile charity service operates monthly, every 2nd Saturday
+at 10am at Blk 3 Jalan Bukit Merah. Since its inception, it has garnered
+over 150 applications, indicating significant community interest and need.
+By utilising a mobile truck, the initiative provides convenience for residents,
+ensuring essential food items are easily accessible. Promotion and application
+for this service are facilitated through Hock San RC. This initiative,
+ongoing for a year, supports low-income families, enhances community welfare,
+and fosters generosity and care within the neighbourhood.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Food Connect Credit</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Food Connect pilot, running for one year from March 2023 to February
+2024, provides eligible ComLink families in Queenstown with $60 per month
+in credits to assist with their food expenses. Serving 67 families, this
+initiative supports families with children under 21 in rental housing.
+In partnership with GovTech, MSF, and SSO, the programme aims to alleviate
+financial burdens, ensure access to nutritious food, and enhance the well-being
+of these families. Each family receives the $60 credit directly to their
+e-wallet. The programme is pending renewal for another year, reflecting
+its potential for ongoing positive impact.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Project 100=50</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Launched in 2021, Project 100 = 50 is an initiative designed for low-income
+families with a household income per capita (PCI) of $500 to $1500, enabling
+them to purchase groceries and daily necessities at half price, up to $100.
+Beneficiaries can take advantage of this discount once a month. Currently,
+300 families are participating in the programme. In partnership with Sheng
+Siong, Food From The Heart, and Standard Chartered Bank, this programme
+takes place every 2nd Saturday of the month. It supports families in need
+by making essential items more affordable, thereby reducing financial burden
+and promoting community well-being.</p>
+<p>&nbsp;</p>
+<p>The event, held at the open basketball court at Leng Kee CC, features
+a significant setup, further raising awareness and encouraging participation
+among residents. This initiative has been ongoing for three years.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mendaki Tuition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Launched in 2012, the free tuition programme at Leng Kee CC, in partnership
+with Mendaki, provides academic support to primary-level students (P1-P6)
+of all races. This initiative aims to improve educational outcomes by delivering
+high-quality tuition, fostering a supportive learning environment, and
+promoting inclusivity. Held in the afternoons, the programme offers free
+access to educational resources and personalised tutoring, helping students
+enhance their academic performance and build a strong foundation for future
+learning.</p>
+<p>&nbsp;</p>
+<p>Promotion of this initiative is carried out through Mendaki's website
+and posters at Leng Kee CC. Over the past 12 years, this initiative has
+benefited approximately 200 students, continually working to uplift and
+support the educational needs of the community.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Free Chinese Physician Clinic</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Since 2018, this initiative, in collaboration with The Singapore Buddhist
+Lodge, has been providing free medical consultations and low-cost medications
+to enhance community health and well-being. By offering accessible traditional
+medical care to those in need, it ensures that essential health services
+are available to the community. The service is available every Tuesday
+from 10am to 4pm at Queenstown CC and is promoted through word of mouth
+and posters at both Leng Kee and Queenstown CC. Over the past six years,
+this initiative has benefited approximately 250 residents, continually
+supporting the health needs of the community.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Free Haircut</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This initiative, launched on 5 May 2024 by one of Queenstown's partners,
+Oriental Radio, offers complimentary haircuts to seniors. Skilled volunteers
+provide this service every first Sunday of the month at Leng Kee Community
+Club. So far, about 60 seniors have benefited from these free haircuts.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>For more information or enquiries on our programs, kindly contact Queenstown
+CC or Leng Kee CC.</p>
