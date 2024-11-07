@@ -26,20 +26,7 @@ third_nav_title: Day to Day Matters
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nea.gov.sg/our-services/hawker-management#onemap" rel="noopener nofollow" target="_blank">Mei Ling Market &amp; Food Centre</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>18 Nov 2024 to 20 Nov 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cleaning</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.nea.gov.sg/our-services/hawker-management#onemap" rel="noopener nofollow" target="_blank">ABC Brickworks Market &amp; Food Centre</a>
-</p>
+<p>ABC Brickworks Market &amp; Food Centre</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>25 Nov 2024 to 26 Nov 2024</p>
@@ -50,8 +37,7 @@ third_nav_title: Day to Day Matters
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nea.gov.sg/our-services/hawker-management#onemap" rel="noopener nofollow" target="_blank">Alexandra Village Food Centre</a>
-</p>
+<p>Alexandra Village Food Centre</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9 Dec 2024 to 10 Dec 2024</p>
@@ -69,6 +55,17 @@ third_nav_title: Day to Day Matters
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mei Ling Market &amp; Food Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18 Nov 2024 to 20 Nov 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cleaning</p>
 </td>
 </tr>
 </tbody>
