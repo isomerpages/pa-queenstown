@@ -2,7 +2,6 @@ collections:
   history-and-heritage:
     output: true
     order:
-      - Goodbye Tanglin Halt.md
       - Discover Your Own Queenstown/.keep
       - Discover Your Own Queenstown/Trail 1.md
       - Discover Your Own Queenstown/Trail 2.md
@@ -14,3 +13,4 @@ collections:
       - Information on Facilities/CC and RN.md
       - Information on Facilities/Schools.md
       - Information on Facilities/Hawker Centres.md
+      - Goodbye Tanglin Halt.md
