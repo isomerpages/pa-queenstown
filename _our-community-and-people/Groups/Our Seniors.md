@@ -13,7 +13,8 @@ third_nav_title: Groups
 <p>Dedicated to improving the quality of life for seniors in Queenstown by
 developing initiatives that support healthy ageing, social inclusion, and
 active participation in community life.</p>
-<p>Queenstown Seniors Festival 2024: A Celebration of Active Ageing</p>
+<p><strong>Queenstown Seniors Festival 2024: A Celebration of Active Ageing</strong>
+</p>
 <p>As part of our ongoing commitment to support our seniors, the Senior Taskforce
 proudly supported the Queenstown Seniors Festival 2024, a landmark event
 organised by the Queenstown Citizens' Consultative Committee (CCC).</p>
