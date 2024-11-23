@@ -47,34 +47,17 @@ with a per capita income of less than $690.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Since its launch on 30 September 2018, the Community Fridges initiative
-has been active for over five years and is nearing its sixth year. Initially,
-the initiative experienced a strong response from residents, reflecting
-robust community engagement and widespread adoption. Residents eagerly
-utilized the fridges, consistently contributing and accessing food items,
-which significantly improved local food accessibility and community cohesion.
-The initiative is promoted through various channels, including social media
-platforms, local RC engagements, and collaborations with community partners,
-with posters and signage prominently displayed at Community Fridge locations
-to inform and encourage resident participation.</p>
-<p>&nbsp;</p>
-<p>The Community Fridge at Stirling View, in partnership with Fridge Restock
-Community SG, provides residents with access to "ugly" produce and near-expiry
-food. This initiative educates the community that "ugly" produce is still
-edible and nutritious, encouraging residents to pay it forward and develop
-sustainable habits by donating their excess fresh fruits and vegetables,
-thereby reducing community wastage. It also supports needy residents by
-offering free access to fresh produce, reducing their daily expenses and
-fostering a more sustainable and caring community. So far, about 200 residents
-have benefited from the initiative.</p>
-<p>&nbsp;</p>
-<p>To further strengthen the initiative, RCs and community leaders are exploring
-partnerships with local businesses and organisations to secure consistent
-food supplies and resources. Additionally, educational workshops on food
-sustainability and proper usage of the Community Fridges are being organised.
-Through these combined efforts, the Community Fridges initiative aims to
-rejuvenate community participation and continue fostering a spirit of sharing
-and support among residents.</p>
+<p>The Community Fridges initiative, launched on 30 September 2018, has been
+active for nearly six years, improving local food accessibility and community
+cohesion. Promoted through various channels, including social media and
+local engagements, the initiative has particularly benefited from a partnership
+with Fridge Restock Community SG at Stirling View. This collaboration educates
+residents about the value of "ugly" produce, encourages sustainable habits,
+and supports needy residents, with approximately 200 beneficiaries to date.
+To strengthen the initiative, RCs and community leaders are exploring partnerships
+with local businesses and organising educational workshops on food sustainability.
+These efforts aim to rejuvenate community participation and foster a spirit
+of sharing and support among residents.</p>
 </td>
 </tr>
 <tr>
@@ -101,15 +84,18 @@ and fosters generosity and care within the neighbourhood.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Food Connect pilot, running for one year from March 2023 to February
-2024, provides eligible ComLink families in Queenstown with $60 per month
-in credits to assist with their food expenses. Serving 67 families, this
-initiative supports families with children under 21 in rental housing.
-In partnership with GovTech, MSF, and SSO, the programme aims to alleviate
-financial burdens, ensure access to nutritious food, and enhance the well-being
-of these families. Each family receives the $60 credit directly to their
-e-wallet. The programme is pending renewal for another year, reflecting
-its potential for ongoing positive impact.</p>
+<p>The FoodConnect credits initiative supports families with children under
+21 in rental housing, aiming to alleviate financial burdens, ensure access
+to nutritious food, and enhance the well-being of these families in partnership
+with GovTech, MSF, and SSO. Credits are disbursed monthly via the Life
+SG app, allowing beneficiaries to purchase foods of their choice using
+the Nets QR payment method (SG QR) at various locations, including participating
+supermarkets, local merchants, and hawker centres. This approach not only
+provides essential support but also empowers individuals by allowing them
+to decide what foods best meet their needs and preferences. Building upon
+the success of the FoodConnect credits system first trialled in 2023, this
+initiative has since benefited residents by providing access to nutritious
+food with dignity and ease.</p>
 </td>
 </tr>
 <tr>
