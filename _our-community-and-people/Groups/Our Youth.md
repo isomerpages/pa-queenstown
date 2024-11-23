@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Groups
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Group/Our Youth/2N0A8028__1_.jpg">
+</div>
 <p>Our primary aim is to engage and empower young people by providing opportunities
 for personal development, leadership, and civic engagement, while addressing
 the unique challenges faced by youth in our community. We strive to create
@@ -16,6 +20,10 @@ seek to develop essential life skills such as critical thinking, communication,
 and problem-solving. Our objective extends to creating a safe and inclusive
 space where young people can freely express their ideas, concerns, and
 aspirations.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Group/Our Youth/2N0A8099__1_.jpg">
+</div>
 <p>We aim to bridge generational gaps by facilitating meaningful dialogue
 between youth and community stakeholders, promoting mutual understanding
 and collaboration. Identifying and nurturing young talent is crucial to
