@@ -19,8 +19,8 @@ sections:
   - infobar:
       title: Estate Matters
       id: infobar
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      description: Stay updated on daily estate matters, improvement works, and
+        community projects that enhance our shared living environment.
       button: View more
       url: /estate-matters/day-to-day-matters/
   - infopic:
