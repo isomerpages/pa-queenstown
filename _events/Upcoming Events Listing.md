@@ -34,19 +34,7 @@ description: ""
 </div>
 <p><strong>Note: Description cannot be broken into paragraphs, can only be 1 whole line</strong>
 </p>
-<p><strong>ie. This is not possible</strong>
-</p>
-<blockquote>
-<p>31 August</p>
-<p>12.30pm</p>
-<p>Leng Kee CC #03-01/02</p>
-</blockquote>
 <p></p>
-<p><strong>Can only do this:</strong>
-</p>
-<blockquote>
-<p>31 August | 12.30pm | Leng Kee CC #03-01/02</p>
-</blockquote>
 <p></p>
 <p></p>
 <p></p>
