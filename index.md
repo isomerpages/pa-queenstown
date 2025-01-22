@@ -10,8 +10,8 @@ sections:
       background: /images/home_header.png
   - infopic:
       title: Queenstown History
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor
+      description: Queenstown, the first satellite town in Singapore. The estate was
+        named after Queen Elizabeth II, in commemoration of her coronation.
       button: VIEW MORE
       url: /history-and-heritage/discover-your-own-queenstown/trail-1/
       alt: Image alt text
