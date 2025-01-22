@@ -26,8 +26,9 @@ sections:
   - infopic:
       title: Mr Eric Chua's Messages
       id: infopic
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      description: '"A true community is about connection and shared responsibility,
+        not just proximity or social networks. Humanity is our ultimate
+        community!"'
       button: VIEW MORE
       url: /our-community-and-people/mr-eric-chuas-messages/english/
       image: /images/home-adviser.png
