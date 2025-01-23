@@ -37,9 +37,11 @@ sections:
       title: Upcoming Events
       id: announcements
       announcement_items:
-        - title: Event 1
-          date: 25 June 2024
-          announcement: Event Details
+        - title: PONGAL
+          date: 09 February 2025
+          announcement: "📅 Date: 9 February 2025 (Sunday) ⏰ Time: 9:30 AM – 1:00 PM 📍
+            Venue: Leng Kee Community Club Multi-Purpose Hal  🎟 Tickets: $6 per
+            person"
           link_text: Find out More
           link_url: /events/upcoming-events-listing/event-1
         - title: Event 2
