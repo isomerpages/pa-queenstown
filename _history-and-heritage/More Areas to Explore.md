@@ -4,4 +4,4 @@ permalink: /more-areas-to-explore/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p>Cafes, Shopping etc</p>
