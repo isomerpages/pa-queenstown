@@ -4,17 +4,16 @@ permalink: /upcoming-events-listing/
 variant: tiptap
 description: ""
 ---
-<p><strong>Example: Without Banner Image</strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Untitled_design__1_.jpg">
+</div>
+<h4><strong>PONGAL</strong></h4>
+<p>09 February 2025 (Sunday) | 9.30am | Leng Kee CC MPH | $2 per pax</p>
+<p><a href="https://go.gov.sg/lkcciaecpongal25" rel="noopener nofollow" target="_blank">Sign Up Now!</a>
 </p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/qtpostndrdialogue2024" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Post National Day Rally Dialogue</div><div class="isomer-card-description">31 August 2024 | 12.30pm | Leng Kee CC #03-01/02</div><div class="isomer-card-link">Sign Up Now!</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a>
-</div>
+<hr>
+<p></p>
 <p></p>
 <p><strong>Example: With Banner Image</strong>
 </p>
