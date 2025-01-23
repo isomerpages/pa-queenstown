@@ -9,10 +9,23 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Untitled_design__1_.jpg">
 </div>
 <h4><strong><u>PONGAL</u></strong></h4>
-<p>09 February 2025 (Sunday) | 9.30am | Leng Kee CC MPH | $6 per pax</p>
-<p></p>
-<p><a href="https://go.gov.sg/lkcciaecpongal25" rel="noopener nofollow" target="_blank">Sign Up Now!</a>
-</p>
+<p>📅 <strong>Date</strong>: 9 February 2025 (Sunday)
+<br>⏰ <strong>Time</strong>: 9:30 AM – 1:00 PM
+<br>📍 <strong>Venue</strong>: Leng Kee Community Club Multi-Purpose Hall</p>
+<p>Join us for a joyful <strong>Pongal Celebration</strong> filled with festive
+fun, cultural activities, and delicious treats! This vibrant event will
+feature:
+<br>🌟 <strong>Kuthu Vizhakku (Traditional Lamp Lighting)</strong>
+<br>🎭 <strong>Stage Performances</strong> showcasing traditional music and
+dance
+<br>🍛 <strong>Lunch</strong> with authentic Indian delicacies
+<br>🎉 <strong>Lucky Draw</strong> with exciting prizes!</p>
+<p>🎟 <strong>Tickets</strong>: $6 per person
+<br><a href="https://go.gov.sg/lkcciaecpongal25" rel="noopener nofollow" target="_blank">Sign Up here!</a> or
+visit Leng Kee Community Club to purchase tickets.</p>
+<p>For any enquiries, please contact <strong>Leng Kee CC</strong> at <strong>6473 5007</strong>.</p>
+<p>Come and celebrate this special festival of thanksgiving and community
+with us!</p>
 <hr>
 <p></p>
 <p></p>
