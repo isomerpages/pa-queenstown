@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Untitled_design__1_.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Events/20250209_IAEC_Pongal__1_.jpg">
 </div>
 <h4><strong><u>PONGAL</u></strong></h4>
 <p>📅 <strong>Date</strong>: 9 February 2025 (Sunday)
