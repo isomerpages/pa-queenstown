@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Mr Eric Chua's Messages
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adviser/Queenstown_Welcome_Banner_Template.jpg">
+</div>
 <h2><strong>A Message from Grassroots Adviser Eric Chua&nbsp;</strong></h2>
 <p><strong>Dear Queenstown Residents,&nbsp;</strong>
 </p>
