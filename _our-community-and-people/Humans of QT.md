@@ -10,11 +10,14 @@ description: ""
 </p>
 <hr>
 <h4>"Ah Huat", a 76-year-old Queenstown Grassroot Leader</h4><a class="isomer-image-wrapper" href="https://www.asiaone.com/video/ah-huat-76-year-old-caretaker-elderlies-ordinary-people"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humans of QT/Screenshot_2025_01_23_at_1_27_13_PM.png"></a>
-<p><sub>In our seventies, we're probably retired and enjoying the fruits of our labour, but not for Jaya, who at 76, serves as a community volunteer for elderlies in Jalan Bukit Merah. (Photo/Video: AsiaOne)</sub>
+<p><sub>(Photo/Video: AsiaOne)</sub>
 </p>
+<p>By our seventies, most of us might be retired and enjoying the fruits
+of our labour, but not Jaya. At 77, he remains active as a community volunteer,
+dedicating his time to supporting the elderly in Jalan Bukit Merah.</p>
 <hr>
 <h4>Mdm Loh: 15 Years of Inspiring Through Arts and Service</h4><a class="isomer-image-wrapper" href="https://www.8world.com/singapore/pa-heartland-countdown-celebrations-2025-residents-and-volunteers-create-2025-residents"><img style="width: 50%;" height="auto" width="100%" alt="(Photo: 8world)" src="/images/Humans of QT/Mdm_Loh_Ghee_Peng.jpg"></a>
-<p><sub>                       (Photo: 8World)</sub>
+<p><sub>(Photo: 8World)</sub>
 </p>
 <p>Meet 75-year-old Mdm Loh, an inspiring volunteer who has been actively
 serving the Queenstown community for nearly 15 years!
