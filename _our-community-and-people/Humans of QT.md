@@ -10,7 +10,7 @@ description: ""
 </p>
 <hr>
 <h4>"Ah Huat", a 76-year-old Queenstown Grassroot Leader</h4><a class="isomer-image-wrapper" href="https://www.asiaone.com/video/ah-huat-76-year-old-caretaker-elderlies-ordinary-people"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humans of QT/Screenshot_2025_01_23_at_1_27_13_PM.png"></a>
-<p><sub>In our seventies, we're probably retired and enjoying the fruits of our labour, but not for Jaya, who at 76, serves as a community volunteer for elderlies in Jalan Bukit Merah. (Video: AsiaOne)</sub>
+<p><sub>In our seventies, we're probably retired and enjoying the fruits of our labour, but not for Jaya, who at 76, serves as a community volunteer for elderlies in Jalan Bukit Merah. (Photo/Video: AsiaOne)</sub>
 </p>
 <hr>
 <p>
