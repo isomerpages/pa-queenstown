@@ -8,8 +8,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Untitled_design__1_.jpg">
 </div>
-<h4><strong>PONGAL</strong></h4>
-<p>09 February 2025 (Sunday) | 9.30am | Leng Kee CC MPH | $2 per pax</p>
+<h4><strong><u>PONGAL</u></strong></h4>
+<p>09 February 2025 (Sunday) | 9.30am | Leng Kee CC MPH | $6 per pax</p>
+<p></p>
 <p><a href="https://go.gov.sg/lkcciaecpongal25" rel="noopener nofollow" target="_blank">Sign Up Now!</a>
 </p>
 <hr>
@@ -17,7 +18,7 @@ description: ""
 <p></p>
 <p><strong>Example: With Banner Image</strong>
 </p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/lkcciaecpongal25" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Events/Untitled_design__1_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">PONGAL</div><div class="isomer-card-description">09 February 2025 | 9.30am | Leng Kee CC MPH | $2 per pax</div><div class="isomer-card-link">Sign Up Now!</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/lkcciaecpongal25" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Events/Untitled_design__1_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">PONGAL</div><div class="isomer-card-description">09 February 2025 | 9.30am | Leng Kee CC MPH | $6 per pax</div><div class="isomer-card-link">Sign Up Now!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
