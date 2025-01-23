@@ -43,7 +43,7 @@ sections:
             Venue: Leng Kee Community Club Multi-Purpose Hal  🎟 Tickets: $6 per
             person"
           link_text: Find out More
-          link_url: /events/upcoming-events-listing/event-1
+          link_url: /upcoming-events-listing/
         - title: Event 2
           date: 31 July 2024
           announcement: Event Details
