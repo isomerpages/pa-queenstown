@@ -13,7 +13,9 @@ description: ""
 <p><sub>In our seventies, we're probably retired and enjoying the fruits of our labour, but not for Jaya, who at 76, serves as a community volunteer for elderlies in Jalan Bukit Merah. (Photo/Video: AsiaOne)</sub>
 </p>
 <hr>
-<p></p><a class="isomer-image-wrapper" href="https://www.8world.com/singapore/pa-heartland-countdown-celebrations-2025-residents-and-volunteers-create-2025-residents"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Humans of QT/Mdm_Loh_Ghee_Peng.jpg"></a>
+<h4>Mdm Loh: 15 Years of Inspiring Through Arts and Service</h4><a class="isomer-image-wrapper" href="https://www.8world.com/singapore/pa-heartland-countdown-celebrations-2025-residents-and-volunteers-create-2025-residents"><img style="width: 50%;" height="auto" width="100%" alt="(Photo: 8world)" src="/images/Humans of QT/Mdm_Loh_Ghee_Peng.jpg"></a>
+<p><sub>                       (Photo: 8World)</sub>
+</p>
 <p>Meet 75-year-old Mdm Loh, an inspiring volunteer who has been actively
 serving the Queenstown community for nearly 15 years!
 <br>
