@@ -39,17 +39,20 @@ sections:
       announcement_items:
         - title: The Colour Therapy Approach to Parenting - My  Child, My Mirror and Me
           date: 01 March 2025
-          announcement: "📅 Date: 1 March 2025 (Saturday) ⏰ Time: 3:00 PM – 5:00 PM 📍
-            Venue: Leng Kee Community Club #03-06  🎟 Tickets: $5 per pair (U.P.
-            $100)"
+          announcement: This workshop explores the fascinating world of colour psychology
+            and its effects on behaviour. It aims to help parents understand the
+            similarities between themselves and their children, particularly in
+            terms of personality, behaviour, and development through the amazing
+            revelation through colours.
           link_text: Find out More
           link_url: /upcoming-events-listing/
         - title: The Colour Therapy Approach to Parenting - My  Child, My Mirror and Me II
             (Parent only)
           date: 08 March 2025
-          announcement: "📅 Date: 8 March 2025 (Saturday) ⏰ Time: 3:00 PM – 5:00 PM 📍
-            Venue: Leng Kee Community Club #03-06  🎟 Tickets: $5 per pair (U.P.
-            $100)"
+          announcement: Leveraging on the discovery from the first workshop, this workshop
+            aims to deepen the relationships by enhancing communication between
+            parents and children. Learn how to use words to empower and manifest
+            outcomes for both parties.
           link_text: Find Out More
           link_url: /events/upcoming-events-listing/event-2
   - infopic:
