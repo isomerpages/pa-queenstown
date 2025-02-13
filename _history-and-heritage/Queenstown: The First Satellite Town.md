@@ -7,5 +7,5 @@ description: ""
 <div class="iframe-wrapper">
 <iframe height="515" width="760" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zOlhD28p4ts?si=aVsqFxj9J4ixH_nT"></iframe>
 </div>
-<p><sub>Credit: </sub><a href="https://www.roots.gov.sg/stories-landing/stories/queenstown-the-queen-of-housing-estates/story" rel="noopener nofollow" target="_blank"><sub>Roots</sub></a>
+<p><sub>Video: </sub><a href="https://www.roots.gov.sg/stories-landing/stories/queenstown-the-queen-of-housing-estates/story" rel="noopener nofollow" target="_blank"><sub>Roots</sub></a>
 </p>
