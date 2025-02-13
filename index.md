@@ -37,16 +37,19 @@ sections:
       title: Upcoming Events
       id: announcements
       announcement_items:
-        - title: PONGAL
-          date: 09 February 2025
-          announcement: "📅 Date: 9 February 2025 (Sunday) ⏰ Time: 9:30 AM – 1:00 PM 📍
-            Venue: Leng Kee Community Club Multi-Purpose Hal  🎟 Tickets: $6 per
-            person"
+        - title: The Colour Therapy Approach to Parenting - My  Child, My Mirror and Me
+          date: 01 March 2025
+          announcement: "📅 Date: 1 March 2025 (Saturday) ⏰ Time: 3:00 PM – 5:00 PM 📍
+            Venue: Leng Kee Community Club #03-06  🎟 Tickets: $5 per pair (U.P.
+            $100)"
           link_text: Find out More
           link_url: /upcoming-events-listing/
-        - title: Event 2
-          date: 31 July 2024
-          announcement: Event Details
+        - title: The Colour Therapy Approach to Parenting - My  Child, My Mirror and Me II
+            (Parent only)
+          date: 08 March 2025
+          announcement: "📅 Date: 8 March 2025 (Saturday) ⏰ Time: 3:00 PM – 5:00 PM 📍
+            Venue: Leng Kee Community Club #03-06  🎟 Tickets: $5 per pair (U.P.
+            $100)"
           link_text: Find Out More
           link_url: /events/upcoming-events-listing/event-2
   - infopic:
