@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p></p><a class="isomer-image-wrapper" href="https://youtu.be/YWMKwK3lKUE?si=S5uUmnJN8-9C2eu9"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/History and Heritage/Screenshot_2024_11_22_at_5_27_25_PM.png"></a>
-<p><sub>Video: </sub><a href="https://www.youtube.com/watch?v=YWMKwK3lKUE" rel="noopener nofollow" target="_blank"><sub>HDB</sub></a>
+<p><sub>(Video: </sub><a href="https://www.youtube.com/watch?v=YWMKwK3lKUE" rel="noopener nofollow" target="_blank"><sub>HDB</sub></a><sub>)</sub>
 </p>
 <h4>More on Tanglin Halt Estate</h4>
 <ol data-tight="true" class="tight">
