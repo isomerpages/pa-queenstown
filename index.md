@@ -11,8 +11,6 @@ notification: Government officials will never ask you to transfer money or
 sections:
   - hero:
       background: /images/home_header.png
-      url: <a href="https://www.scamshield.gov.sg/">Click here for more
-        information</a>.
   - infopic:
       title: Queenstown History
       description: Queenstown, the first satellite town in Singapore. The estate was
