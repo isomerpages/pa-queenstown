@@ -12,9 +12,13 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="object-fit:cover;" height="auto" width="100%" src="/images/CONNECT%20WITH%20US/lets-get-in-touch.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <h3><strong>Queenstown Community Centre</strong></h3>
@@ -41,8 +45,8 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>&lt;a href="<a href="https://www.scamshield.gov.sg/&quot;>Click" rel="noopener noreferrer nofollow" target="_blank">https://www.scamshield.gov.sg/"&gt;Click</a> here
-for more information&lt;/a&gt;</p>
+<p><a href="mailto:PA_Queenstown@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Queenstown@pa.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -74,7 +78,8 @@ for more information&lt;/a&gt;</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>PA_LENGKEECC@pa.gov.sg</p>
+<p><a href="mailto:pa_lengkeecc@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_LENGKEECC@pa.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
