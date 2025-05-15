@@ -41,8 +41,8 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>&lt;a href="mailto:<a href="mailto:PA_Queenstown@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Queenstown@pa.gov.sg</a>" target="_blank"&gt;
-<a href="mailto:PA_Queenstown@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Queenstown@pa.gov.sg</a>&lt;/a&gt;</p>
+<p>&lt;a href="<a href="https://www.scamshield.gov.sg/&quot;>Click" rel="noopener noreferrer nofollow" target="_blank">https://www.scamshield.gov.sg/"&gt;Click</a> here
+for more information&lt;/a&gt;</p>
 </td>
 </tr>
 </tbody>
