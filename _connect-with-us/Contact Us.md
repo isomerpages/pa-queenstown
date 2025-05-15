@@ -15,13 +15,21 @@ variant: tiptap
 <p></p>
 <p></p>
 <p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="object-fit:cover;" height="auto" width="100%" src="/images/CONNECT%20WITH%20US/lets-get-in-touch.png">
+<img style="width: 80%;" height="auto" width="100%" src="/images/CONNECT%20WITH%20US/lets-get-in-touch.png">
 </div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<h3><strong>Queenstown Community Centre</strong></h3>
+<h3><strong><sup>Queenstown Community Centre</sup></strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -54,7 +62,7 @@ variant: tiptap
 <p>
 <br>
 </p>
-<h3><strong>Leng Kee Community Club</strong></h3>
+<h3><strong><sup>Leng Kee Community Club</sup></strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
