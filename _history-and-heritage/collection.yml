@@ -2,6 +2,8 @@ collections:
   history-and-heritage:
     output: true
     order:
+      - "Queenstown: The First Satellite Town.md"
+      - Remembering Tanglin Halt Estate.md
       - Discover Your Own Queenstown/.keep
       - Discover Your Own Queenstown/Trail 1.md
       - Discover Your Own Queenstown/Trail 2.md
@@ -15,5 +17,3 @@ collections:
       - Information on Facilities/Schools.md
       - Information on Facilities/Hawker Centres.md
       - Information on Facilities/Healthcare Facilities.md
-      - "Queenstown: The First Satellite Town.md"
-      - Remembering Tanglin Halt Estate.md
