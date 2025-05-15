@@ -25,7 +25,7 @@ sections:
       description: Stay updated on daily estate matters, improvement works, and
         community projects that enhance our shared living environment.
       button: View more
-      url: /estate-matters/day-to-day-matters/
+      url: /market-cleaning-schedule/
   - infopic:
       title: Mr Eric Chua's Messages
       id: infopic
