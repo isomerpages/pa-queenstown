@@ -4,5 +4,5 @@ collections:
     order:
       - Upcoming Events Listing.md
       - Upcoming Courses.md
-      - Past Campaigns/.keep
-      - Past Campaigns/HawkerFest 2023.md
+      - Past Events/.keep
+      - Past Events/HawkerFest 2023.md
