@@ -22,7 +22,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<h4><strong><sup>Queenstown Community Centre</sup></strong></h4>
+<h4><strong>Queenstown Community Centre</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -55,7 +55,7 @@ variant: tiptap
 <p>
 <br>
 </p>
-<h4><strong><sup>Leng Kee Community Club</sup></strong></h4>
+<h4><strong>Leng Kee Community Club</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
