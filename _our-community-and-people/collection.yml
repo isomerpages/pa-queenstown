@@ -2,10 +2,10 @@ collections:
   our-community-and-people:
     output: true
     order:
-      - Our History & Heritage.md
       - About Queenstown.md
       - Mr Eric Chua's Messages/.keep
       - Mr Eric Chua's Messages/English.md
+      - Our History & Heritage.md
       - Humans of QT.md
       - Groups/.keep
       - Groups/Our Seniors.md
