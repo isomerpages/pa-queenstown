@@ -59,9 +59,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <h3><strong><sup>Leng Kee Community Club</sup></strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
