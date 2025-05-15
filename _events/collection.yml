@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Upcoming Events Listing.md
-      - Upcoming Activities.md
+      - Upcoming Courses.md
       - Past Campaigns/.keep
       - Past Campaigns/HawkerFest 2023.md
