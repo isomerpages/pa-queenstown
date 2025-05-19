@@ -1,0 +1,4 @@
+collections:
+  draft:
+    output: true
+    order: []
