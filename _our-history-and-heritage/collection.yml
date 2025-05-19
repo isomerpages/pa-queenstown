@@ -2,7 +2,6 @@ collections:
   our-history-and-heritage:
     output: true
     order:
-      - Remembering Tanglin Halt Estate.md
       - Discover Your Own Queenstown/.keep
       - Discover Your Own Queenstown/Trail 1.md
       - Discover Your Own Queenstown/Trail 2.md
