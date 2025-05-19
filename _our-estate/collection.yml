@@ -2,6 +2,7 @@ collections:
   our-estate:
     output: true
     order:
+      - Information on Facilities/Schools.md
       - Information on Facilities/Community Club & Center (CC) and Resident
         Netword (RN).md
       - Information on Facilities/.keep
