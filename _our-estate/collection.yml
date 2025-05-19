@@ -2,6 +2,7 @@ collections:
   our-estate:
     output: true
     order:
+      - Information on Facilities/Healthcare Facilities.md
       - Information on Facilities/Hawker Centres.md
       - Information on Facilities/Schools.md
       - Information on Facilities/Community Club & Center (CC) and Resident
