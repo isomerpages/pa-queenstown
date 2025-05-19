@@ -40,24 +40,15 @@ sections:
       title: Upcoming Events
       id: announcements
       announcement_items:
-        - title: The Colour Therapy Approach to Parenting - My  Child, My Mirror and Me
-          date: 01 March 2025
-          announcement: This workshop explores the fascinating world of colour psychology
-            and its effects on behaviour. It aims to help parents understand the
-            similarities between themselves and their children, particularly in
-            terms of personality, behaviour, and development through the amazing
-            revelation through colours.
+        - title: Build Muscle Strength with Yoga
+          date: 22 June 2025
+          announcement: Join us at Queenstown CC Multi-purpose Hall for a revitalising
+            yoga session designed to improve muscle strength and flexibility.
+            Participants will also benefit from an informative health talk on
+            sarcopenia—age-related muscle loss—by Dr Aditya Gupta, Senior Family
+            Physician from NHGP.
           link_text: Find out More
           link_url: /upcoming-events-listing/
-        - title: The Colour Therapy Approach to Parenting - My  Child, My Mirror and Me II
-            (Parent only)
-          date: 08 March 2025
-          announcement: Leveraging on the discovery from the first workshop, this workshop
-            aims to deepen the relationships by enhancing communication between
-            parents and children. Learn how to use words to empower and manifest
-            outcomes for both parties.
-          link_text: Find Out More
-          link_url: /events/upcoming-events-listing/event-2
   - infopic:
       title: Connect with Us!
       id: infopic
