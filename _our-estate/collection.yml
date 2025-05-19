@@ -2,7 +2,6 @@ collections:
   our-estate:
     output: true
     order:
-      - Market Cleaning Schedule.md
       - Information on Facilities/.keep
       - Information on Facilities/Community Club & Center (CC) and Resident
         Network (RN).md
@@ -12,3 +11,4 @@ collections:
       - Upgrading Projects/.keep
       - Upgrading Projects/Ongoing Projects.md
       - Upgrading Projects/Past Improvement Projects.md
+      - Market Cleaning Schedule.md
