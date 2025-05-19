@@ -2,6 +2,7 @@ collections:
   our-estate:
     output: true
     order:
+      - Upgrading Projects/Past Improvement Projects.md
       - Upgrading Projects/.keep
       - Upgrading Projects.md
       - Information on Facilities/.keep
