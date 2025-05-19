@@ -2,13 +2,13 @@ collections:
   our-estate:
     output: true
     order:
-      - Past Projects/.keep
-      - Ongoing Projects/.keep
-      - Day To Day Estate Matters/Market Cleaning Schedule.md
-      - Day To Day Estate Matters/.keep
       - Information on Facilities/.keep
       - Information on Facilities/Community Club & Center (CC) and Resident
         Network (RN).md
       - Information on Facilities/Healthcare Facilities.md
       - Information on Facilities/Hawker Centres.md
       - Information on Facilities/Schools.md
+      - Ongoing Projects/.keep
+      - Past Projects/.keep
+      - Day To Day Estate Matters/.keep
+      - Day To Day Estate Matters/Market Cleaning Schedule.md
