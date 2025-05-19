@@ -52,7 +52,7 @@ sections:
   - infopic:
       title: Connect with Us!
       id: infopic
-      button: JOIN US NOW
+      button: Contact us now
       url: contact-us/
       image: /images/home-connect-with-us.png
       alt: Image alt text
