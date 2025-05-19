@@ -2,6 +2,7 @@ collections:
   our-estate:
     output: true
     order:
+      - Past Projects/.keep
       - Ongoing Projects/.keep
       - Day To Day Estate Matters/Market Cleaning Schedule.md
       - Day To Day Estate Matters/.keep
