@@ -38,7 +38,7 @@ welfare assistance programs, financial aid schemes, and support services
 to ensure that every resident in need receives the care and assistance
 they require.&nbsp;We have also rolled out Community Shops and initiatives
 like Charity Food Drives to support families in need​.</p>
-<h4><strong>Promoting Mental Health </strong></h4>
+<h4><strong>Promoting Mental Health</strong></h4>
 <p>Mental health became a growing concern especially during the COVID-19
 pandemic. To bring support closer to the ground, we launched SafePod -
 Singapore’s first mobile mental wellness gym on wheels. Beyond SafePod,
@@ -83,7 +83,7 @@ improvements to create a more liveable and sustainable Queenstown.&nbsp;</p>
 have been proactive in engaging with residents through various activities,
 communication channels, and feedback platforms to ensure that your voices
 are heard and addressed.&nbsp;</p>
-<h4><strong>Closing </strong></h4>
+<h4><strong>Closing</strong></h4>
 <p>As your MP for Queenstown, I take pride in the work we’ve done together.
 But I’ve never walked alone. Being part of the Tanjong Pagar GRC family
 means I’ve been able to tap on the strength of a bigger team—pooling ideas,
