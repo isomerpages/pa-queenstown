@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Discover Your Own Queenstown/.keep
-      - Discover Your Own Queenstown/Trail 1.md
       - Discover Your Own Queenstown/Trail 2.md
       - Discover Your Own Queenstown/Trail 3.md
       - Discover Your Own Queenstown/Trail 4.md
