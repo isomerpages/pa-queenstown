@@ -24,7 +24,7 @@ third_nav_title: Information on Facilities
 <a rel="noopener noreferrer nofollow" href="https://maps.app.goo.gl/YMDLcEtVEMo79Mgm8" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Margaret Drive Hawker Centre" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Margaret Drive Hawker Centre" src="/images/Hawker Centres/margaret drive hawker.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
