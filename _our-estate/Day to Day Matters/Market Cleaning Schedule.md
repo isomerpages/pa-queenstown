@@ -40,10 +40,10 @@ third_nav_title: Day to Day Matters
 <p>Alexandra Village Food Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>24 Mar 2025 to 25 Mar 2025</p>
+<p>1 Apr 2025 to 30 June 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cleaning</p>
+<p>Repairs and Redecorations</p>
 </td>
 </tr>
 <tr>
