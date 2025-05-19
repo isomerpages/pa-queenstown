@@ -1,5 +1,5 @@
 collections:
-  history-and-heritage:
+  our-history-and-heritage:
     output: true
     order:
       - "Queenstown: The First Satellite Town.md"
