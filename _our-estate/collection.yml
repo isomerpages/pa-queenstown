@@ -1,5 +1,5 @@
 collections:
-  estate-matters:
+  our-estate:
     output: true
     order:
       - Day to Day Matters/Market Cleaning Schedule.md
