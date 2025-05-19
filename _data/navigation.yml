@@ -1,9 +1,9 @@
 logo: /images/nav_icon 2.png
 links:
-  - title: Our Estate
-    collection: our-estate
   - title: Our Community & People
     collection: our-community-and-people
+  - title: Our Estate
+    collection: our-estate
   - title: Our Events
     collection: events
   - title: CONNECT WITH US
