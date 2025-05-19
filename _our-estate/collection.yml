@@ -2,12 +2,12 @@ collections:
   our-estate:
     output: true
     order:
+      - Information on Facilities/.keep
+      - Information on Facilities/Community Club & Center (CC) and Resident
+        Netword (RN).md
       - Information on Facilities/Healthcare Facilities.md
       - Information on Facilities/Hawker Centres.md
       - Information on Facilities/Schools.md
-      - Information on Facilities/Community Club & Center (CC) and Resident
-        Netword (RN).md
-      - Information on Facilities/.keep
       - Day to Day Matters/Market Cleaning Schedule.md
       - Day to Day Matters/.keep
       - Improvement Works.md
