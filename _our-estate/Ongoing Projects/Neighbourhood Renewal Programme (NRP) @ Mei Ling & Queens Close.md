@@ -148,4 +148,40 @@ third_nav_title: Ongoing Projects
 </div>
 </div>
 </div>
+<h2>Queens Close</h2>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Drop-Off Porch" src="/images/NRP/Screenshot_2025_05_20_at_11_30_29_PM.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Drop-Off Porch</div>
+<div class="isomer-card-description">At 22 Queens Close</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Covered Ramp" src="/images/NRP/Screenshot_2025_05_20_at_11_30_22_PM.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Covered Ramp</div>
+<div class="isomer-card-description">Between 19 &amp; 20 Queens Close</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Covered Ramp" src="/images/NRP/covere ramp between 19 &amp; 20 and 21 &amp; 22.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Covered Ramp</div>
+<div class="isomer-card-description">Between 21 &amp; 22 Queens Close</div>
+</div>
+</div>
+</div>
 <p></p>
