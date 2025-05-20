@@ -257,4 +257,61 @@ upgraded to meet the needs and evolving aspirations of our residents.</p>
 </tr>
 </tbody>
 </table>
+<h2>Home Improvement Projects</h2>
+<p>The Town Council continues to enhance our estates with various Town Improvement
+Projects, where new amenities and facilities are progressively added and/or
+upgraded to meet the needs and evolving aspirations of our residents.</p>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Location</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Estimated Date of Completion</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Agency in Charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Contact Number</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Blocks 143, 145 to 150 Mei Ling Street</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th Quarter 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HDB</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6490 1111</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Blocks 19 to 22 Queens Close</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th Quarter 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HDB</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6490 1111</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
