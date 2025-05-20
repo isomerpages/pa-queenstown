@@ -29,9 +29,8 @@ sections:
   - infopic:
       title: Mr Eric Chua's Messages
       id: infopic
-      description: '"A true community is about connection and shared responsibility,
-        not just proximity or social networks. Humanity is our ultimate
-        community!"'
+      description: '"Queenstown is a living, breathing community made up of real
+        stories, warm smiles, and the shared journey we’ve taken together."'
       button: VIEW MORE
       url: /our-community-and-people/mr-eric-chuas-messages/english/
       image: /images/home-adviser.png
