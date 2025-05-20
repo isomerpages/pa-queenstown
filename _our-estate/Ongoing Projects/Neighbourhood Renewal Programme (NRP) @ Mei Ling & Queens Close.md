@@ -219,4 +219,39 @@ third_nav_title: Ongoing Projects
 </div>
 </div>
 </div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Activity Plaza" src="/images/NRP/Screenshot_2025_05_20_at_11_30_54_PM.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Activity Plaza</div>
+<div class="isomer-card-description">At 22 Queens Close</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ramp &amp; Upgrading of Fitness Corner" src="/images/NRP/Screenshot_2025_05_20_at_11_30_59_PM.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ramp &amp; Upgrading of Fitness Corner</div>
+<div class="isomer-card-description">Between 21 &amp; 23B Queens Close</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Precinct Signage" src="/images/NRP/Screenshot_2025_05_20_at_11_31_04_PM.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Precinct Signage</div>
+<div class="isomer-card-description">At 19 Queens Close</div>
+</div>
+</div>
+</div>
 <p></p>
