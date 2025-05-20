@@ -184,4 +184,39 @@ third_nav_title: Ongoing Projects
 </div>
 </div>
 </div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Covered Linkway" src="/images/NRP/Screenshot_2025_05_20_at_11_30_37_PM.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Covered Linkway</div>
+<div class="isomer-card-description">At 21 Queens Close</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Raised Hump" src="/images/NRP/Screenshot_2025_05_20_at_11_30_43_PM.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Raised Hump</div>
+<div class="isomer-card-description">At 19, 20 &amp; 21 Queens Close</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ramp and Stairs" src="/images/NRP/Screenshot_2025_05_20_at_11_30_50_PM.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ramp and Stairs</div>
+<div class="isomer-card-description">At 19 &amp; 20 Queens Close</div>
+</div>
+</div>
+</div>
 <p></p>
