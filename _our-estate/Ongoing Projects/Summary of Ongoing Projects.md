@@ -32,16 +32,16 @@ find out more about NRP</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Block</p>
+<p>Block 143, 145 to 151 Mei Ling Street</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>31 October 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Town Council</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1800 272 6425</p>
 </td>
 </tr>
 <tr>
