@@ -152,4 +152,52 @@ third_nav_title: Ongoing Projects
 </div>
 </div>
 </div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Kerb Ramp" src="/images/NRP/kerb ramp @ 35.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Kerb Ramp</div>
+<div class="isomer-card-description">At 35 Jalan Rumah Tinggi</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Footpath Access" src="/images/NRP/footpath access to 35.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Footpath Access</div>
+<div class="isomer-card-description">To 35 Jalan Rumah Tinggi</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Upgrading Works at Eco Park" src="/images/NRP/eco park.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Upgrading Works at Eco Park</div>
+<div class="isomer-card-description">At Eco Park</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Upgrading works at Eco Park" src="/images/NRP/Screenshot_2025_05_21_at_12_39_05_AM.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Upgrading Works at Eco Park</div>
+<div class="isomer-card-description">At Eco Park</div>
+</div>
+</div>
+</div>
 <p></p>
