@@ -90,6 +90,10 @@ find out more about NRP.</p>
 </tbody>
 </table>
 <h2>Repairs and Redecorations (R&amp;R)</h2>
+<p>
+<br>Repairs and Redecoration (R&amp;R)<strong> </strong>programme is part
+of the cyclical works undertaken by the Town Council to rejuvenate our
+estate.</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -160,6 +164,89 @@ find out more about NRP.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4th Quarter 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Town Council</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1800 272 6425</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>Town Improvement Projects</h2>
+<p>The Town Council continues to enhance our estates with various Town Improvement
+Projects, where new amenities and facilities are progressively added and/or
+upgraded to meet the needs and evolving aspirations of our residents.</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Project</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Location</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Estimated Date of Completion</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Agency in Charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Contact Number</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Construction of BFA Ramp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Block 48 Strathmore Avenue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Quarter 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Town Council</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1800 272 6425</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upgrading of Playground</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lengkee Park</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Quarter 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Town Council</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1800 272 6425</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upgrading Fitness Corner</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Block 48 Strathmore Avenue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Quarter 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Town Council</p>
