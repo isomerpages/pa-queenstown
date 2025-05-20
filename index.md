@@ -20,12 +20,12 @@ sections:
       alt: Image alt text
       image: /images/shareicon.png
   - infobar:
-      title: Our Estate
+      title: Community Improvement Works
       id: infobar
-      description: Stay updated on daily estate matters, improvement works, and
-        community projects that enhance our shared living environment.
+      description: Stay updated on ongoing improvement works and past projects that
+        enhance our shared living environment.
       button: View more
-      url: /Our-Estate
+      url: /summary-of-ongoing-projects/
   - infopic:
       title: Mr Eric Chua's Messages
       id: infopic
