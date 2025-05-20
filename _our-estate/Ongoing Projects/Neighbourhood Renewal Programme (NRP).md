@@ -30,6 +30,17 @@ third_nav_title: Ongoing Projects
 <div class="isomer-card-description">151 Mei Ling Street</div>
 </div>
 </div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ramp" src="/images/NRP/proposed ramp at 150.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ramp</div>
+<div class="isomer-card-description">150 Mei Ling Street</div>
+</div>
+</div>
 </div>
 <p></p>
 <div class="isomer-card-grid">
