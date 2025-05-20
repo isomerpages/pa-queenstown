@@ -11,13 +11,73 @@ third_nav_title: Ongoing Projects
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/NRP/Screenshot_2025_05_20_at_10_03_18_PM.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/NRP/proposed upgrading to community pavilion.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Upgrading of Community Pavilion</div>
+<div class="isomer-card-description">151A Mei Ling Street</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Drop Off Porch" src="/images/NRP/151 drop off porch.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Drop Off Porch</div>
+<div class="isomer-card-description">151 Mei Ling Street</div>
+</div>
+</div>
+</div>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/NRP/148 drop off porch.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Drop-Off Porch</div>
+<div class="isomer-card-description">148 Mei Ling Street</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/NRP/147 drop off porch.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Drop-Off Porch</div>
 <div class="isomer-card-description">147 Mei Ling Street</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/NRP/148 drop off porch.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Drop-Off Porch</div>
+<div class="isomer-card-description">148 Mei Ling Street</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/NRP/147 drop off porch.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Drop-Off Porch</div>
+<div class="isomer-card-description">147 Mei Ling Street</div>
+</div>
+</div>
 </div>
 <p></p>
