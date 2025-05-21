@@ -49,7 +49,7 @@ with a per capita income of less than $690.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="375" width="600" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSK2zTbUXnWuUrUyRh4WBBcW8Xu7l-dbtAyT_zVcxxQF4m-W5J6DByhpTt6Mf-RgQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="374" width="600" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSK2zTbUXnWuUrUyRh4WBBcW8Xu7l-dbtAyT_zVcxxQF4m-W5J6DByhpTt6Mf-RgQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>The Community Fridges initiative, launched on 30 September 2018, has been
 active for nearly six years, improving local food accessibility and community
