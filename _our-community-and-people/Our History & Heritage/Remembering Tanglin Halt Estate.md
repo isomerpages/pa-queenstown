@@ -9,15 +9,17 @@ third_nav_title: Our History & Heritage
 <p><sub>Click to watch the video (Video: </sub><a href="https://www.youtube.com/watch?v=YWMKwK3lKUE" rel="noopener nofollow" target="_blank"><sub>HDB</sub></a><sub>)</sub>
 </p>
 <h4><strong>Tanglin Halt, Singapore – A Community with Deep Roots</strong></h4>
-<p>Tanglin Halt is one of Singapore’s oldest public housing estates, located
-in Queenstown. Known for its rich history and close-knit community, it
-was among the first neighbourhoods developed by the Housing and Development
-Board (HDB) in the 1960s. The estate is recognised for its distinctive
-low-rise flats, nostalgic coffee shops, and strong sense of kampung spirit.</p>
-<p>As redevelopment plans gradually transform the area under the Selective
-En Bloc Redevelopment Scheme (SERS), efforts have been made to honour Tanglin
-Halt’s heritage and preserve its unique character. It remains a meaningful
-landmark for generations of residents who call it home.</p>
+<p>Tanglin Halt is one of Singapore’s oldest public housing estates, formerly
+located within the Queenstown planning area. Known for its rich history
+and close-knit community, it was among the first neighbourhoods developed
+by the Housing and Development Board (HDB) in the 1960s. The estate is
+recognised for its distinctive low-rise flats, nostalgic coffee shops,
+and enduring kampung spirit.</p>
+<p>Due to recent boundary redraws, <strong>Tanglin Halt no longer falls under the Queenstown constituency</strong>.
+Additionally, with the area selected under the <strong>Selective En Bloc Redevelopment Scheme (SERS)</strong>, <strong>most residents have since relocated to new flats at Margaret Drive</strong>,
+continuing their community bonds in a new environment. While the physical
+landscape of Tanglin Halt is changing, its spirit and legacy remain a cherished
+part of Singapore’s public housing heritage.</p>
 <h4>More on Tanglin Halt Estate</h4>
 <ol data-tight="true" class="tight">
 <li>
