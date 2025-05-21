@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our Community Matters
 ---
-<p></p>
+<h2>Engaging our youths</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Group/Our Youth/2N0A8028__1_.jpg">
 </div>
@@ -34,6 +34,7 @@ collaborative problem-solving approaches. Ultimately, our goal is to promote
 a culture of lifelong learning and continuous personal development among
 our young residents, empowering them to face future challenges with confidence
 and resilience.</p>
+<h3>Youth Dialogue</h3>
 <p>A vibrant Youth Dialogue session brought together young residents to discuss,
 debate, and shape the future of youth development in our area. We believe
 that dialogue sessions are an excellent platform for youth engagement,
