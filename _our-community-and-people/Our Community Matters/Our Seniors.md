@@ -6,6 +6,10 @@ description: ""
 third_nav_title: Our Community Matters
 ---
 <h2>Supporting Our Seniors in Queenstown</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Seniors/WhatsApp_Image_2025_05_21_at_10_56_24.jpg">
+</div>
 <p>Singapore became a Blue Zone 2.0 in August 2023, reflecting how far we’ve
 come in promoting healthy longevity. Life expectancy here is now 84.3 years.
 But the reality is that many Singaporeans still spend their last 10 years
@@ -46,6 +50,10 @@ for our seniors in the years ahead.</p>
 <p>Dementia affects 1 in 11 seniors in Singapore. In Queenstown, we’ve introduced
 wayfinding murals at Stirling View and Margaret Drive to help seniors navigate
 their neighbourhood more confidently.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dementia Wayfinding Mural @ Margaret Drive" src="/images/Seniors/WhatsApp_Image_2025_05_21_at_10_50_59.jpg">
+</div>
 <p>In the coming years, we’ll expand these murals to more precincts. We’re
 also working with agencies to establish more dementia Go-To Points that
 are safe, familiar community spots like Blk 40 kopitiam - so that families
@@ -68,6 +76,10 @@ The taskforce will work with both seniors and employers to redesign jobs,
 support training, and match seniors with meaningful work opportunities.</p>
 <hr>
 <h3>Conclusion</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Seniors/WhatsApp_Image_2025_05_21_at_10_56_35.jpg">
+</div>
 <p>We need to see aging not as a period of decline, but as a new chapter
 full of potential.</p>
 <p>Here in Queenstown, we’re building a future where seniors are empowered
