@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our Community Matters
 ---
-<h2>Supporting Our Seniors in Queenstown</h2>
+<h2>Caring for Our Seniors  </h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Seniors/WhatsApp_Image_2025_05_21_at_10_56_24.jpg">
