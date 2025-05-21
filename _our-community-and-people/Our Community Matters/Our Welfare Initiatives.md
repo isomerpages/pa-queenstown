@@ -165,8 +165,9 @@ supporting the health needs of the community.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Free Haircut</strong>
 </p>
+<p></p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/qtfreehaircut"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Initiatives/Free_Hair_Cut_w_QT_border.png"></a>
 <p>This initiative, launched on 5 May 2024 by one of Queenstown's partners,
 Oriental Radio, offers complimentary haircuts to seniors. Skilled volunteers
 provide this service every first Sunday of the month at Leng Kee Community
