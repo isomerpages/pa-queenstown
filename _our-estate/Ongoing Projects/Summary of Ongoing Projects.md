@@ -33,6 +33,20 @@ find out more about NRP.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>120 Bukit Merah Lane 1 (Alexandra Village)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Quarter 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Town Council</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1800 272 6425</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Blocks 143, 145 to 151, 148A(MSCP) Mei Ling Street</p>
 </td>
 <td rowspan="1" colspan="1">
