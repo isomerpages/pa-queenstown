@@ -171,6 +171,9 @@ supporting the health needs of the community.</p>
 Oriental Radio, offers complimentary haircuts to seniors. Skilled volunteers
 provide this service every first Sunday of the month at Leng Kee Community
 Club. So far, about 60 seniors have benefited from these free haircuts.</p>
+<p></p>
+<p><a href="https://go.gov.sg/qtfreehaircut" rel="noopener nofollow" target="_blank">Book your slot here</a>
+</p>
 </td>
 </tr>
 </tbody>
