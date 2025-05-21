@@ -43,7 +43,8 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>64741681</p>
+<p><a href="tel:6474 1681" rel="noopener noreferrer nofollow" target="_blank">6474 1681</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -74,7 +75,8 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>64735007</p>
+<p><a href="https://www.google.com/search?q=lengkee+cc&amp;oq=lengkee&amp;gs_lcrp=EgZjaHJvbWUqDAgAECMYJxiABBiKBTIMCAAQIxgnGIAEGIoFMgYIARBFGDkyCQgCEAAYChiABDIPCAMQLhgKGK8BGMcBGIAEMgcIBBAAGIAEMgcIBRAAGIAEMg0IBhAuGK8BGMcBGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEHOTg0ajFqNKgCALACAA&amp;sourceid=chrome&amp;ie=UTF-8#" rel="noopener noreferrer nofollow" target="_blank"><u>6473 5007</u></a>
+</p>
 </td>
 </tr>
 <tr>
