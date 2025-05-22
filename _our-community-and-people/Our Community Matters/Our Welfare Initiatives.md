@@ -6,6 +6,10 @@ description: ""
 third_nav_title: Our Community Matters
 ---
 <h2>Journeying with Low-Income Families</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Low Income/WhatsApp_Image_2025_05_22_at_17_19_40__1_.jpg">
+</div>
 <p>Queenstown is home to 13 rental blocks, each filled with families working
 hard to make ends meet. Some juggle multiple jobs, others do their best
 while quietly struggling to put food on the table. Food is a basic need.
@@ -24,6 +28,10 @@ food, and biscuits. It’s a dignified, shop-for-free concept that allows
 families to choose what they need, when they need it. To keep it running,
 Queenstown has also held multiple donation drives, including a division-wide
 drive in March 2025 that raised nearly 14,000 food items worth $48,000.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Food From the Heart @ Lengkok Bahru" src="/images/Low Income/WhatsApp_Image_2025_05_22_at_17_19_42.jpg">
+</div>
 <h3>Happy Mart @ Stirling by Hao Ren Hao Shi</h3>
 <p>Happy Mart, launched in October 2024 at Block 49 Stirling, is a community-run
 store that brings food support closer to where residents live. Open every
@@ -31,6 +39,10 @@ Wednesday and Sunday, it operates on a credit system where families receive
 12 monthly credits to select food items they need. The shop not only provides
 practical aid but also encourages dignity and independence in food choices,
 much like the Community Shop at Lengkok Bahru.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Happy Mart @ Stirling" src="/images/Low Income/WhatsApp_Image_2025_05_22_at_17_19_40.jpg">
+</div>
 <h3>Mobile Grocery Truck by Hao Ren Hao Shi</h3>
 <p>To reach residents who face mobility or transport challenges, Hao Ren
 Hao Shi also runs a mobile grocery and essentials truck. Since July 2023,
@@ -39,6 +51,10 @@ the second Saturday of every month. Eligible families receive up to 20
 essential food items, delivered right to their doorstep. With over 150
 applications to date, this initiative continues to meet a growing community
 need.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Low Income/WhatsApp_Image_2025_05_22_at_17_19_41__1_.jpg">
+</div>
 <h3>Project 100 = 50</h3>
 <p>Project 100 = 50 is a pop-up supermarket concept that allows low-income
 families to stretch their dollars by paying $50, each household brings
@@ -64,11 +80,6 @@ spotlight food sustainability by encouraging the use of “ugly” but edible
 produce and reducing waste. With over 200 beneficiaries, the project continues
 to be supported by local RCs and leaders who are working with businesses
 and volunteers to keep the initiative fresh and relevant.</p>
-<h3>Community Fridge by Mdm Marlina</h3>
-<p>When Mdm Marlina noticed some neighbours skipping meals or worrying about
-groceries, she took the initiative to start a community fridge along her
-corridor. Roday, it continues to serve residents in need, quietly and meaningfully,
-with dignity.</p>
 <h3>Mendaki Tuition Programme</h3>
 <p>Launched in 2012, the free tuition programme at Leng Kee CC, in partnership
 with Mendaki, provides academic support to primary-level students (P1–P6)
@@ -98,6 +109,7 @@ this initiative.</p>
 <p>Book your slot <a href="https://form.gov.sg/661e02bde281fab4f19d2657" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <h3>Conclusion</h3>
-<p>If you or someone you know needs help, please contact us at <a href="https://www.google.com/search?q=lengkee+cc&amp;oq=lengkee&amp;gs_lcrp=EgZjaHJvbWUqDAgAECMYJxiABBiKBTIMCAAQIxgnGIAEGIoFMgYIARBFGDkyCQgCEAAYChiABDIPCAMQLhgKGK8BGMcBGIAEMgcIBBAAGIAEMgcIBRAAGIAEMg0IBhAuGK8BGMcBGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEHOTg0ajFqNKgCALACAA&amp;sourceid=chrome&amp;ie=UTF-8#" rel="noopener noreferrer nofollow" target="_blank">6473 5007 </a>(Lengkee
-CC) or <a href="tel:6474 1681" rel="noopener noreferrer nofollow" target="_blank">6474 1681 </a>(Queenstown
+<p>If you or someone you know needs help, or would like to know more about
+our initiatives, please contact us at <a href="https://www.google.com/search?q=lengkee+cc&amp;oq=lengkee&amp;gs_lcrp=EgZjaHJvbWUqDAgAECMYJxiABBiKBTIMCAAQIxgnGIAEGIoFMgYIARBFGDkyCQgCEAAYChiABDIPCAMQLhgKGK8BGMcBGIAEMgcIBBAAGIAEMgcIBRAAGIAEMg0IBhAuGK8BGMcBGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEHOTg0ajFqNKgCALACAA&amp;sourceid=chrome&amp;ie=UTF-8#" rel="noopener noreferrer nofollow" target="_blank"><u>6473 5007 </u></a>(Lengkee
+CC) or <a href="tel:6474 1681" rel="noopener noreferrer nofollow" target="_blank"><u>6474 1681 </u></a>(Queenstown
 CC)</p>
