@@ -27,7 +27,7 @@ lets beneficiaries pick 14 essential items each month, such as rice, canned
 food, and biscuits. It’s a dignified, shop-for-free concept that allows
 families to choose what they need, when they need it. To keep it running,
 Queenstown has also held multiple donation drives, including a division-wide
-drive in March 2025 that raised nearly 14,000 food items worth $48,000.</p>
+drive in March 2025 that raised nearly 14,000 food items.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Food From the Heart @ Lengkok Bahru" src="/images/Low Income/WhatsApp_Image_2025_05_22_at_17_19_42.jpg">
