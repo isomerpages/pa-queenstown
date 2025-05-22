@@ -32,7 +32,7 @@ Health Film Festival.</p>
 <p>We also introduced caregiver support through A Kind Place and launched
 the Queenstown Mental Health Resource Card to connect residents with services
 and helplines nearby.</p>
-<h3>Colour Therapy Workshop </h3>
+<h3>Colour Therapy Workshop</h3>
 <p>The Colour Therapy Workshop is designed to help children and their parents
 reconnect through the simple yet powerful act of creating art together.
 Using colours as a medium for self-expression, the workshop encourages
@@ -52,7 +52,7 @@ and reconnect with themselves through simple, rhythmic breathing exercises.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Breathing Therapy Workshop" src="/images/Mental Health/WhatsApp_Image_2025_05_22_at_17_13_05.jpg">
 </div>
-<h3>Conclusion </h3>
+<h3>Conclusion</h3>
 <p>Mental health is just as important as physical health - and seeking support
 is a sign of strength, not weakness. Whether you're facing challenges or
 simply want to better care for your wellbeing, help is available.</p>
