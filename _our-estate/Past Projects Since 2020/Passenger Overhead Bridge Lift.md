@@ -32,7 +32,7 @@ third_nav_title: Past Projects Since 2020
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Passenger Overhead Bridge near Mei Chin Road" src="/images/Improvement works/165_Stirling_Road.png">
+<img style="width: 100%" height="auto" width="100%" alt="Passenger Overhead Bridge near Mei Chin Road" src="/images/Improvement works/Near_Mei_Chin_Road.png">
 </div>
 </div>
 <div class="isomer-card-body">
