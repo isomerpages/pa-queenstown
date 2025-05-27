@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Past Projects Since 2020
 ---
-<h2>Passenger Overhead Bridge Lifts</h2>
+<h2></h2>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
