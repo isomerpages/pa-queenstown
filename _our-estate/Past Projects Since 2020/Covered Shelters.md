@@ -60,13 +60,13 @@ third_nav_title: Past Projects Since 2020
 But without shelter from the elements, a simple trip to the bus stop, MRT,
 or neighbourhood centre can quickly become difficult — especially for seniors
 and persons with disabilities.</p>
-<p>That’s why <strong>covered linkways and shelters</strong> are such an essential
-part of an inclusive, walkable town.</p>
+<p>That’s why covered linkways and shelters are such an essential part of
+an inclusive, walkable town.</p>
 <h4>How Covered Shelters Make a Difference</h4>
 <p><strong>1. Weather Protection All Year Round</strong>
 <br>Whether it’s a heavy downpour or sweltering midday sun, covered walkways
-shield residents from the elements — making commutes and daily errands
-safer and more comfortable.</p>
+shield residents from the elements, making commutes and daily errands safer
+and more comfortable.</p>
 <p><strong>2. Supporting Seniors and Persons with Disabilities</strong>
 <br>Slippery pavements in the rain pose a real fall risk for older adults
 and those with mobility challenges. Sheltered walkways reduce that risk,
@@ -75,4 +75,4 @@ need to pause.</p>
 <p><strong>3. Making Every Step Count</strong>
 <br>Many seniors rely on walking as their main mode of transport. Covered
 paths help them move between homes, clinics, shops, and community spaces
-without worry — rain or shine.</p>
+without worry, rain or shine.</p>
