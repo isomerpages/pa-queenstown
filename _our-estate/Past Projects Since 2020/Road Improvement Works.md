@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Past Projects Since 2020
 ---
-<h2>Road Improvement Works </h2>
+<h2>Road Improvement Works</h2>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
