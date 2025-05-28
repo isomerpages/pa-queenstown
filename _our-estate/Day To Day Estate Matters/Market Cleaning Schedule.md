@@ -32,7 +32,7 @@ third_nav_title: Day To Day Estate Matters
 <p>ABC Brickworks Market &amp; Food Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10 Mar 2025 to 11 Mar 2025</p>
+<p>15 Sep 2025 to 16 Sep 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Cleaning</p>
@@ -54,7 +54,7 @@ third_nav_title: Day To Day Estate Matters
 <p>Margaret Drive Hawker Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10 Feb 2025 to 10 Feb 2025</p>
+<p>18 Aug 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Cleaning</p>
@@ -65,7 +65,7 @@ third_nav_title: Day To Day Estate Matters
 <p>Mei Ling Market &amp; Food Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17 Mar 2025 to 18 Mar 2025</p>
+<p>02 Jun 2025 to 03 Jun 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Cleaning</p>
