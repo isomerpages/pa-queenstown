@@ -61,16 +61,15 @@ shaded seating, and landscaped surroundings, these spaces encourage all
 ages to:</p>
 <ul>
 <li>
-<p><strong>Exercise regularly</strong> to stay healthy and mobile</p>
+<p>Exercise regularly to stay healthy and mobile</p>
 </li>
 <li>
-<p><strong>Meet neighbours</strong> and foster community bonds</p>
+<p>Meet neighbours and foster community bonds</p>
 </li>
 <li>
-<p><strong>Relax and recharge</strong> in a pleasant, green setting</p>
+<p>Relax and recharge in a pleasant, green setting</p>
 </li>
 </ul>
-<p>These enhancements support both physical and social well-being — right
+<p>These enhancements support both physical and social well-being, right
 at your doorstep.</p>
-<hr>
 <p></p>
