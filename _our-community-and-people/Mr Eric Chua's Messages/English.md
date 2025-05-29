@@ -21,10 +21,6 @@ family.</p>
 Queenstown a more vibrant and inclusive home, to strengthening support
 for seniors, mental health, and lower-income families, we have made good
 progress together.</p>
-<p>But there is still more to be done. I look forward to listening, learning,
-and working alongside you to improve Queenstown. Lets continue to build
-a Queenstown that is more caring, resilient, and vibrant – a best home
-where everyone belongs.</p>
 <h4><strong>Supporting Our Seniors&nbsp;</strong></h4>
 <p>3 in 10 residents in Queenstown are aged 60 and above. That’s why senior
 support is a key focus in our community. We have introduced wayfinding
@@ -86,9 +82,9 @@ are heard and addressed.&nbsp;</p>
 <h4><strong>Closing</strong></h4>
 <p>As your MP for Queenstown, I take pride in the work we’ve done together.
 But I’ve never walked alone. Being part of the Tanjong Pagar GRC family
-means I’ve been able to tap on the strength of a bigger team—pooling ideas,
-sharing resources, and pushing for initiatives that benefit us all.</p>
-<p>The journey continues—and with your support, I’ll keep fighting for a
+means I’ve been able to tap on the strength of a bigger team - pooling
+ideas, sharing resources, and pushing for initiatives that benefit us all.</p>
+<p>The journey continues and with your support, I’ll keep fighting for a
 Queenstown that’s kinder, stronger, and ready for the future. Let’s keep
 building this home together.</p>
 <p>Together, for Queenstown. Where everyone belongs.</p>
