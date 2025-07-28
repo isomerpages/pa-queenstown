@@ -35,10 +35,7 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stickers/ND_2025_Snake_Stickers.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.sigstick.com/pack/tOV28DhdYzhBmr25O2Vs"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stickers/ND_2025_Snake_Stickers.png"></a>
 </td>
 </tr>
 </tbody>
