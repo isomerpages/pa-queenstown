@@ -108,7 +108,6 @@ with ease and dignity. To date, around 60 seniors have benefitted from
 this initiative.</p>
 <p>Book your slot <a href="https://form.gov.sg/661e02bde281fab4f19d2657" rel="noopener nofollow" target="_blank">here</a>
 </p>
-<h3>Conclusion</h3>
 <p>If you or someone you know needs help, or would like to know more about
 our initiatives, please contact us at <a href="https://www.google.com/search?q=lengkee+cc&amp;oq=lengkee&amp;gs_lcrp=EgZjaHJvbWUqDAgAECMYJxiABBiKBTIMCAAQIxgnGIAEGIoFMgYIARBFGDkyCQgCEAAYChiABDIPCAMQLhgKGK8BGMcBGIAEMgcIBBAAGIAEMgcIBRAAGIAEMg0IBhAuGK8BGMcBGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEHOTg0ajFqNKgCALACAA&amp;sourceid=chrome&amp;ie=UTF-8#" rel="noopener noreferrer nofollow" target="_blank"><u>6473 5007 </u></a>(Lengkee
 CC) or <a href="tel:6474 1681" rel="noopener noreferrer nofollow" target="_blank"><u>6474 1681 </u></a>(Queenstown
