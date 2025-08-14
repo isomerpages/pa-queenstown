@@ -2,8 +2,8 @@ collections:
   our-estate:
     output: true
     order:
-      - Upgrading Projects/Upgrading Projects.md
-      - Upgrading Projects/.keep
+      - Completed & Ongoing Projects/Upgrading Projects.md
+      - Completed & Ongoing Projects/.keep
       - Information on Facilities/.keep
       - Information on Facilities/Community Club & Center (CC) and Resident
         Network (RN).md
