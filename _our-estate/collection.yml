@@ -2,6 +2,7 @@ collections:
   our-estate:
     output: true
     order:
+      - Summary of Ongoing Projects.md
       - Completed & Ongoing Projects/NRP @ Jalan Bukit Merah & Jalan Rumah
         Tinggi.md
       - Completed & Ongoing Projects/Passenger Overhead Bridge Lift.md
