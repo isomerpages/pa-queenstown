@@ -3,17 +3,12 @@ collections:
     output: true
     order:
       - Summary of Ongoing Projects.md
-      - Completed & Ongoing Projects/NRP @ Mei Ling & Queens Close.md
-      - Completed & Ongoing Projects/Jalan Bukit Merah.md
-      - Completed & Ongoing Projects/Passenger Overhead Bridge Lift.md
-      - Completed & Ongoing Projects/.keep
       - Information on Facilities/.keep
       - Information on Facilities/Community Club & Center (CC) and Resident
         Network (RN).md
       - Information on Facilities/Healthcare Facilities.md
       - Information on Facilities/Hawker Centres.md
       - Information on Facilities/Schools.md
-      - Ongoing Projects/.keep
       - Past Projects Since 2020/.keep
       - Past Projects Since 2020/Covered Shelters.md
       - Past Projects Since 2020/Fitness Corners.md
