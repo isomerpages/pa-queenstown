@@ -19,6 +19,6 @@ third_nav_title: Past Projects Since 2020
 <div class="isomer-card-description">Part of the ongoing NRP at Jalan Bukit Merah and Jalan Rumah Tinggi</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Drop-Off Porch at Block 13 </div><div class="isomer-card-description">Part of the ongoing NRP at Jalan Bukit Merah and Jalan Rumah Tinggi</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Drop-Off Porch at Block 13" src="/images/NRP/dop at 13.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Drop-Off Porch at Block 13</div><div class="isomer-card-description">Part of the ongoing NRP at Jalan Bukit Merah and Jalan Rumah Tinggi</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <p></p>
