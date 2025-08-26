@@ -89,7 +89,7 @@ Queenstown that’s kinder, stronger, and ready for the future. Let’s keep
 building this home together.</p>
 <p>Together, for Queenstown. Where everyone belongs.</p>
 <p></p>
-<p><strong>Warmest regards,&nbsp;</strong>
+<p><strong>Warmest regards,&nbsp; </strong>
 </p>
 <p><strong>Eric Chua&nbsp;(MP for Queenstown SMC)</strong>
 </p>
