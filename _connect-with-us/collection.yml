@@ -1,0 +1,8 @@
+collections:
+  connect-with-us:
+    output: true
+    order:
+      - Contact Us.md
+      - Volunteer with Us.md
+      - Communication Channels.md
+      - Stickers.md

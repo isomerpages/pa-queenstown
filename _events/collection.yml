@@ -1,0 +1,8 @@
+collections:
+  events:
+    output: true
+    order:
+      - Upcoming Events Listing.md
+      - Upcoming Courses.md
+      - Past Events/.keep
+      - Past Events/HawkerFest 2023.md

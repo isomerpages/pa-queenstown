@@ -1,0 +1,18 @@
+collections:
+  our-estate:
+    output: true
+    order:
+      - Summary of Ongoing Projects.md
+      - Information on Facilities/.keep
+      - Information on Facilities/Community Club & Center (CC) and Resident
+        Network (RN).md
+      - Information on Facilities/Healthcare Facilities.md
+      - Information on Facilities/Hawker Centres.md
+      - Information on Facilities/Schools.md
+      - Past Projects Since 2020/.keep
+      - Past Projects Since 2020/Jalan Bukit Merah.md
+      - Past Projects Since 2020/Covered Shelters.md
+      - Past Projects Since 2020/Fitness Corners.md
+      - Past Projects Since 2020/Road Improvement Works.md
+      - Day To Day Estate Matters/.keep
+      - Day To Day Estate Matters/Market Cleaning Schedule.md
