@@ -16,7 +16,8 @@ third_nav_title: Projects Since 2020
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Activity Plaza at Blocks 12,13,14</div>
-<div class="isomer-card-description">Part of the ongoing NRP at Jalan Bukit Merah and Jalan Rumah Tinggi</div>
+<div class="isomer-card-description">Part of the ongoing NRP at Blocks 12 to 14 Jalan Bukit Merah and Blocks
+35 to 40 Jalan Rumah Tinggi</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -27,7 +28,8 @@ third_nav_title: Projects Since 2020
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Covered Linkway Between Blocks 14 &amp; 7</div>
-<div class="isomer-card-description">Part of the ongoing NRP at Jalan Bukit Merah and Jalan Rumah Tinggi</div>
+<div class="isomer-card-description">Part of the ongoing NRP at Blocks 12 to 14 Jalan Bukit Merah and Blocks
+35 to 40 Jalan Rumah Tinggi</div>
 </div>
 </div>
 </div>
@@ -41,7 +43,8 @@ third_nav_title: Projects Since 2020
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Extension of High Linkway at Block 12</div>
-<div class="isomer-card-description">Part of the ongoing NRP at Jalan Bukit Merah and Jalan Rumah Tinggi</div>
+<div class="isomer-card-description">Part of the ongoing NRP at Blocks 12 to 14 Jalan Bukit Merah and Blocks
+35 to 40 Jalan Rumah Tinggi</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -52,7 +55,8 @@ third_nav_title: Projects Since 2020
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Drop-Off Porch at Block 13</div>
-<div class="isomer-card-description">Part of the ongoing NRP at Jalan Bukit Merah and Jalan Rumah Tinggi</div>
+<div class="isomer-card-description">Part of the ongoing NRP at Blocks 12 to 14 Jalan Bukit Merah and Blocks
+35 to 40 Jalan Rumah Tinggi</div>
 </div>
 </div>
 </div>
