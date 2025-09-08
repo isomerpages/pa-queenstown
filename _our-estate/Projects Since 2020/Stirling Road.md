@@ -5,6 +5,31 @@ variant: tiptap
 description: ""
 third_nav_title: Projects Since 2020
 ---
+<h2>Ongoing Projects</h2>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dog Run at Block 58 Stirling Road" src="/images/Improvement works/Dog_Run_at_58_Stirling_Road.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dog Run at Block 58 Stirling Road</div>
+<div class="isomer-card-description">Dog Run at Block 58 Stirling Road</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Therapeutic Garden at Block 166" src="/images/Improvement works/Therapeutic_Garden_at_166_Stirling.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Therapeutic Garden at Block 166</div>
+<div class="isomer-card-description">In the midst of planning for a therapeutic Garden at Block 166</div>
+</div>
+</div>
+</div>
 <h2>Completed Projects</h2>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -64,8 +89,7 @@ third_nav_title: Projects Since 2020
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Passenger Overhead Bridge near Mei Chin Road</div>
-<div class="isomer-card-description">Lift installed on a pedestrian overpass to provide barrier-free access
-for elderly commuters, people with mobility challenges, and others.</div>
+<div class="isomer-card-description">Passenger Overhead Bridge near Mei Chin Road</div>
 </div>
 </div>
 <div class="isomer-card">
