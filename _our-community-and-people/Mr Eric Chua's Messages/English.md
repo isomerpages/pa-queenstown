@@ -84,12 +84,12 @@ are heard and addressed.&nbsp;</p>
 But I’ve never walked alone. Being part of the Tanjong Pagar GRC family
 means I’ve been able to tap on the strength of a bigger team - pooling
 ideas, sharing resources, and pushing for initiatives that benefit us all.</p>
-<p>The journey continues and with your support, I’ll keep fighting for a
-Queenstown that’s kinder, stronger, and ready for the future. Let’s keep
+<p>The journey continues and with your support, I’ll keep working hard for
+a Queenstown that’s kinder, stronger, and ready for the future. Let’s keep
 building this home together.</p>
 <p>Together, for Queenstown. Where everyone belongs.</p>
 <p></p>
-<p><strong>Warmest regards,&nbsp; </strong>
+<p><strong>Warmest regards,&nbsp;</strong>
 </p>
 <p><strong>Eric Chua&nbsp;(MP for Queenstown SMC)</strong>
 </p>
