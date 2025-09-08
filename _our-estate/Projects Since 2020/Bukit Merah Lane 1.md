@@ -15,7 +15,7 @@ third_nav_title: Projects Since 2020
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Passenger Overhead Bridge Lift near Alexandra Hospital</div>
-<div class="isomer-card-description">Passenger Overhead Bridge Lift near Mei Chin Road</div>
+<div class="isomer-card-description">Passenger Overhead Bridge Lift near Alexandra Hospital</div>
 </div>
 </div>
 <div class="isomer-card">
