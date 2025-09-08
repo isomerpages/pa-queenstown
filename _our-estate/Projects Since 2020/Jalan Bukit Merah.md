@@ -60,6 +60,20 @@ third_nav_title: Projects Since 2020
 </div>
 </div>
 </div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Upgrading of Void Deck" src="/images/NRP/Void_Deck_at_12_to_14_JBM.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Upgrading of Void Deck at Blocks 12 to 14</div>
+<div class="isomer-card-description">Part of the ongoing NRP at Blocks 12 to 14 Jalan Bukit Merah and Blocks
+35 to 40 Jalan Rumah Tinggi</div>
+</div>
+</div>
+</div>
 <h2>Completed Projects</h2>
 <p></p>
 <div class="isomer-card-grid">
