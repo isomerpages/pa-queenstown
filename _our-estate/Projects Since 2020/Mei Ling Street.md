@@ -136,6 +136,32 @@ third_nav_title: Projects Since 2020
 </div>
 </div>
 </div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Precinct Signage at Block 148A" src="/images/NRP/148a precicnt signage.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Precinct Signage at Block 148A</div>
+<div class="isomer-card-description">Under the ongoing Neighbour Renewal Programme at Blocks 143, 145-151 &amp;
+148A Mei Ling Street and Blocks 19-22, 19A Queens Close</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Precinct Signage at Block 143" src="/images/NRP/Screenshot_2025_05_20_at_10_22_17_PM.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Precinct Signage at Block 143</div>
+<div class="isomer-card-description">Under the ongoing Neighbour Renewal Programme at Blocks 143, 145-151 &amp;
+148A Mei Ling Street and Blocks 19-22, 19A Queens Close</div>
+</div>
+</div>
+</div>
 <h2>Completed Projects</h2>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -171,6 +197,17 @@ third_nav_title: Projects Since 2020
 <div class="isomer-card-body">
 <div class="isomer-card-title">New Fitness Corner at Block 157</div>
 <div class="isomer-card-description">New fitness corner at Block 157 Mei Ling Street</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Wider Road Divider at Mei Ling Street" src="/images/Improvement works/Screenshot_2025_05_28_at_10_57_56_AM.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Wider Road Divider at Mei Ling Street</div>
+<div class="isomer-card-description">Wider Road Divider at Mei Ling Street</div>
 </div>
 </div>
 </div>
