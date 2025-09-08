@@ -87,11 +87,11 @@ third_nav_title: Projects Since 2020
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Community Garden at Block 22 Queens Close" src="/images/NRP/Screenshot_2025_05_20_at_11_30_50_PM.png">
+<img style="width: 100%" height="auto" width="100%" alt="Community Garden at Block 22" src="/images/NRP/Screenshot_2025_05_20_at_11_30_50_PM.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Community Garden at Block 22 Queens Close</div>
+<div class="isomer-card-title">Community Garden at Block 22</div>
 <div class="isomer-card-description">Under the ongoing Neighbour Renewal Programme at Blocks 143, 145-151 &amp;
 148A Mei Ling Street and Blocks 19-22, 19A Queens Close</div>
 </div>
