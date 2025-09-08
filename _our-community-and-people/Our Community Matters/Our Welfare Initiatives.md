@@ -55,6 +55,14 @@ need.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Low Income/WhatsApp_Image_2025_05_22_at_17_19_41__1_.jpg">
 </div>
+<h3>The Saturday Movement</h3>
+<p>Founded in 2010 at Lengkok Bahru, The Saturday Movement is a ground-up
+initiative dedicated to serving disadvantaged elderly and low-income families.</p>
+<p>They aim to provide meals, dry rations, and a listening ear to those who
+need them most.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Low Income/2025_09_08_19_43_24.jpg">
+</div>
 <h3>Project 100 = 50</h3>
 <p>Project 100 = 50 is a pop-up supermarket concept that allows low-income
 families to stretch their dollars by paying $50, each household brings
