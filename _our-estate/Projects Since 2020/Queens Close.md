@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Projects Since 2020
 ---
+<h2>Ongoing Projects</h2>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -135,4 +136,19 @@ third_nav_title: Projects Since 2020
 </div>
 </div>
 </div>
+<h2>Completed Projects</h2>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Passenger Overhead Bridge near Commonwealth Drive" src="/images/Improvement works/Near_Commonwealth_Drive.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Passenger Overhead Bridge near Commonwealth Drive</div>
+<div class="isomer-card-description">Passenger Overhead Bridge near Commonwealth Drive</div>
+</div>
+</div>
+</div>
+<p></p>
 <p></p>
