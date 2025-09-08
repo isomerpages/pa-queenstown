@@ -84,6 +84,58 @@ third_nav_title: Projects Since 2020
 </div>
 </div>
 </div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Covered Ramp and Stairs at Block 146" src="/images/NRP/146.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Covered Ramp and Stairs at Block 146</div>
+<div class="isomer-card-description">Under the ongoing Neighbour Renewal Programme at Blocks 143, 145-151 &amp;
+148A Mei Ling Street and Blocks 19-22, 19A Queens Close</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Activity Plaza between Blocks 146 &amp; 148" src="/images/NRP/activity plaza.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Activity Plaza between Blocks 146 &amp; 148</div>
+<div class="isomer-card-description">Under the ongoing Neighbour Renewal Programme at Blocks 143, 145-151 &amp;
+148A Mei Ling Street and Blocks 19-22, 19A Queens Close</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Covered Ramp and Stairs between Blocks 145 and 147" src="/images/NRP/proposed ramp and stair between blocks 145 and 147.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Covered Ramp and Stairs between Blocks 145 and 147</div>
+<div class="isomer-card-description">Under the ongoing Neighbour Renewal Programme at Blocks 143, 145-151 &amp;
+148A Mei Ling Street and Blocks 19-22, 19A Queens Close</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Covered Ramp and Stairs at Block 143" src="/images/NRP/143.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Covered Ramp and Stairs at Block 143</div>
+<div class="isomer-card-description">Under the ongoing Neighbour Renewal Programme at Blocks 143, 145-151 &amp;
+148A Mei Ling Street and Blocks 19-22, 19A Queens Close</div>
+</div>
+</div>
+</div>
 <h2>Completed Projects</h2>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -122,5 +174,4 @@ third_nav_title: Projects Since 2020
 </div>
 </div>
 </div>
-<h3></h3>
 <p></p>
