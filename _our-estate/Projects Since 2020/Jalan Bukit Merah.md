@@ -74,6 +74,33 @@ third_nav_title: Projects Since 2020
 </div>
 </div>
 </div>
+<h2>Upcoming Projects</h2>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Shelter over BFA Ramp at Block 28" src="/images/Improvement works/Shelter_over_BFA_Ramp_Block_28.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Shelter over BFA Ramp at Block 28</div>
+<div class="isomer-card-description">Currently conducting feasibility studies on the possibility of building
+a shelter over the BFA Ramp at Block 28</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Outdoor Lift and Covered Linkway at Block 1" src="/images/Improvement works/Outdoor_Lift_and_covered_walkway_at_Block_1.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Outdoor Lift and Covered Linkway at Block 1</div>
+<div class="isomer-card-description">Currently conducting feasibility studies on the possibility of building
+a Outdoor Lift and Covered Linkway at Block 1</div>
+</div>
+</div>
+</div>
 <h2>Completed Projects</h2>
 <p></p>
 <div class="isomer-card-grid">
@@ -112,6 +139,6 @@ Projects</div>
 <div class="isomer-card-title">Lift for Passenger Overhead Bridge near Alexandra Mall</div>
 <div class="isomer-card-description">Lift for Passenger Overhead Bridge near Alexandra Mall</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Traffic Light at ABC Market and Food Centre" src="/images/photo_2025_09_08_12_21_59.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Traffic Light at ABC Market and Food Centre</div><div class="isomer-card-description">Traffic Light at ABC Market and Food Centre to minimise traffic accidents from happening</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Traffic Light at ABC Market and Food Centre" src="/images/Improvement works/photo_2025_09_08_12_21_59.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Traffic Light at ABC Market and Food Centre</div><div class="isomer-card-description">Traffic Light at ABC Market and Food Centre to minimise traffic accidents from happening</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <p></p>
