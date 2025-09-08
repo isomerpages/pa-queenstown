@@ -56,4 +56,31 @@ third_nav_title: Past Projects Since 2020
 </div>
 </div>
 </div>
+<h2>Completed Projects </h2>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Lift for Passenger Overhead Bridge near Bukit Merah Secondary School" src="/images/Improvement works/Screenshot_2025_04_20_at_8_11_25_PM.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Lift for Passenger Overhead Bridge near Bukit Merah Secondary School</div>
+<div class="isomer-card-description">Lift for Passenger Overhead Bridge near Bukit Merah Secondary School</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Upgraded Fitness Corner at Eco Park" src="/images/Improvement works/Eco_Park.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Upgraded Fitness Corner at Eco Park</div>
+<div class="isomer-card-description">Upgraded Fitness Corner at Eco Park completed under Community Improvement
+Projects</div>
+</div>
+</div>
+</div>
 <p></p>
