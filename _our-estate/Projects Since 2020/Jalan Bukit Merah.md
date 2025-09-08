@@ -132,11 +132,11 @@ Projects</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Lift for Passenger Overhead Bridge near Alexandra Mall" src="/images/Improvement works/Near_Alexandra_Mall_1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="Lift for Passenger Overhead Bridge Lift near Alexandra Mall" src="/images/Improvement works/Near_Alexandra_Mall_1_.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Lift for Passenger Overhead Bridge near Alexandra Mall</div>
+<div class="isomer-card-title">Lift for Passenger Overhead Bridge Lift near Alexandra Mall</div>
 <div class="isomer-card-description">Lift for Passenger Overhead Bridge near Alexandra Mall</div>
 </div>
 </div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Traffic Light at ABC Market and Food Centre" src="/images/Improvement works/photo_2025_09_08_12_21_59.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Traffic Light at ABC Market and Food Centre</div><div class="isomer-card-description">Traffic Light at ABC Market and Food Centre to minimise traffic accidents from happening</div><div class="isomer-card-link">This is a link for your card</div></div></a>
