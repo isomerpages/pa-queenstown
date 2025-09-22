@@ -46,7 +46,6 @@ a sharp drop in footfall. Rental rebates were provided to help affected
 stallholders tide through the slowdown and continue serving the community
 without interruption. It was one of many efforts to ensure that our hawker
 culture is not only appreciated, but protected.</p>
-<h3>Conclusion</h3>
 <p>Supporting our hawkers is something we do every day, by choosing to eat
 local, by bringing others along, and by recognising the value of the stories
 behind each dish. In Queenstown, we’re proud of our food heritage and even
