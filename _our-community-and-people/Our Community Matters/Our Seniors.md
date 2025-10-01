@@ -26,7 +26,7 @@ bring services closer to residents.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Opening of Health District Satellite Office" src="/images/Seniors/photo_2025_05_21_10_43_54.jpg">
 </div>
-<p>In March 2025, we launched the Happy Village at Stirling, where a dedicated
+<p>In March 2025, we launched the Happy Village at Mei Ling, where a dedicated
 Blended Care team supports the wellbeing of our seniors - physically, emotionally,
 and socially.</p>
 <div class="isomer-image-wrapper">
