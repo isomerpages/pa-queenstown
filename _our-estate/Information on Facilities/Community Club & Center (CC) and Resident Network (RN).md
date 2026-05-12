@@ -37,7 +37,7 @@ third_nav_title: Information on Facilities
 </div>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/rc/queenstown-rumah-tinggi-zone-rn" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CC_RC/RTRN.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Queenstown Rumah Tinggi RN</div><div class="isomer-card-description">Blk 9, Jalan rumah Tinggu, #01-455, Singapore 150009 | Tel: 6474 9452</div><div class="isomer-card-link">More Info</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/rc/strathmore-avenue-rn" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CC_RC/SARN.jpg">
