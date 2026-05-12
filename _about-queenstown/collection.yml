@@ -1,5 +1,0 @@
-collections:
-  about-queenstown:
-    output: true
-    order:
-      - About Queenstown.md

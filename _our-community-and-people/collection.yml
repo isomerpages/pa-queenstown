@@ -1,0 +1,18 @@
+collections:
+  our-community-and-people:
+    output: true
+    order:
+      - About Queenstown.md
+      - Mr Eric Chua's Messages/.keep
+      - Mr Eric Chua's Messages/English.md
+      - Our History & Heritage/Discover Your Own Queenstown.md
+      - Our History & Heritage/Remembering Tanglin Halt Estate.md
+      - Our History & Heritage/.keep
+      - "Our History & Heritage/Queenstown: The First Satellite Town.md"
+      - Our Community Matters/.keep
+      - Our Community Matters/Our Seniors.md
+      - Our Community Matters/Our Welfare Initiatives.md
+      - Our Community Matters/Our Mental Health.md
+      - Our Community Matters/Our Hawkers.md
+      - Our Community Matters/Our Youth.md
+      - Our Community Matters/Our Harmony.md

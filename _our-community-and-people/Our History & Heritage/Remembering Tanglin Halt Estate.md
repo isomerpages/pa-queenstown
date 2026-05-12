@@ -1,0 +1,42 @@
+---
+title: Remembering Tanglin Halt Estate
+permalink: /goodbye-tanglin-halt/
+variant: tiptap
+description: ""
+third_nav_title: Our History & Heritage
+---
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/YWMKwK3lKUE?si=S5uUmnJN8-9C2eu9"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/History and Heritage/Screenshot_2024_11_22_at_5_27_25_PM.png"></a>
+<p><sub>Click to watch the video (Video: </sub><a href="https://www.youtube.com/watch?v=YWMKwK3lKUE" rel="noopener nofollow" target="_blank"><sub>HDB</sub></a><sub>)</sub>
+</p>
+<h4><strong>Tanglin Halt, Singapore – A Community with Deep Roots</strong></h4>
+<p>Tanglin Halt is one of Singapore’s oldest public housing estates, formerly
+located within the Queenstown planning area. Known for its rich history
+and close-knit community, it was among the first neighbourhoods developed
+by the Housing and Development Board (HDB) in the 1960s. The estate is
+recognised for its distinctive low-rise flats, nostalgic coffee shops,
+and enduring kampung spirit.</p>
+<p>Due to recent boundary redraws, <strong>Tanglin Halt no longer falls under the Queenstown constituency</strong>.
+Additionally, with the area selected under the <strong>Selective En Bloc Redevelopment Scheme (SERS)</strong>, <strong>most residents have since relocated to new flats at Margaret Drive</strong>,
+continuing their community bonds in a new environment. While the physical
+landscape of Tanglin Halt is changing, its spirit and legacy remain a cherished
+part of Singapore’s public housing heritage.</p>
+<h4>More on Tanglin Halt Estate</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="https://www.straitstimes.com/singapore/adieu-to-tanglin-halt-one-of-singapores-oldest-estates" rel="noopener nofollow" target="_blank">Adieu to Tanglin Halt, one of Singapore's oldest estates</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.straitstimes.com/singapore/let-tanglin-halt-market-move-with-us-residents" rel="noopener nofollow" target="_blank">Let Tanglin Halt market move with us: Residents</a>
+</p>
+</li>
+<li>
+<p><a href="https://cnaluxury.channelnewsasia.com/cna-insider/tanglin-halt-dawson-relocation-elderly-impact-207771" rel="noopener nofollow" target="_blank">For old folks, leaving Tanglin Halt is like losing a kampung family. Can it be replaced?</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.mewatch.sg/watch/8world-Stories-E15-Memories-of-Tanglin-Halt-A-51-year-resident-reminisces-neighbourly-love-195788" rel="noopener nofollow" target="_blank">Memories of Tanglin Halt: A 51-year resident reminisces neighbourly love</a>
+</p>
+</li>
+</ol>
+<p></p>
